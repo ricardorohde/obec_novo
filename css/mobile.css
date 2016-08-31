@@ -1,0 +1,184 @@
+/*=== MOBILE ======================================================================*/
+
+/* Idioma */
+.lang-container{
+	position: absolute;
+	right: 5px;
+	margin-top: 0px;
+	margin-right: 0px;
+	text-align: right;
+}
+.lang-icon{
+	width: 55px;
+	height: 25px;
+	font-size: 10pt;
+	line-height: 21px;
+	padding-left: 11px;
+	text-align: center;
+}
+
+
+/*=== Conteúdo das páginas =============================*/
+#pagina-inicio{
+	display: block;
+	height: 100vh;
+	min-height: 600px;	
+}
+#pagina-projetos, #pagina-acervo, #pagina-agenda{
+	height: 100vh;	
+}
+#pagina-sobre{
+	height: 1325px;
+}
+.sombra-layer, .pagina-wrap{
+	height: 100%;
+}
+.pagina-content{
+	position: relative;
+	width: 400px;
+	height: auto;
+}
+/* Laterais */
+.lateral{
+	height: 100vh;
+}
+.container-laterais{
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+}
+.pagina-content-lateral{
+	position: relative;
+	width: 400px;
+	height: auto;
+	margin: 50px auto;
+}
+.titulo-lat{
+	width: 100%;
+}
+
+/* Alinha lateral verticalmente */
+.lateral-align-vert-left{
+	height: 65vh;
+	margin-top: 75px;
+	transform: none;
+	top: 0px;
+}
+.lateral-align-vert-right{
+	height: 65vh;
+	margin-top: 75px;
+	transform: none;
+	top: 0px;
+}
+
+/* Navegação */
+.nav-x-center{
+	top: 300px;
+}
+.nav-x-left{
+	top: 180px;
+	left: 50% !important;
+}
+.nav-x-right{
+	top: 245px;
+	left: 50% !important;
+}
+
+/*==== PÁGINA INICIAL ================*/
+/* Logo + social links */
+.logo-wrap{
+	position: relative;
+	width: 100%;
+	text-align: center;
+}
+/* Logo OBEC */
+.logo{
+	width: 370px;
+	height: auto;
+	margin: auto;
+}
+
+/* Menu de navegação */
+.menu-inicio{
+	position: relative;
+	width: 100%;
+	bottom: 0px;
+	text-align: center;
+}
+.menu-opt{
+	padding-top: 30px;
+}
+.menu-opt li{
+	letter-spacing: 7px;
+	font-size: 13pt;
+	display: block;
+}
+.menu-icon{
+	display: none;
+}
+/*==== SOBRE ================*/
+/* Titulos seções */
+.titulo-home{
+	width: 100%;
+	max-width: 295px;
+	height: 32px;
+	margin-top: 35px;
+}
+.lateral-left, .lateral-right{
+	display: none;
+}
+/* Info */
+.texto-sobre{
+	padding-top: 210px;
+}
+.video-sobre{
+	padding: 20px 0px;
+	height: 265px;
+}
+/*=== PARCEIROS ==================*/
+.parceiros-content{
+	padding: 25px 0px 0px 0px;
+}
+.logo-img{
+	width: 170px;
+	padding: 10px;
+}
+/*=== EQUIPE ======================*/
+.equipe-pessoa{
+	width: 220px;
+}
+.foto-pessoa{
+	margin: auto;
+}
+.nome-pessoa, .nome-instituicao, .link-curriculo{
+	text-align: center;
+}
+
+/*=== Layout responsivo ======================*/
+/*=== min-width: 300px; ==============================*/
+@media only screen and (max-width: 479px){
+	/* conteúdo da pg */
+	.pagina-content{
+		width: 300px;
+	}
+
+	/* inicio */
+	.logo{
+		width: 300px;
+	}
+	.social-icon{
+		width: 40px;
+		height: 55px;
+		margin-left: 10px;
+	}
+	/* laterais */
+	.pagina-content-lateral{
+		width: 300px;
+	}
+
+	/* sobre */
+	#pagina-sobre{
+		height: 1450px;
+	}
+	
+}

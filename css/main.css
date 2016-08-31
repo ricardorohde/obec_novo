@@ -1,0 +1,376 @@
+/*=== Fontes ======================*/
+@font-face {
+    font-family: Lato Regular;
+    src: url('../fonts/Lato-Regular.ttf');
+}
+
+/*=== Geral ======================================================================*/
+/* Para que o scroll apareça na altura completa das telas laterais */
+.scroll-fake{
+	height: 100vh;
+	max-height: 100%;
+	position: absolute;
+	top: 0px;
+	border-left: 8px solid black;
+}
+.scroll-fake.left{
+	left: 0px;
+}
+.scroll-fake.right{
+	right: 0px;
+}
+/* scroll */
+::-webkit-scrollbar-track {
+    background-color: #000;
+    border-radius: 5px;
+}
+scrollbar-track {
+    background-color: #000;
+    border-radius: 5px;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    background: #000;
+    border-radius: 5px;
+}
+scrollbar {
+    width: 8px;
+    background: #000;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #fff;
+    border-radius: 5px;
+}
+scrollbar-thumb {
+    background: #fff;
+    border-radius: 5px;
+}
+/* link */
+.link{
+	text-decoration: none;
+	transition: .2s all ease-in-out;
+	color: white;
+}
+.link:hover, .link:active, .link.active, .link:focus{
+	text-decoration: none;
+	color: rgba(256,256,256,.5);
+}
+
+/* idioma */
+.lang-container{
+	float: right;
+	margin-top: 80vh;
+	margin-right: 2vw;
+	width: 70px;
+}
+.lang-icon{
+	width: 60px;
+	height: 30px;
+	font-family: 'Lato Regular';
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 24px;
+	letter-spacing: 12px;
+	padding-left: 12px;
+	margin: 2px 5px;
+	border: 2px solid white;
+	transition: .2s all ease-in-out;
+	display: inline-block;
+}
+.lang-icon:hover{
+	border-color: rgba(256,256,256,.5);
+}
+.lang-icon a{
+	color: white;
+}
+/* Menu de navegação */
+.menu-opt{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+.menu-opt li{
+	font-family: 'Lato Regular';
+	font-weight: bold;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 5px 1px 5px 10px;
+	text-transform: uppercase;
+}
+.menu-opt li a{
+	color: white;
+}
+.menu-icon{
+	vertical-align: top;
+	margin-right: 5px;
+	width: 10px;
+	height: 10px;
+	border-radius: 16px;
+	background-color: white;
+}
+
+/* navegação horizontal */
+.nav-x{
+	transition: 1s all ease-in-out;
+}
+.nav-x-left{
+	position: absolute;
+	transform: translateX(-50%);
+	left: 20%;
+	top: 110px;
+	z-index: 1000;
+	width: 295px;
+	text-align: center;
+}
+.nav-x-right{
+	position: absolute;
+	transform: translateX(-50%);
+	left: 80%;
+	top: 110px;
+	z-index: 1000;
+	width: 295px;
+	text-align: center;
+}
+.nav-x-center{
+	position: absolute;
+	left: 50%;
+	top: 195px;
+	transform: translateX(-50%);
+	z-index: 2000;
+}
+
+/* ícone logo */
+.logo-icon{
+	display: inline-block;
+	background-image: url('../images/icons/logo.png');
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 50px;
+	height: 50px;
+	cursor: pointer;
+}
+
+/* Links para redes sociais */
+.social-icon{
+	width: 60px;
+	height: 80px;
+	margin-left: 20px;
+	background-size: auto 100%;
+	background-position: center;
+	display: inline-block;
+	transition: 0.2s all ease-in-out;
+}
+.face-icon{
+	background-image: url('../images/icons/facebook.png');
+}
+.insta-icon{
+	background-image: url('../images/icons/instagram.png');
+}
+.twitter-icon{
+	background-image: url('../images/icons/twitter.png');
+}
+.youtube-icon{
+	background-image: url('../images/icons/youtube.png');
+}
+
+/*=== Conteúdo das páginas =============================*/
+#pagina-sobre, #pagina-projetos, #pagina-acervo, #pagina-agenda{
+	position: relative;
+	display: none;
+}
+.sombra-layer{
+	background-image: url('../images/bg_sombra.png');
+	background-size: 100% 100%;
+	background-color: rgba(0, 0, 0, 0.45);
+}
+.pagina-content{
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/* Conteúdo das pgs laterais */
+.content-lateral{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%); /* alinha verticalmente */
+	width: 100%;
+	height: 90vh;
+}
+
+/* Alinha laterais verticalmente*/
+.lateral-align-vert-left{
+	position: absolute;
+	width: 100%;
+	height: 60vh;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow-y: scroll;
+	direction: rtl;
+	margin-top: 50px;
+}
+.lateral-align-vert-right{
+	position: absolute;
+	width: 100%;
+	height: 60vh;
+	top: 50%;
+	transform: translateY(-50%);
+	overflow-y: scroll;
+	direction: ltr;
+	margin-top: 50px;
+}
+
+/* Alinha laterais horizontalmente */
+.lateral-align-horzt{
+	margin: auto;
+}
+/*==== PÁGINA INICIAL ================*/
+.inicio-wrap{
+	background-image: url('../images/bg_inicio.jpg');
+	background-size: cover;
+	background-position: center bottom; 
+	transition: .2s all ease-in-out;
+}
+
+/*=== SOBRE ==========================*/
+.sobre-wrap{
+	background-image: url('../images/bg_sobre.jpg');
+	background-size: 2700px auto;
+	background-position: center bottom; 
+}
+.sombra-lateral{
+	transition: .2s all ease-in-out;
+	background-color: rgba(0, 0, 0, 0.7);
+	background-size: 100% 100%;
+	height: 100%;
+}
+/* Titulo seções */
+.titulo-lat{
+	text-align: center;
+	padding-left: 15px;
+	display: inline-block;
+	background-color: #f1b504; 
+	color: white;
+	font-family: 'Lato Regular';
+	font-size: 13pt;
+	font-weight: bold;
+	line-height: 32px;
+	letter-spacing: 15px;
+	box-shadow: 5px 5px 10px #000;
+	transition: .2s all ease-in-out;
+	cursor: pointer;
+	z-index: 1000;
+}
+/* Info */
+.texto-sobre{
+	margin: auto;
+	width: 100%;
+	text-align: justify;
+	letter-spacing: 1px;
+	font-family: 'Lato Regular';
+	font-size: 14pt;
+	color: white;
+}
+/*=== PARCEIROS ====================*/
+.parceiros-content{
+	direction: ltr;
+	text-align: center;
+	padding: 25px 0px;
+	margin: 10px 0px;
+}
+.logo-img{
+	width: 275px;
+	display: inline-block;
+	padding: 25px;
+}
+.logo-img img{
+	vertical-align: middle;
+	max-width: 100%;
+	max-height: 175px;
+	transition: .2s all ease;
+	padding: 10px;
+}
+
+/*=== EQUIPE ===============================*/
+/* Conteúdo */
+.equipe-container{
+	direction: ltr;
+	text-align: center;
+	padding: 0px 0px 25px 0px;
+	font-family: 'Lato Regular';
+	font-size: 12pt;
+	letter-spacing: 5px;
+	color: white;
+	text-align: center;
+}
+
+/* Container com info da pessoa */
+.equipe-pessoa{
+	vertical-align: top;
+	width: 270px;
+	min-height: 300px;
+	display: inline-block;
+	margin: 25px;
+	line-height: 32px;
+}
+/* Foto */
+.foto-pessoa{
+	width: 175px;
+	height: 175px;
+	overflow: hidden;
+	margin: auto;
+}
+.foto-pessoa img{
+	width: 100%;
+}
+/* Nome */
+.nome-pessoa{
+	text-align: left;
+	margin-top: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+/* Instituição */
+.nome-instituicao{
+	font-size: 11pt;
+	text-align: left;
+	font-style: italic;
+	padding-bottom: 2px;
+	border-bottom: 2px solid white;
+	width: 100%;
+}
+/* Link para o currículo */
+.link-curriculo{
+	text-align: left;
+}
+.link-curriculo a{
+	color: white;
+	transition: .2s all ease-in-out;
+}
+.link-curriculo a:hover{
+	color: #6d6d6d;
+	text-decoration: none;
+}
+
+/*=== PROJETOS ==========================*/
+.projetos-wrap{
+	background-image: url('../images/bg_projetos.jpg');
+	background-size: cover;
+	background-position: center bottom; 
+}
+
+/*=== ACERVO ==========================*/
+.acervo-wrap{
+	background-image: url('../images/bg_acervo.jpg');
+	background-size: cover;
+	background-position: center bottom; 
+}
+
+/*=== AGENDA ==========================*/
+.agenda-wrap{
+	background-image: url('../images/bg_agenda.jpg');
+	background-size: cover;
+	background-position: center bottom; 
+}

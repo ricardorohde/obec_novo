@@ -1,0 +1,260 @@
+/*=== DESKTOP ======================================================================*/
+body{
+	overflow: hidden;
+}
+/*=== Conteúdo das páginas =============================*/
+.pagina-wrap{
+	height: 100vh;	
+}
+
+/* Cria margens no conteúdo da página*/
+.pagina-content{
+	position: absolute;
+	width: 1200px;
+	height: 90vh;
+}
+
+/* Idem - para telas laterais */
+.pagina-content-lateral{
+	position: absolute;
+	width: 100%;
+	height: 90vh;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%); /* centraliza horz e vert */
+}
+
+/* Layer com a sombra no final da pg */
+.sombra-layer{
+	height: 100vh;
+}
+
+/* setas */
+.arrow-nav{
+	display: inline-block;
+	width: 40%;
+	height: 90px;
+	background-size: 100% auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+}
+.arrow-left{
+	background-image: url('../images/icons/left.png');
+}
+.arrow-right{
+	background-image: url('../images/icons/right.png');
+}
+
+/*==== PÁGINAS LATERAIS ==============*/ /* Apenas na versão desktop */
+
+/* Engloba todas as pgs - left+cent+right */
+.container-laterais{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+/* Uma pg apenas */
+.lateral{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: inline-block;
+	transition: 1s all ease;
+}
+
+/* Alinha laterais horizontalmente */
+.lateral-align-horzt{
+	width: 850px;
+}
+/* Conteúdo da pg central */
+.content-lateral-center{
+	width: 600px;
+	display: inline-block;
+	margin: auto;
+}
+
+/* Posição das laterais */
+.lateral-left{
+	left: -100%;
+	z-index: 1000;
+	display: none;
+}
+.lateral-center{
+	left: 0%;
+}
+.lateral-right{
+	left: 100%;
+	display: none;
+}	
+
+
+/*==== PÁGINA INICIAL ================*/
+/* Logo + social links */
+.logo-wrap{
+	position: relative;
+	width: 100%;
+	top: 50%;
+	height: 470px;
+	transform: translateY(-60%);
+	text-align: center;
+}
+/* Logo OBEC */
+.logo{
+	width: 750px;
+	height: auto;
+	margin: auto;
+}
+
+/* Menu de navegação */
+.menu-inicio{
+	position: absolute;
+	width: 100%;
+	bottom: 50px;
+	text-align: center;
+}
+.menu-opt li{
+	letter-spacing: 12px;
+	font-size: 14pt;
+	line-height: 20px;
+}
+
+/*==== SOBRE ================*/
+/* Titulos seções */
+.titulo-home{
+	width: 135px;
+	height: 32px;
+	margin-top: 35px;
+}
+.titulo-parceiros{
+	width: 100%;
+	height: 32px;
+	margin-top: 45px;
+}
+.titulo-equipe{
+	width: 100%;
+	height: 32px;
+	margin-top: 45px;
+}
+/* Info */
+.texto-sobre{
+	padding-top: 110px;
+}
+.video-sobre{
+	padding: 35px 0px;
+	height: 350px;
+}
+
+
+/*=== Layout responsivo  ======================*/
+/*=== min-width: 992px; ==============================*/
+@media only screen and (max-width: 1199px){
+
+	/* Conteúdo da página */
+	.pagina-content{
+		width: 700px;
+		height: 700px;
+	}
+
+	/* Logo */
+	.logo{
+		width: 650px;
+	}
+	
+	/* Menu */
+	.menu-opt li{
+		letter-spacing: 5px;
+		font-size: 13pt;
+		padding: 5px 4px;
+	}
+
+	/* setas */
+	.nav-x-right, .nav-x-left{
+		width: 295px;
+	}
+	.arrow-nav{
+		height: 85px;
+	}
+}
+
+/*=== min-width: 768px; ==============================*/
+@media only screen and (max-width: 991px){
+
+	/* Conteúdo da página */
+	.pagina-content{
+		width: 650px;
+		height: 320px;
+	}
+
+	/* Logo */
+	.logo-wrap{
+		height: 300px;
+	}
+	.logo{
+		width: 400px;
+	}
+
+	/* Menu */
+	.menu-inicio{
+		bottom: 0px;
+	}
+
+	/* parceiros */
+	.lateral-align-horzt{
+		width: 700px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-height: 1100px){
+	
+	/* laterais */
+	.content-lateral-center{
+		width: 680px;
+	}
+	.lateral-align-vert-right, .lateral-align-vert-left{
+		margin-top: 80px;
+	}
+
+	/* sobre */
+	.texto-sobre{
+		padding-top: 120px;
+	}
+	.info-sobre{
+		vertical-align: top;
+		width: 60%;
+		display: inline-block;
+	}
+	.video-sobre{
+		vertical-align: top;
+		width: 39%;
+		height: 300px;
+		display: inline-block;
+		padding: 5px 0px 5px 20px;
+	}
+	
+}
+@media only screen and (min-width: 992px) and (max-height: 1100px){
+	.content-lateral-center{
+		width: 800px;
+	}
+}
+
+@media only screen and (min-width: 1200px) and (max-height: 1100px){
+	.content-lateral-center{
+		width: 1000px;
+	}
+
+	/* sobre */
+	.info-sobre{
+		vertical-align: top;
+		width: 48%;
+		display: inline-block;
+	}
+	.video-sobre{
+		vertical-align: top;
+		width: 48%;
+		height: 280px;
+		display: inline-block;
+		padding: 5px 20px;
+	}
+}
