@@ -30,6 +30,9 @@
 #pagina-sobre{
 	height: 1325px;
 }
+#pagina-projetos{
+	height: 1185px;
+}
 .sombra-layer, .pagina-wrap{
 	height: 100%;
 }
@@ -153,7 +156,22 @@
 .nome-pessoa, .nome-instituicao, .link-curriculo{
 	text-align: center;
 }
-
+/*=== PROJETOS ============*/
+.texto-projetos{
+	padding-top: 220px;
+	padding-bottom: 20px;
+}
+.pesquisa-container{
+	width: 65%;
+}
+.titulo-projeto{
+	font-size: 12pt;
+}
+.descricao-projeto{
+	font-size: 11pt;
+	line-height: 24px;
+	letter-spacing: 0px;
+}
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
 @media only screen and (max-width: 479px){
@@ -180,5 +198,9 @@
 	#pagina-sobre{
 		height: 1450px;
 	}
-	
+
+	/* projetos*/
+	#pagina-projetos{
+		height: 1365px;
+	}
 }

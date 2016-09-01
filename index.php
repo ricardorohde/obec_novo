@@ -50,7 +50,7 @@
 									</a>
 
 									<!-- Twitter -->
-									<a href="" class="link" target="_blank" title="Twitter">
+									<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
 										<div class="social-icon twitter-icon"></div>
 									</a>
 
@@ -236,7 +236,7 @@
 											</a>
 
 											<!-- Twitter -->
-											<a href="" class="link" target="_blank" title="Twitter">
+											<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
 												<div class="social-icon twitter-icon"></div>
 											</a>
 
@@ -663,7 +663,7 @@
 
 				<!-- Fundo da página -->
 				<div class="pagina-wrap projetos-wrap">
-					<div class="sombra-layer">
+					<div class="sombra-layer lateral-proj">
 
 						<!-- engloba todas as laterais -->
 						<div class="container-laterais">
@@ -671,7 +671,7 @@
 							<!-- *** Navegação horizontal *** -->
 							<div class="nav-x nav-x-left text-center">
 								<a class="left-button">
-									<div class="titulo-lat titulo-parceiros"> PESQUISA </div>
+									<div class="titulo-lat titulo-parceiros"> EXTENSÃO </div>
 									<div class="arrow-nav arrow-left"></div>
 								</a>
 							</div>
@@ -684,13 +684,13 @@
 
 							<div class="nav-x nav-x-right text-left">
 								<a class="right-button">
-									<div class="titulo-lat titulo-equipe"> EXTENSÃO </div>
+									<div class="titulo-lat titulo-equipe"> PESQUISA </div>
 									<div class="arrow-nav arrow-right"></div>
 								</a>
 							</div>
 
 
-							<!-- *** Centro sobre *** -->
+							<!-- *** Centro projetos *** -->
 							<div class="lateral lateral-center">
 								<div class="pagina-content-lateral text-center">
 
@@ -699,21 +699,21 @@
 							
 										<!-- Espanhol -->
 										<a href="#" class="link" title="Espanhol">
-											<div class="lang-icon">
+											<div class="lang-icon dark-icon">
 												ES
 											</div>
 										</a>
 
 										<!-- Português -->
 										<a href="#" class="link" title="Português">
-											<div class="lang-icon">
+											<div class="lang-icon dark-icon">
 												PT
 											</div>
 										</a>
 
 										<!-- Inglês -->
 										<a href="#" class="link" title="Inglês">
-											<div class="lang-icon">
+											<div class="lang-icon dark-icon">
 												EN
 											</div>
 										</a>
@@ -727,6 +727,16 @@
 											<a href="inicio" class="link">
 												<div class="titulo-lat titulo-home">HOME</div>
 											</a>
+										</div>
+
+										<!-- Info sobre a OBEC -->
+										<div class="texto-projetos">
+
+											<!-- Texto -->
+											<p class="info-projetos">
+												Ao compormos a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e polemizando o cruzamento de ideias. O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade, dialogando com a cidade e criando pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento. 
+											</p>
+
 										</div>
 
 									</div><!-- /.fim do conteúdo -->									
@@ -748,7 +758,7 @@
 											</a>
 
 											<!-- Twitter -->
-											<a href="" class="link" target="_blank" title="Twitter">
+											<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
 												<div class="social-icon twitter-icon"></div>
 											</a>
 
@@ -799,13 +809,86 @@
 							</div><!-- /.fim da pg central -->
 
 
-							<!-- *** Esquerda sobre *** -->
+							<!-- *** Esquerda projetos *** -->
 							<div class="lateral lateral-left">
 
-								<!-- Conteúdo lateral ::: PARCEIROS -->
+								<!-- Conteúdo lateral ::: EXTENSÃO -->
 								<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 									<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 										<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
+
+										<div class="pesquisa-container">
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														CONEXÕES CRIATIVAS I
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														CONEXÕES CRIATIVAS II
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														DIÁLOGOS EM ECONOMIA CRIATIVA
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+											</div>
 
 										</div>
 									</div>
@@ -814,13 +897,138 @@
 							</div><!-- /.fim da pg lateral -->
 
 
-							<!-- *** Direita sobre *** -->
+							<!-- *** Direita projetos *** -->
 							<div class="lateral lateral-right">
 
-								<!-- Conteúdo lateral ::: EQUIPE -->
+								<!-- Conteúdo lateral ::: PESQUISA -->
 								<div class="content-lateral">
 									<div class="lateral-align-vert-right">
 										<div class="lateral-align-horzt">
+
+
+											<div class="pesquisa-container">
+
+												<div class="pesquisa-content">
+													
+													<div class="titulo-projeto">
+
+														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA – CONTA SATÉLITE DE CULTURA E COMÉRCIO INTERNACIONAL DE BENS E SERVIÇOS EM ECONOMIA CRIATIVA
+
+													</div>
+
+													<div class="separador"></div>
+
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
+													</div>
+
+													<div class="separador"></div>
+
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+												<div class="pesquisa-content">
+													<div class="titulo-projeto">
+														ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
+													</div>
+
+													<div class="separador"></div>
+													
+													<div class="descricao-projeto">
+
+														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<br/>
+														<br/>
+														Vigência: 18/11/2013 a 18/09/2014
+														<br/>
+														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														</div>
+
+													</div>
+												</div>
+
+											</div>
+
 
 										</div>
 									</div>
@@ -925,7 +1133,7 @@
 											</a>
 
 											<!-- Twitter -->
-											<a href="" class="link" target="_blank" title="Twitter">
+											<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
 												<div class="social-icon twitter-icon"></div>
 											</a>
 
@@ -1102,7 +1310,7 @@
 											</a>
 
 											<!-- Twitter -->
-											<a href="" class="link" target="_blank" title="Twitter">
+											<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
 												<div class="social-icon twitter-icon"></div>
 											</a>
 

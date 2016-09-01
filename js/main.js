@@ -86,8 +86,16 @@ $( document ).ready(function() {
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
 
-		/*=== Ajusta cor do fundo ===*/
-		$('.sombra-lateral').css('background-color','rgba(132, 132, 132, 0.7)');	
+		/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
+		$('.pesquisa-content').each(function( index ) {
+
+		    var curHeight = $(this).height(),
+		   		autoHeight = $(this).css('height', 'auto').height();
+
+		   	$(this).height(curHeight).animate({height: autoHeight}, 50);
+
+		});
+		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
 
 		$('body').scrollTop(0);		
 	
@@ -131,8 +139,8 @@ $( document ).ready(function() {
 		/*=== Mostra seta ===*/
 		$('.arrow-nav').show();
 
-		/*=== Ajusta cor do fundo ===*/
-		$('.sombra-lateral').css('background-color','rgba(0, 0, 0, 0.7)');
+		/* projetos */
+		$('.lateral-proj').css('background-color', 'transparent');
 	});
 
 	/* Move a página para a direita */
@@ -176,9 +184,58 @@ $( document ).ready(function() {
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
 
-		$('body').scrollTop(0);	
+		/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
+		$('.pesquisa-content').each(function( index ) {
 
+		    var curHeight = $(this).height(),
+		   		autoHeight = $(this).css('height', 'auto').height();
+
+		   	$(this).height(curHeight).animate({height: autoHeight}, 50);
+
+		});
+		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
+
+		$('body').scrollTop(0);	
 	});
+
+
+	/* Mostra info do projeto */
+	$('.titulo-projeto').click(function(event){
+
+		/* fecha outros projetos */
+		$(this).parents('.pesquisa-content').siblings().css('height', '0px' );
+
+		/* abre a descrição */
+		$(this).siblings('.descricao-projeto').css('height','auto');
+
+		/* abre conteúdo do proj */
+		var contentProj = $(this).parents('.pesquisa-content'),
+			curHeight = contentProj.height(),
+		   	autoHeight = contentProj.css('height', 'auto').height();
+
+		contentProj.height(curHeight).animate({height: autoHeight}, 100);
+
+		/* ajusta scroll */
+		$('.lateral-align-vert-right').scrollTop(0);
+
+		
+	});	
+
+	$('.voltar-projeto').click(function(event){
+
+		/* fecha a descrição */
+		$(this).parents('.descricao-projeto').css('height','0px'); 
+
+		/* abre conteúdo do proj */
+		$('.pesquisa-content').each(function( index ) {
+
+		    var curHeight = $(this).height(),
+		   		autoHeight = $(this).css('height', 'auto').height();
+
+		   	$(this).height(curHeight).animate({height: autoHeight}, 100);
+
+		});
+	});	
 
 	/* Quando a tela é redimencionada, os valores de css voltam ao default */
 	$(window).resize(function() {
