@@ -19,6 +19,9 @@
 
 
 /*=== Conteúdo das páginas =============================*/
+.inicio-wrap, .sobre-wrap, .projetos-wrap, .acervo-wrap, .agenda-wrap{
+	background-attachment: fixed;
+}
 #pagina-inicio{
 	display: block;
 	height: 100vh;
@@ -32,6 +35,9 @@
 }
 #pagina-projetos{
 	height: 1185px;
+}
+#pagina-acervo{
+	height: 1085px;
 }
 .sombra-layer, .pagina-wrap{
 	height: 100%;
@@ -172,6 +178,17 @@
 	line-height: 24px;
 	letter-spacing: 0px;
 }
+/*=== ACERVO ============*/
+.texto-acervo{
+	padding-top: 220px;
+	padding-bottom: 20px;
+}
+.video-content{
+	width: 290px;
+	height: 160px;
+	margin: 0px auto 50px auto;
+	transition: .5s all ease;
+}
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
 @media only screen and (max-width: 479px){
@@ -202,5 +219,10 @@
 	/* projetos*/
 	#pagina-projetos{
 		height: 1365px;
+	}
+
+	/* acervo */
+	#pagina-acervo{
+		height: 1185px;
 	}
 }

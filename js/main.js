@@ -19,6 +19,7 @@ $( document ).ready(function() {
 			return false;
 		}
 
+
 		/* Para que o conteúdo da página ocupe toda a altura da tela */
 		if (pagina.outerHeight() < $(window).height()){
 			$('<div class="espacador"></div>').height($(window).height() - pagina.outerHeight()).insertAfter(pagina);
@@ -32,7 +33,8 @@ $( document ).ready(function() {
 			$(this).show();
 			if (pagina.index() > pagina_anterior.index() && index == pagina.index()) return false;
 			if (pagina.index() < pagina_anterior.index() && index == pagina_anterior.index()) return false;
-		});
+		});	
+		
 
 		/* Corre a página para esconder a anterior */
 		$('html, body').scrollTop(pagina_anterior.offset().top + past);
@@ -41,6 +43,8 @@ $( document ).ready(function() {
 			$('.espacador').remove();
 			$('html, body').scrollTop(pagina.offset().top);
 		});
+
+
 	});
 
 	/*========= Navegação lateral do site ========*/

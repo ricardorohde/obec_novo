@@ -184,6 +184,7 @@ body{
 .sombra-layer{
 	background-image: url('../images/bg_sombra.png');
 	background-size: 100% 100%;
+	position: relative;
 	/*background-color: rgba(0, 0, 0, 0.45);*/
 }
 .pagina-content{
@@ -246,6 +247,7 @@ body{
 	background-color: rgba(0, 0, 0, 0.7);
 	background-size: 100% 100%;
 	height: 100%;
+	position: relative;
 }
 /* Titulo seções */
 .titulo-lat{
@@ -432,6 +434,30 @@ body{
 	background-image: url('../images/bg_acervo.jpg');
 	background-size: cover;
 	background-position: center bottom; 
+}
+
+/* Info */
+.texto-acervo{
+	margin: auto;
+	width: 100%;
+	text-align: justify;
+	letter-spacing: 1px;
+	font-family: 'Lato Regular';
+	font-size: 14pt;
+	color: white;
+}
+.info-acervo{
+	margin: auto;
+}
+
+/* os vídeos */
+.video-container{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+}
+.video-content{
+	transition: .5s all ease;
 }
 
 /*=== AGENDA ==========================*/
