@@ -189,6 +189,39 @@
 	margin: 0px auto 50px auto;
 	transition: .5s all ease;
 }
+/* container das publicações visíveis de cada projeto*/
+.wrap-pub{
+	width: 340px;
+}
+/* container de todas as publicações - visíveis ou não */
+.container-pub{
+	min-width: 340px;
+}
+.container-pub.opened{
+	height: auto;
+}
+/* conteudo */
+.publicacao-content.opened{
+	width: 340px !important;
+}
+/* informações das publicações */
+.pub-content-text{
+	width: 305px;
+	font-size: 11pt;
+	padding-top: 25px;
+}
+.pub-titulo{
+	padding-bottom: 1px;
+	font-size: 14pt;
+}
+/* botao de voltar/download */
+.pub-button{
+	width: 145px;
+	margin: 20px 5px 20px 0px;
+	padding-left: 8px;
+	font-size: 8pt;
+	letter-spacing: 7px;
+}
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
 @media only screen and (max-width: 479px){
@@ -224,5 +257,24 @@
 	/* acervo */
 	#pagina-acervo{
 		height: 1185px;
+	}
+	.wrap-pub{
+		width: 170px;
+	}
+	.wrap-pub.opened{
+		width: 240px;
+	}
+	.publicacao-content.opened{
+		width: 240px !important;
+	}
+	.pub-content-text{
+		width: 220px;
+	}
+	.container-pub{
+		min-width: 170px;
+	}
+	.pub-button{
+		width: 220px;
+		margin: 10px 5px 0px 0px;
 	}
 }

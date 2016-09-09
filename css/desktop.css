@@ -169,7 +169,38 @@ body{
 	margin: 0px auto 50px auto;
 	transition: .5s all ease;
 }
-
+/* container das publicações visíveis de cada projeto*/
+.wrap-pub{
+	width: 680px;
+}
+/* container de todas as publicações - visíveis ou não */
+.container-pub{
+	min-width: 680px;
+}
+.container-pub.opened{
+	height: 300px;
+}
+.publicacao-content.opened{
+	width: auto !important;
+}
+/* informações das publicações */
+.pub-content-text{
+	width: 470px;
+	font-size: 13pt;
+	padding-left: 25px;
+}
+.pub-titulo{
+	padding-bottom: 15px;
+	font-size: 16pt;
+}
+/* botao de voltar/download */
+.pub-button{
+	width: 165px;
+	margin: 20px 10px 20px 0px;
+	padding-left: 8px;
+	font-size: 10pt;
+	letter-spacing: 8px;
+}
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
 @media only screen and (max-width: 1199px){
@@ -226,6 +257,31 @@ body{
 	/* parceiros */
 	.lateral-align-horzt{
 		width: 700px;
+	}
+
+	/* acervo -> publicacoes */
+	.wrap-pub{
+		width: 510px;
+	}
+	.container-pub{
+		min-width: 510px;
+	}
+	/* informações das publicações */
+	.pub-content-text{
+		width: 285px;
+		font-size: 10pt;
+	}
+	.pub-titulo{
+		padding-bottom: 10px;
+		font-size: 11pt;
+	}
+	/* botao de voltar/download */
+	.pub-button{
+		width: 122px;
+		margin: 20px 5px 0px 0px;
+		padding-left: 3px;
+		font-size: 9pt;
+		letter-spacing: 3px;
 	}
 }
 

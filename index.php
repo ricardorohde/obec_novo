@@ -697,21 +697,21 @@
 							
 										<!-- Espanhol -->
 										<a href="#" class="link" title="Espanhol">
-											<div class="lang-icon dark-icon">
+											<div class="lang-icon">
 												ES
 											</div>
 										</a>
 
 										<!-- Português -->
 										<a href="#" class="link" title="Português">
-											<div class="lang-icon dark-icon">
+											<div class="lang-icon">
 												PT
 											</div>
 										</a>
 
 										<!-- Inglês -->
 										<a href="#" class="link" title="Inglês">
-											<div class="lang-icon dark-icon">
+											<div class="lang-icon">
 												EN
 											</div>
 										</a>
@@ -810,6 +810,9 @@
 							<!-- *** Esquerda projetos *** -->
 							<div class="lateral lateral-left">
 
+								<!-- Scroll na altura completa da pg -->
+								<div class="scroll-fake left"></div>
+
 								<!-- Conteúdo lateral ::: EXTENSÃO -->
 								<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 									<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
@@ -819,58 +822,12 @@
 
 												<div class="pesquisa-content">
 													<div class="titulo-projeto">
-														CONEXÕES CRIATIVAS I
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
-														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														CONEXÕES CRIATIVAS II
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
-														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
 														DIÁLOGOS EM ECONOMIA CRIATIVA
 													</div>
 
 													<div class="separador"></div>
 													
-													<div class="descricao-projeto">
+													<div class="descricao-extensao">
 
 														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
 														<br/>
@@ -879,8 +836,13 @@
 														<br/>
 														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
 
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<div class="dialogos-link">
+															<a href="http://www.ufrgs.br/obec/dialogos/" class="link">
+																<div class="dialogos-texto">
+																	<div class="title-dialogos">Diálogos</div>
+																	<div class="subtitle-dialogos">Em Economia Criativa</div>
+																</div>
+															</a>
 														</div>
 
 													</div>
@@ -897,6 +859,9 @@
 
 							<!-- *** Direita projetos *** -->
 							<div class="lateral lateral-right">
+
+								<!-- Scroll na altura completa da pg -->
+								<div class="scroll-fake right"></div>
 
 								<!-- Conteúdo lateral ::: PESQUISA -->
 								<div class="content-lateral">
@@ -1052,7 +1017,7 @@
 
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
-							<a class="left-button">
+							<a class="left-button open-publicacoes">
 								<div class="titulo-lat titulo-parceiros"> PUBLICAÇÕES </div>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
@@ -1194,10 +1159,620 @@
 						<!-- *** Esquerda acervo *** -->
 						<div class="lateral lateral-left">
 
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake left"></div>
+
 							<!-- Conteúdo lateral ::: PUBLICAÇÕES -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
+
+										<!-- Publicações -->
+										<div class="container-proj-pub">
+
+											<!-- Move para a esquerda  -->
+											<div class="left-move">
+											</div>
+
+											<!-- Conteúdo das publicações -->
+											<div class="wrap-pub">
+
+												<!-- Container publicações -->
+												<div class="container-pub">
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub4.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub1.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub3.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub3.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub4.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub1.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub3.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+												
+												</div>
+											</div>
+
+											<!-- Move para a direita -->
+											<div class="right-move">
+											</div>
+
+										</div>
+
+										<div class="separador"></div>
+
+										<!-- Publicações -->
+										<div class="container-proj-pub">
+											
+											<!-- Move para a esquerda  -->
+											<div class="left-move">
+											</div>
+
+											<!-- Conteúdo das publicações -->
+											<div class="wrap-pub">
+
+												<!-- Container publicações -->
+												<div class="container-pub">
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub4.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub3.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub3.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+												
+												</div>
+											</div>
+
+											<!-- Move para a direita -->
+											<div class="right-move">
+											</div>
+
+										</div>
+
+										<div class="separador"></div>
+
+										<!-- Publicações -->
+										<div class="container-proj-pub">
+											
+											<!-- Move para a esquerda  -->
+											<div class="left-move">
+											</div>
+
+											<!-- Conteúdo das publicações -->
+											<div class="wrap-pub">
+
+												<!-- Container publicações -->
+												<div class="container-pub">
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub2.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+													<!-- Publicações content -->
+													<div class="publicacao-content">
+														
+														<!-- Imagem -->
+														<div class="pub-content-img">
+															<img src="images/publicacoes/pub4.jpg"/>
+														</div>
+														
+														<div class="pub-content-text">
+														
+															<div class="pub-titulo">
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+															</div>
+
+															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+															</div>
+
+															<div class="pub-button">
+																DOWNLOAD
+															</div>
+
+															<div class="pub-button voltar-pub">
+																VOLTAR
+															</div>
+
+
+														</div>
+
+													</div>
+
+												
+												</div>
+											</div>
+
+											<!-- Move para a direita -->
+											<div class="right-move">
+											</div>
+
+										</div>
+
 
 									</div>
 								</div>
@@ -1206,8 +1781,11 @@
 						</div><!-- /.fim da pg lateral -->
 
 
-						<!-- *** Direita projetos *** -->
+						<!-- *** Direita acervo *** -->
 						<div class="lateral lateral-right">
+
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake right"></div>
 
 							<!-- Conteúdo lateral ::: VÍDEOS -->
 							<div class="content-lateral">
@@ -1408,10 +1986,13 @@
 						</div><!-- /.fim da pg central -->
 
 
-						<!-- *** Esquerda sobre *** -->
+						<!-- *** Esquerda agenda *** -->
 						<div class="lateral lateral-left">
 
-							<!-- Conteúdo lateral ::: PARCEIROS -->
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake left"></div>
+
+							<!-- Conteúdo lateral ::: NOTÍCIAS -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
@@ -1423,10 +2004,13 @@
 						</div><!-- /.fim da pg lateral -->
 
 
-						<!-- *** Direita sobre *** -->
+						<!-- *** Direita agenda *** -->
 						<div class="lateral lateral-right">
 
-							<!-- Conteúdo lateral ::: EQUIPE -->
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake right"></div>
+
+							<!-- Conteúdo lateral ::: EVENTOS -->
 							<div class="content-lateral">
 								<div class="lateral-align-vert-right">
 									<div class="lateral-align-horzt">
