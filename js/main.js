@@ -368,6 +368,7 @@ $( document ).ready(function() {
 
 		/* define objetos */
 		var projeto = $(this).parents('.wrap-pub'),
+			containerPub = $(this).parents('.container-pub'),
 			publicacao = $(this).parents('.publicacao-content');
 		
 		/* verifica se publicação está aberta ou fechada */
@@ -384,13 +385,17 @@ $( document ).ready(function() {
 			/* ajusta largura e altura da publicação */
 			$(projeto).addClass('opened');
 			$(publicacao).addClass('opened');
-			$(publicacao).parents('.container-pub').addClass('opened');
+			$(containerPub).addClass('opened');
 
 			/* fecha todos as outras publicações */
 			$(publicacao).siblings('.publicacao-content').css('width','0px').css('padding','0px');
 
 			/* volta rolagem para posição inicial */
-			$(publicacao).parents('.container-pub').css('marginLeft','0px');
+			$(containerPub).css('marginLeft','0px');
+			$(projeto).siblings('.left-move').css({ 'background-image': 'none', 'cursor': 'auto'});
+			if(containerPub.width()>projeto.width()){
+				$(projeto).siblings('.right-move').removeAttr('style');
+			}
 			
 			/* setas direcionais desaparecem */			
 			$(projeto).siblings('.left-move').hide();
