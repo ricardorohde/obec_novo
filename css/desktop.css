@@ -238,7 +238,7 @@ body{
 	/* Conteúdo da página */
 	.pagina-content{
 		width: 650px;
-		height: 320px;
+		height: 100%;
 	}
 
 	/* Logo */
@@ -315,7 +315,7 @@ body{
 	/* projetos */
 	.info-projetos{
 		margin-top: 20px;
-		width: 530px;
+		width: 660px;
 	}
 	/* acervo */
 	.info-acervo{
@@ -381,5 +381,29 @@ body{
 	.info-acervo{
 		margin-top: 20px;
 		width: 530px;
+	}
+}
+@media only screen and (min-height: 720px) and (max-height: 768px){
+	.logo{
+		width: 550px;
+	}
+	.logo-wrap{
+		height: 360px;
+	}
+
+	.texto-sobre{
+		padding-top: 145px;
+		font-size: 12pt;
+	}
+	.video-sobre{
+		height: 225px;
+	}
+	.menu-inicio{
+		bottom: 5px;
+	}
+}
+@media only screen and (max-width: 992px) and (min-height: 720px){
+	.menu-capa{
+		bottom: 40px;
 	}
 }

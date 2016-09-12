@@ -5,9 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/desktop.css" media="screen and (min-width:768px) and (min-height: 768px)">
+		<link rel="stylesheet" type="text/css" href="css/desktop.css" media="screen and (min-width:768px) and (min-height: 720px)">
 		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width:767px)">
-		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-height:767px)">
+		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-height:719px)">
 		
 		<title>OBEC RS</title>
 
@@ -63,7 +63,7 @@
 						</div>
 
 						<!-- Menu de navegação 	-->
-						<div class="menu menu-inicio">
+						<div class="menu menu-inicio menu-capa">
 							<ul class="menu-opt"> 
 								
 								<!-- Sobre -->

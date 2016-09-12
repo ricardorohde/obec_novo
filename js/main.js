@@ -69,7 +69,7 @@ $( document ).ready(function() {
 		});
 
 		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>767 && alturaTela>767){
+		if (larguraTela>719 && alturaTela>719){
 			$('.nav-x').show();
 			$('.nav-x-left').css('left','50%');	
 			$('.nav-x-right').animate({ left: '100%' }, 1000, function(){
@@ -125,7 +125,7 @@ $( document ).ready(function() {
 		});
 
 		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>767 && alturaTela>767){
+		if (larguraTela>719 && alturaTela>719){
 			$('.nav-x').show();
 			$('.nav-x-left').css('left','20%');	
 			$('.nav-x-center').css('left','50%');
@@ -167,7 +167,7 @@ $( document ).ready(function() {
 		});
 
 		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>767 && alturaTela>767){
+		if (larguraTela>719 && alturaTela>719){
 			$('.nav-x').show();
 			$('.nav-x-center').css('left','10%');
 			$('.nav-x-right').css('left','50%');
