@@ -179,6 +179,20 @@ body{
 	background-image: url('../images/icons/youtube.png');
 }
 
+/* temporário */
+.agenda-div{
+	padding: 150px 0px;
+}
+.texto-agenda{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%);
+	font-size: 18pt;
+	letter-spacing: 4px;
+	color: white;
+}
+
 /*=== Conteúdo das páginas =============================*/
 #pagina-sobre, #pagina-projetos, #pagina-acervo, #pagina-agenda{
 	position: relative;

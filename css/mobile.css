@@ -25,8 +25,8 @@
 	height: 100vh;
 	min-height: 600px;	
 }
-#pagina-projetos, #pagina-acervo, #pagina-agenda{
-	height: 100vh;	
+#pagina-agenda{
+	height: 750px;	
 }
 #pagina-sobre{
 	height: 1220px;

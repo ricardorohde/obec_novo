@@ -842,7 +842,7 @@
 
 													<div class="separador"></div>
 													
-													<div class="descricao-projeto">
+													<div class="descricao-extensao">
 
 														<p>
 															Tendo em vista a demanda pelo aprofundamento de debates na área de Economia Criativa e da Cultura, o projeto “Diálogos em Economia Criativa” visa atuar na promoção de um espaço qualificado de discussão com pesquisadores nacionais e internacionais da área.
@@ -871,10 +871,6 @@
 																	<div class="subtitle-dialogos">Em Economia Criativa</div>
 																</div>
 															</a>
-														</div>
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
 														</div>
 
 													</div>
@@ -1881,27 +1877,11 @@
 					<!-- engloba todas as laterais -->
 					<div class="container-laterais">
 
-						<!-- *** Navegação horizontal *** -->
-						<div class="nav-x nav-x-left text-center">
-							<a class="left-button">
-								<div class="titulo-lat"> EVENTOS </div>
-								<div class="arrow-nav arrow-left"></div>
-							</a>
-						</div>
-
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
 								<div class="titulo-lat">AGENDA</div>
 							</a>
 						</div>
-
-						<div class="nav-x nav-x-right text-left">
-							<a class="right-button">
-								<div class="titulo-lat"> NOTÍCIAS </div>
-								<div class="arrow-nav arrow-right"></div>
-							</a>
-						</div>
-
 
 						<!-- *** Centro sobre *** -->
 						<div class="lateral lateral-center">
@@ -1915,6 +1895,13 @@
 										<a href="inicio" class="link">
 											<div class="logo-icon"></div>
 										</a>
+									</div>
+
+									<!-- Info agenda -->
+									<div class="agenda-div">
+										<div class="texto-agenda">
+											EM BREVE
+										</div>
 									</div>
 
 								</div><!-- /.fim do conteúdo -->									
