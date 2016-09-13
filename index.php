@@ -91,7 +91,7 @@
 								<li><div class="menu-icon"></div></li>
 
 								<!-- Agenda -->
-								<li><a class="link">Agenda</a></li>
+								<li><a href="agenda" class="link">Agenda</a></li>
 
 							</ul>
 						</div>
@@ -274,7 +274,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a class="link">Agenda</a>
+											<a href="agenda" class="link">Agenda</a>
 										</li>
 
 									</ul>
@@ -691,31 +691,6 @@
 							<div class="lateral lateral-center">
 								<div class="pagina-content-lateral text-center">
 
-									<!-- Barra de idiomas
-									<div class="text-center">
-							
-										
-										<a href="#" class="link" title="Espanhol">
-											<div class="lang-icon">
-												ES
-											</div>
-										</a>
-
-										
-										<a href="#" class="link" title="Português">
-											<div class="lang-icon">
-												PT
-											</div>
-										</a>
-
-										
-										<a href="#" class="link" title="Inglês">
-											<div class="lang-icon">
-												EN
-											</div>
-										</a>
-									</div> /.fim da barra de idiomas -->
-
 									<!-- Conteúdo central -->
 									<div class="content-lateral-center">
 										
@@ -795,7 +770,7 @@
 
 											<!-- Agenda -->
 											<li>
-												<a class="link">Agenda</a>
+												<a href="agenda" class="link">Agenda</a>
 											</li>
 
 										</ul>
@@ -826,7 +801,7 @@
 
 													<div class="separador"></div>
 													
-													<div class="descricao-extensao">
+													<div class="descricao-projeto">
 
 														<p>
 															Tendo em vista a demanda pelo aprofundamento de debates na área de Economia Criativa e da Cultura, o projeto “Diálogos em Economia Criativa” visa atuar na promoção de um espaço qualificado de discussão com pesquisadores nacionais e internacionais da área.
@@ -843,6 +818,11 @@
 															</ul>
 														</p>
 
+														<br/>
+														
+														<p>Início: 2016</p>
+														<p>Situação: Em andamento</p>
+
 														<div class="dialogos-link">
 															<a href="http://www.ufrgs.br/obec/dialogos/" class="link">
 																<div class="dialogos-texto">
@@ -850,6 +830,10 @@
 																	<div class="subtitle-dialogos">Em Economia Criativa</div>
 																</div>
 															</a>
+														</div>
+
+														<div class="voltar-proj">
+															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
 														</div>
 
 													</div>
@@ -890,13 +874,14 @@
 
 													<div class="descricao-projeto">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<p>
+															O projeto tem por fim a elaboração de subsídios e diretrizes no contexto da estruturação da Conta Satélite de Cultura (IBGE-MinC). Além disso, estrutura-se no campo dos fluxos internacionais de bens e serviços em Economia Criativa e na consolidação teórico-metodológica da Conta Satélite Nacional de Cultura, desenvolvida em parceria entre IBGE e Ministério da Cultura. O projeto apresenta dois objetivos, quais sejam, a consolidação teórico-metodológica da Conta Satélite Nacional e o desenvolvimento metodológico e mensuração da corrente de comércio exterior do Brasil com os países da América do Sul e do Brasil com os demais países, com recorte específico para os serviços culturais/criativos.
+														</p>
 														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
-
+														<p>Início: 2013</p>
+														<p>Situação: Em andamento</p> 
+														<p>Financiador: Secretaria de Economia Criativa do Ministério da Cultura</p>
+											
 														<div class="voltar-proj">
 															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
 														</div>
@@ -914,12 +899,15 @@
 
 													<div class="descricao-projeto">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<p>
+															Em parceria firmada entre a Secretaria da Economia Criativa do Ministério da Cultura (SEC/MinC) e a UFRGS, esse projeto tem como objetivo principal prestar assessoria e consultoria técnica para subsidiar a implementação, o acompanhamento e a avaliação das políticas dessa Secretaria. Para tanto, suas ações estão organizadas em seis macroeixos temáticos: (i) desenvolvimento metodológico para o monitoramento e sistematização das etapas do Programa Incubadoras Brasil Criativo, bem como suporte técnico à elaboração e execução das políticas de formação e de articulação e gestão no contexto do Programa; (ii) sistematização dos dados e informações geradas a partir dos estudos e pesquisas dos Observatórios de Economia Criativa Estaduais (Obeces); (iii) estudos sobre a eficiência tributária em relação à produção cultural; (iv) suporte técnico para a política de desenvolvimento territorial da SEC/MinC, incluindo o monitoramento dos 27 planos de desenvolvimento para APLs Intensivos em Cultura pactuados em parceria com o MDIC; (v) suporte técnico para a construção da política de internacionalização das ações de promoção e difusão da cultura brasileira e para a constru- ção executiva da política de formação para promoção e difusão de bens culturais; e (vi) suporte técnico na aplicação, monitoramento e aprimoramento das ações da política no contexto dos territórios de vivência do Programa CEUs das Artes.
+														</p>
+
 														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<p>Início: 2014</p>
+														<p>Situação: Em andamento</p>
+														<p>Financiador: Ministério da Cultura</p>
 
 														<div class="voltar-proj">
 															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
@@ -937,12 +925,15 @@
 													
 													<div class="descricao-projeto">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<p>
+															O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranjo produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, por meio da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI), adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local. Dessa forma, há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que a torna lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														</p>
+
 														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<p>Início: 2013</p>
+														<p>Situação: Finalizado</p>
+														<p>Financiador: Agência Gaúcha de Desenvolvimento e Promoção do Investimento</p>
 
 														<div class="voltar-proj">
 															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
@@ -953,19 +944,22 @@
 
 												<div class="pesquisa-content">
 													<div class="titulo-projeto">
-														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
+														OBSERVATÓRIO ESTADUAL DE ECONOMIA CRIATIVA
 													</div>
 
 													<div class="separador"></div>
 													
 													<div class="descricao-projeto">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<p>
+															Envolve ações de pesquisa e extensão, tendo por foco a centralização e a estruturação de canais de acesso e informações sobre o setor de economia criativa, inclusive sobre seu impacto na dinâmica social econômica do país, favorecendo, assim, debates sobre o tema e o fomento a um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede, estudiosos, especialistas, agentes governamentais e representantes do setor cultural. O Observatório articula-se para a realização de estudos e pesquisas aplicadas e a difusão de informações sobre a economia criativa, com especial ênfase na realidade de cada estado brasileiro. Tal iniciativa foi implantada, em 2013, de forma análoga, na Universidade Federal Fluminense, Universidade Federal da Bahia, Universidade de Brasília, Universidade Federal de Goiás e Universidade Federal do Amazonas.
+														</p>
+
 														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<p>Início: 2013</p> 
+														<p>Situação: Em andamento</p>
+														<p>Financiador/Parceiro: Secretaria de Economia Criativa do Ministério da Cultura</p> 
 
 														<div class="voltar-proj">
 															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
@@ -976,19 +970,22 @@
 
 												<div class="pesquisa-content">
 													<div class="titulo-projeto">
-														ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
+														PLATAFORMA DE INDICADORES SOBRE FINANCIAMENTO À CULTURA 
 													</div>
 
 													<div class="separador"></div>
 													
 													<div class="descricao-projeto">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														<p>
+															Visa a fornecer um espelho da conjuntura pública brasileira para subsidiar o controle e a avaliação das políticas culturais no Brasil. Esses indicadores conjunturais direcionarão a política ministerial, com o intuito de permitir ao governo cumprir com as suas competências constitucionais. Para o suporte do desenvolvimento do projeto, o CEGOV, por meio do seu Grupo de Trabalho Economia Criativa, Cultura e Política Públicas, vem mapeando as áreas estratégicas e os indicadores-alvo, desenvolvendo uma ficha de indicadores que possa prover o acompanhamento e suporte às políticas, posteriormente sistematizado em um sistema web. O convênio tem como objetivos (i) criar, formalizar e aplicar indicadores sobre a base de dados do fomento e incentivos à cultura do MinC; (ii) relacionar esses indicadores a dados conjunturais, que permitam embasar a tomada de decisão e a avaliação de políticas públicas; (iii) oferecer ao Ministério da Cultura subsídios para o acompanhamento da distribuição e impacto dos recursos aplicados em incentivo à cultura em escala nacional; e (iv) Oferecer massa crítica ao MinC para embasar reflexões sobre o sistema nacional.
+														</p>
+
 														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+
+														<p>Início: 2015</p> 
+														<p>Situação: Em andamento</p>
+														<p>Financiador/Parceiro: Ministério da Cultura</p> 
 
 														<div class="voltar-proj">
 															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
@@ -1048,31 +1045,6 @@
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
-								<!-- Barra de idiomas
-								<div class="text-center">
-						
-									
-									<a href="#" class="link" title="Espanhol">
-										<div class="lang-icon">
-											ES
-										</div>
-									</a>
-
-								
-									<a href="#" class="link" title="Português">
-										<div class="lang-icon">
-											PT
-										</div>
-									</a>
-
-									
-									<a href="#" class="link" title="Inglês">
-										<div class="lang-icon">
-											EN
-										</div>
-									</a>
-								</div> -- /.fim da barra de idiomas -->
-
 								<!-- Conteúdo central -->
 								<div class="content-lateral-center">
 									
@@ -1088,7 +1060,7 @@
 
 										<!-- Texto -->
 										<p class="info-acervo">
-											Ao compormos a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e polemizando o cruzamento de ideias. O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade, dialogando com a cidade e criando pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento. 
+											Aqui estão disponíveis as publicações realizadas, bem como os vídeos de eventos promovidos pela equipe do Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul.
 										</p>
 
 									</div>
@@ -1152,7 +1124,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a class="link">Agenda</a>
+											<a href="agenda" class="link">Agenda</a>
 										</li>
 
 									</ul>
@@ -1862,7 +1834,7 @@
 
 			<!-- === AGENDA === -->
 			<div id="pagina-agenda">
-					<!-- Fundo da página -->
+				<!-- Fundo da página -->
 				<div class="pagina-wrap agenda-wrap">
 
 					<!-- engloba todas as laterais -->
@@ -1878,7 +1850,7 @@
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="logo-icon"></div>
+								<div class="titulo-lat">AGENDA</div>
 							</a>
 						</div>
 
@@ -1894,39 +1866,13 @@
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
-								<!-- Barra de idiomas -->
-								<div class="text-center">
-						
-									<!-- Espanhol -->
-									<a href="#" class="link" title="Espanhol">
-										<div class="lang-icon">
-											ES
-										</div>
-									</a>
-
-									<!-- Português -->
-									<a href="#" class="link" title="Português">
-										<div class="lang-icon">
-											PT
-										</div>
-									</a>
-
-									<!-- Inglês -->
-									<a href="#" class="link" title="Inglês">
-										<div class="lang-icon">
-											EN
-										</div>
-									</a>
-
-								</div> <!-- /.fim da barra de idiomas -->
-
 								<!-- Conteúdo central -->
 								<div class="content-lateral-center">
 									
 									<!-- Volta a pg inicial -->
 									<div class="menu">
 										<a href="inicio" class="link">
-											<div class="titulo-lat titulo-home">HOME</div>
+											<div class="logo-icon"></div>
 										</a>
 									</div>
 

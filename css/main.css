@@ -270,6 +270,9 @@ body{
 	cursor: pointer;
 	z-index: 1000;	
 }
+.titulo-lat.voltar-projeto{
+	width: auto;
+}
 .sub-nav-x{
 	width: 143px;
 	z-index: 9999999;
