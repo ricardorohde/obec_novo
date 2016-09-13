@@ -47,6 +47,23 @@ body{
 }
 
 /*==== PÁGINAS LATERAIS ==============*/ /* Apenas na versão desktop */
+/* navegação horizontal */
+.nav-x.sub-nav-x{
+	left: 50%;
+	top: 100px;
+}
+.nav-x.title-nav-x{
+	top: 150px;
+}
+.nav-x-center.sub-nav-x{
+	transform: translateX(-105%);
+}
+.nav-x-right.sub-nav-x{
+	transform: translateX(5%);
+}
+.nav-x-left.sub-nav-x{
+	transform: translateX(5%);
+}
 
 /* Engloba todas as pgs - left+cent+right */
 .container-laterais{
@@ -139,7 +156,7 @@ body{
 /*=== PROJETOS ================*/
 /* Info */
 .texto-projetos{
-	padding-top: 110px;
+	padding-top: 150px;
 }
 .info-projetos{
 	width: 360px;
@@ -148,7 +165,7 @@ body{
 /*=== ACERVO ================*/
 /* Info */
 .texto-acervo{
-	padding-top: 110px;
+	padding-top: 160px;
 }
 .info-acervo{
 	width: 360px;
@@ -286,9 +303,6 @@ body{
 		margin-top: 80px;
 	}
 	.nav-x-center{
-		top: 130px;
-	}
-	.nav-x-right.sub-nav-x, .nav-x-left.sub-nav-x{
 		top: 130px;
 	}
 	.nav-x-right, .nav-x-left{

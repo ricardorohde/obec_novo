@@ -91,7 +91,7 @@
 								<li><div class="menu-icon"></div></li>
 
 								<!-- Agenda -->
-								<li><a href="agenda" class="link">Agenda</a></li>
+								<li><a class="link">Agenda</a></li>
 
 							</ul>
 						</div>
@@ -274,7 +274,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link">Agenda</a>
+											<a class="link">Agenda</a>
 										</li>
 
 									</ul>
@@ -667,7 +667,7 @@
 
 							<!-- *** Navegação horizontal *** -->
 							<div class="nav-x nav-x-left text-center">
-								<a class="left-button">
+								<a class="left-button open-projetos">
 									<div class="titulo-lat"> EXTENSÃO </div>
 									<div class="arrow-nav arrow-left"></div>
 								</a>
@@ -680,7 +680,7 @@
 							</div>
 
 							<div class="nav-x nav-x-right text-left">
-								<a class="right-button">
+								<a class="right-button open-projetos">
 									<div class="titulo-lat"> PESQUISA </div>
 									<div class="arrow-nav arrow-right"></div>
 								</a>
@@ -795,7 +795,7 @@
 
 											<!-- Agenda -->
 											<li>
-												<a href="agenda" class="link">Agenda</a>
+												<a class="link">Agenda</a>
 											</li>
 
 										</ul>
@@ -1152,7 +1152,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link">Agenda</a>
+											<a class="link">Agenda</a>
 										</li>
 
 									</ul>
@@ -1203,6 +1203,8 @@
 
 															<div class="pub-desc">
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
 															<div class="pub-button">
@@ -1230,9 +1232,12 @@
 														
 															<div class="pub-titulo">
 																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
 															</div>
 
 															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
@@ -1261,9 +1266,11 @@
 														
 															<div class="pub-titulo">
 																Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit
 															</div>
 
 															<div class="pub-desc">
+																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 

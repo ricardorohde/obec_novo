@@ -279,21 +279,6 @@ body{
 	letter-spacing: 7px;
 	padding-left: 7px;
 }
-.nav-x-center.sub-nav-x{
-	left: 50%;
-	transform: translateX(-105%);
-}
-.nav-x-right.sub-nav-x{
-	left: 54.8%;
-	top: 150px;
-	left: 50%;
-	transform: translateX(5%);
-}
-.nav-x-left.sub-nav-x{
-	left: 50%;
-	transform: translateX(5%);
-	top: 150px;
-}
 /* Info */
 .texto-sobre{
 	margin: auto;
@@ -593,6 +578,12 @@ body{
 	box-shadow: 5px 5px 10px #000;
 	transition: .2s all ease-in-out;
 	cursor: pointer;
+}
+.pub-button a{
+	color: white;
+}
+.pub-button a:hover{
+	text-decoration: none;
 }
 /* setas direcionais */
 .seta-esquerda:before {

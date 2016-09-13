@@ -183,6 +183,17 @@ $( document ).ready(function() {
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
 
+		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
+		$('body').scrollTop(0);	
+		$('.site').css('overflow','hidden');
+	});
+
+	/* */
+	/*========= Fim navegação lateral do site ========*/
+
+	/* ======== PROJETOS  ================*/
+	$('.open-projetos').click(function(event){
+
 		/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
 		$('.pesquisa-content').each(function( index ) {
 
@@ -192,14 +203,7 @@ $( document ).ready(function() {
 		   	$(this).height(curHeight).animate({height: autoHeight}, 50);
 
 		});
-		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
-
-		$('body').scrollTop(0);	
-		$('.site').css('overflow','hidden');
 	});
-
-	/* */
-	/*========= Fim navegação lateral do site ========*/
 
 	/*========= Info Projetos -> Pesquisa ========*/
 	/* Mostra info do projeto */
@@ -276,6 +280,7 @@ $( document ).ready(function() {
 			containerWidth = 0;
 
 		});
+
 	});
 
 	/* move publicações para a direita */
@@ -337,6 +342,7 @@ $( document ).ready(function() {
 	function closePub(obj){
 		
 		var projeto = $(obj).parents('.wrap-pub'),
+			containerPub = $(obj).parents('.container-pub'),
 			publicacao = $(obj).parents('.publicacao-content');
 
 		/* remove classe que redimensiona a imagem */
@@ -348,6 +354,8 @@ $( document ).ready(function() {
 		$(projeto).removeClass('opened');
 		$(publicacao).removeClass('opened');
 		$(publicacao).parents('.container-pub').removeClass('opened');
+
+		$(containerPub).height('225px');
 
 		/* abre todas as outras publicações */
 		$(publicacao).siblings('.publicacao-content').css('width','170px').css('padding','10px');
@@ -383,6 +391,16 @@ $( document ).ready(function() {
 			$(projeto).addClass('opened');
 			$(publicacao).addClass('opened');
 			$(containerPub).addClass('opened');
+
+			/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
+			$(containerPub).find('.publicacao-content.opened').each(function( index ) {
+
+			    var curHeight = $(this).height(),
+			   		autoHeight = $(this).css('height', 'auto').height();
+
+			   	$(containerPub).height(curHeight).animate({height: autoHeight}, 50);
+
+			});
 
 			/* fecha todos as outras publicações */
 			$(publicacao).siblings('.publicacao-content').css('width','0px').css('padding','0px');
