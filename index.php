@@ -142,20 +142,20 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
-								<div class="titulo-lat titulo-parceiros"> PARCEIROS </div>
+								<div class="titulo-lat"> PARCEIROS </div>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="logo-icon"></div>
+								<div class="titulo-lat"> SOBRE </div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat titulo-equipe"> EQUIPE </div>
+								<div class="titulo-lat"> EQUIPE </div>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -165,31 +165,28 @@
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
-								<!-- Barra de idiomas -->
+								<!-- Barra de idiomas 
 								<div class="text-center">
 						
-									<!-- Espanhol -->
 									<a href="#" class="link" title="Espanhol">
 										<div class="lang-icon">
 											ES
 										</div>
 									</a>
 
-									<!-- Português -->
 									<a href="#" class="link" title="Português">
 										<div class="lang-icon">
 											PT
 										</div>
 									</a>
 
-									<!-- Inglês -->
 									<a href="#" class="link" title="Inglês">
 										<div class="lang-icon">
 											EN
 										</div>
 									</a>
 
-								</div> <!-- /.fim da barra de idiomas -->
+								</div> /.fim da barra de idiomas -->
 
 								<!-- Conteúdo central -->
 								<div class="content-lateral-center">
@@ -197,7 +194,7 @@
 									<!-- Volta a pg inicial -->
 									<div class="menu">
 										<a href="inicio" class="link">
-											<div class="titulo-lat titulo-home">HOME</div>
+											<div class="logo-icon"></div>
 										</a>
 									</div>
 
@@ -292,7 +289,7 @@
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
-							<div class="scroll-fake left"></div>
+							<div class="scroll-fake right"></div>
 							
 
 							<!-- Conteúdo lateral ::: PARCEIROS -->
@@ -671,20 +668,20 @@
 							<!-- *** Navegação horizontal *** -->
 							<div class="nav-x nav-x-left text-center">
 								<a class="left-button">
-									<div class="titulo-lat titulo-parceiros"> EXTENSÃO </div>
+									<div class="titulo-lat"> EXTENSÃO </div>
 									<div class="arrow-nav arrow-left"></div>
 								</a>
 							</div>
 
 							<div class="nav-x nav-x-center text-center">
 								<a class="center-button">
-									<div class="logo-icon"></div>
+									<div class="titulo-lat">PROJETOS</div>
 								</a>
 							</div>
 
 							<div class="nav-x nav-x-right text-left">
 								<a class="right-button">
-									<div class="titulo-lat titulo-equipe"> PESQUISA </div>
+									<div class="titulo-lat"> PESQUISA </div>
 									<div class="arrow-nav arrow-right"></div>
 								</a>
 							</div>
@@ -694,30 +691,30 @@
 							<div class="lateral lateral-center">
 								<div class="pagina-content-lateral text-center">
 
-									<!-- Barra de idiomas -->
+									<!-- Barra de idiomas
 									<div class="text-center">
 							
-										<!-- Espanhol -->
+										
 										<a href="#" class="link" title="Espanhol">
 											<div class="lang-icon">
 												ES
 											</div>
 										</a>
 
-										<!-- Português -->
+										
 										<a href="#" class="link" title="Português">
 											<div class="lang-icon">
 												PT
 											</div>
 										</a>
 
-										<!-- Inglês -->
+										
 										<a href="#" class="link" title="Inglês">
 											<div class="lang-icon">
 												EN
 											</div>
 										</a>
-									</div> <!-- /.fim da barra de idiomas -->
+									</div> /.fim da barra de idiomas -->
 
 									<!-- Conteúdo central -->
 									<div class="content-lateral-center">
@@ -725,7 +722,7 @@
 										<!-- Volta a pg inicial -->
 										<div class="menu">
 											<a href="inicio" class="link">
-												<div class="titulo-lat titulo-home">HOME</div>
+												<div class="logo-icon"></div>	
 											</a>
 										</div>
 
@@ -813,7 +810,7 @@
 							<div class="lateral lateral-left">
 
 								<!-- Scroll na altura completa da pg -->
-								<div class="scroll-fake left"></div>
+								<div class="scroll-fake right"></div>
 
 								<!-- Conteúdo lateral ::: EXTENSÃO -->
 								<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
@@ -831,12 +828,20 @@
 													
 													<div class="descricao-extensao">
 
-														Descrição: O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranto produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, através da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI) adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local, pelo que há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que torna essa instituição lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
-														<br/>
-														<br/>
-														Vigência: 18/11/2013 a 18/09/2014
-														<br/>
-														Financiador: Agência Gaúcha de Promoção e Difusão do Investimento
+														<p>
+															Tendo em vista a demanda pelo aprofundamento de debates na área de Economia Criativa e da Cultura, o projeto “Diálogos em Economia Criativa” visa atuar na promoção de um espaço qualificado de discussão com pesquisadores nacionais e internacionais da área.
+
+														</p>
+
+														<p>
+															O projeto propõe-se a realizar 7 conferências ao longo do ano letivo da UFRGS, buscando discutir três eixos centrais nas discussões contemporâneas da Economia Criativa:
+
+															<ul>
+																<li>Fluxos internacionais e globalização de bens criativos;</li>
+																<li>Novas perspectivas para mercados tradicionais de cultura;</li>
+																<li>Gestão pública e privada para fomento da Economia da Cultura.</li>
+															</ul>
+														</p>
 
 														<div class="dialogos-link">
 															<a href="http://www.ufrgs.br/obec/dialogos/" class="link">
@@ -1020,20 +1025,20 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button open-publicacoes">
-								<div class="titulo-lat titulo-parceiros"> PUBLICAÇÕES </div>
+								<div class="titulo-lat"> PUBLICAÇÕES </div>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="logo-icon"></div>
+								<div class="titulo-lat">ACERVO</div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat titulo-equipe"> VÍDEOS </div>
+								<div class="titulo-lat"> VÍDEOS </div>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -1043,30 +1048,30 @@
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
-								<!-- Barra de idiomas -->
+								<!-- Barra de idiomas
 								<div class="text-center">
 						
-									<!-- Espanhol -->
+									
 									<a href="#" class="link" title="Espanhol">
 										<div class="lang-icon">
 											ES
 										</div>
 									</a>
 
-									<!-- Português -->
+								
 									<a href="#" class="link" title="Português">
 										<div class="lang-icon">
 											PT
 										</div>
 									</a>
 
-									<!-- Inglês -->
+									
 									<a href="#" class="link" title="Inglês">
 										<div class="lang-icon">
 											EN
 										</div>
 									</a>
-								</div> <!-- /.fim da barra de idiomas -->
+								</div> -- /.fim da barra de idiomas -->
 
 								<!-- Conteúdo central -->
 								<div class="content-lateral-center">
@@ -1074,7 +1079,7 @@
 									<!-- Volta a pg inicial -->
 									<div class="menu">
 										<a href="inicio" class="link">
-											<div class="titulo-lat titulo-home">HOME</div>
+											<div class="logo-icon"></div>
 										</a>
 									</div>
 
@@ -1162,7 +1167,7 @@
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
-							<div class="scroll-fake left"></div>
+							<div class="scroll-fake right"></div>
 
 							<!-- Conteúdo lateral ::: PUBLICAÇÕES -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
@@ -1859,7 +1864,7 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
-								<div class="titulo-lat titulo-parceiros"> EVENTOS </div>
+								<div class="titulo-lat"> EVENTOS </div>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
@@ -1872,7 +1877,7 @@
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat titulo-equipe"> NOTÍCIAS </div>
+								<div class="titulo-lat"> NOTÍCIAS </div>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -1992,7 +1997,7 @@
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
-							<div class="scroll-fake left"></div>
+							<div class="scroll-fake right"></div>
 
 							<!-- Conteúdo lateral ::: NOTÍCIAS -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	

@@ -69,22 +69,22 @@ $( document ).ready(function() {
 		});
 
 		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>719 && alturaTela>719){
-			$('.nav-x').show();
-			$('.nav-x-left').css('left','50%');	
-			$('.nav-x-right').animate({ left: '100%' }, 1000, function(){
-				$('.nav-x-right').hide();
-			});	
-		}else{
-			$('.nav-x').show();
-			$('.nav-x-left').css('top','50px');	
-			$('.nav-x-center').css('top','110px');
-			$('.nav-x-right').css('top','0px');
-			$('.nav-x-right').hide();
-			$('.site').css('overflow','hidden');
-		}
-		$('.nav-x-center').css('left','90%');
-		
+		$('.nav-x').show();
+
+		$('.nav-x').removeAttr('style');
+		$('.nav-x').removeClass('title-nav-x');
+		$('.nav-x').removeClass('sub-nav-x');
+		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
+
+
+		$('.nav-x-left').css('left','50%');	
+		$('.nav-x-left').addClass('title-nav-x');
+
+		$('.nav-x-center').addClass('sub-nav-x');
+		$('.nav-x-center').find('.titulo-lat').addClass('sub-titulo-lat');
+
+		$('.nav-x-right').addClass('sub-nav-x');
+		$('.nav-x-right').find('.titulo-lat').addClass('sub-titulo-lat');
 
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
@@ -100,7 +100,8 @@ $( document ).ready(function() {
 		});
 		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
 
-		$('body').scrollTop(0);		
+		$('body').scrollTop(0);	
+		$('.site').css('overflow','hidden');	
 	
 	});
 
@@ -125,22 +126,17 @@ $( document ).ready(function() {
 		});
 
 		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>719 && alturaTela>719){
-			$('.nav-x').show();
-			$('.nav-x-left').css('left','20%');	
-			$('.nav-x-center').css('left','50%');
-			$('.nav-x-right').css('left','80%');
-		}else{
-			$('.nav-x').show();
-			$('.nav-x-left').css('top','180px');	
-			$('.nav-x-center').css('top','300px');
-			$('.nav-x-center').css('left','50%');
-			$('.nav-x-right').css('top','245px');
-			$('.site').css('overflow','visible');
-		}
+		$('.nav-x-center').css('left','50%');
+		$('.nav-x-center').addClass('title-nav-x');	
+
+		$('.nav-x').removeAttr('style');
+		$('.nav-x').removeClass('title-nav-x');
+		$('.nav-x').removeClass('sub-nav-x');
+		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
 
 		/*=== Mostra seta ===*/
 		$('.arrow-nav').show();
+		$('.site').css('overflow','visible');
 
 		/* projetos */
 		$('.lateral-proj').css('background-color', 'transparent');
@@ -166,23 +162,23 @@ $( document ).ready(function() {
 			$(this).parents('.container-laterais').find('.lateral-left').hide();
 		});
 
-		/*=== Altera posição dos títulos ===*/
-		if (larguraTela>719 && alturaTela>719){
-			$('.nav-x').show();
-			$('.nav-x-center').css('left','10%');
-			$('.nav-x-right').css('left','50%');
-			$('.nav-x-left').animate({ left: '-20%' }, 150, function(){
-				$('.nav-x-left').hide();
-			});	
-		}else{
-			$('.nav-x').show();	
-			$('.nav-x-right').css('top','50px');
-			$('.nav-x-center').css('top','110px');
-			$('.nav-x-center').css('left','10%');
-			$('.nav-x-left').css('top','110px');
-			$('.nav-x-left').hide();
-			$('.site').css('overflow','hidden');
-		}					
+		/*=== Altera posição dos títulos ===*/		
+		$('.nav-x').show();
+		
+		$('.nav-x').removeAttr('style');
+		$('.nav-x').removeClass('sub-nav-x');
+		$('.nav-x').removeClass('title-nav-x');
+		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
+
+
+		$('.nav-x-right').css('left','50%');	
+		$('.nav-x-right').addClass('title-nav-x');	
+
+		$('.nav-x-center').addClass('sub-nav-x');
+		$('.nav-x-center').find('.titulo-lat').addClass('sub-titulo-lat');
+
+		$('.nav-x-left').addClass('sub-nav-x');
+		$('.nav-x-left').find('.titulo-lat').addClass('sub-titulo-lat');
 
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
@@ -199,6 +195,7 @@ $( document ).ready(function() {
 		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
 
 		$('body').scrollTop(0);	
+		$('.site').css('overflow','hidden');
 	});
 
 	/* */
@@ -416,6 +413,10 @@ $( document ).ready(function() {
 		$('.pub-content-img').each(function( index ) {
 			closePub(this);		
 		});
+
+		$('.nav-x').removeClass('sub-nav-x');
+		$('.nav-x').removeClass('title-nav-x');
+		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
 
 	});
 });
