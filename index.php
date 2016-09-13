@@ -80,7 +80,7 @@
 								</a>
 
 								<!-- Youtube -->
-								<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
+								<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
 									<div class="social-icon youtube-icon"></div>
 								</a>
 								
@@ -238,7 +238,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										
@@ -734,7 +734,7 @@
 											</a>
 
 											<!-- Youtube -->
-											<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
+											<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
 												<div class="social-icon youtube-icon"></div>
 											</a>
 											
@@ -1130,7 +1130,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										
@@ -1941,7 +1941,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										
