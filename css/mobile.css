@@ -2,11 +2,7 @@
 
 /* Idioma */
 .lang-container{
-	position: absolute;
-	right: 5px;
-	margin-top: 0px;
-	margin-right: 0px;
-	text-align: right;
+	margin-top: 10px;
 }
 .lang-icon{
 	width: 55px;
@@ -105,6 +101,18 @@
 .nav-x.sub-nav-x{
 	top: 90px;
 	width: 190px;
+}
+.nav-x-center.sub-nav-x{
+	left: 50%;
+	transform: translateX(-105%);
+}
+.nav-x-left.sub-nav-x{
+	left: 50%;
+	transform: translateX(5%);
+}
+.nav-x-right.sub-nav-x{
+	left: 50%;
+	transform: translateX(5%);
 }
 .nav-x.title-nav-x{
 	transform: translateX(-50%);

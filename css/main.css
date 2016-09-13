@@ -49,10 +49,12 @@ body{
 
 /* idioma */
 .lang-container{
-	float: right;
+	position: fixed;
+	right: 0px;
 	margin-top: 80vh;
 	margin-right: 2vw;
 	width: 70px;
+	z-index: 10000;
 }
 .lang-icon{
 	width: 60px;
