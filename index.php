@@ -731,7 +731,7 @@
 
 											<!-- Texto -->
 											<p class="info-projetos">
-												Ao compormos a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e polemizando o cruzamento de ideias. O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade, dialogando com a cidade e criando pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento. 
+												Os projetos realizados pelo Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul estão divididos em iniciativas de extensão e de pesquisa. Economia da cultura, Arranjos Produtivos Locais, Contas Nacionais de Cultura, desenvolvimento territorial, financiamento à cultura, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos no OBEC.
 											</p>
 
 										</div>
