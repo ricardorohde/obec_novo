@@ -44,7 +44,7 @@
 								</a>
 
 								<!-- Instagram -->
-								<a href="" class="link" target="_blank" title="Instagram">
+								<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
 									<div class="social-icon insta-icon"></div>
 								</a>
 
@@ -54,7 +54,7 @@
 								</a>
 
 								<!-- Youtube -->
-								<a href="" class="link" target="_blank" title="Youtube">
+								<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
 									<div class="social-icon youtube-icon"></div>
 								</a>
 								
@@ -206,7 +206,9 @@
 
 										<!-- Texto -->
 										<p class="info-sobre">
-											Ao compormos a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e polemizando o cruzamento de ideias. O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade, dialogando com a cidade e criando pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento. 
+											Ao compor a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e debatendo o cruzamento de ideias. 
+											<br/>
+											O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade,  em um amplo diálogo com a cidade e na criação de pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento.
 										</p>
 
 										<!-- Vídeo -->
@@ -230,7 +232,7 @@
 										</a>
 
 										<!-- Instagram -->
-										<a href="" class="link" target="_blank" title="Instagram">
+										<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
 											<div class="social-icon insta-icon"></div>
 										</a>
 
@@ -240,7 +242,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										
@@ -751,7 +753,7 @@
 											</a>
 
 											<!-- Instagram -->
-											<a href="" class="link" target="_blank" title="Instagram">
+											<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
 												<div class="social-icon insta-icon"></div>
 											</a>
 
@@ -761,7 +763,7 @@
 											</a>
 
 											<!-- Youtube -->
-											<a href="" class="link" target="_blank" title="Youtube">
+											<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
 												<div class="social-icon youtube-icon"></div>
 											</a>
 											
@@ -1100,7 +1102,7 @@
 										</a>
 
 										<!-- Instagram -->
-										<a href="" class="link" target="_blank" title="Instagram">
+										<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
 											<div class="social-icon insta-icon"></div>
 										</a>
 
@@ -1110,7 +1112,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										
@@ -1930,7 +1932,7 @@
 										</a>
 
 										<!-- Instagram -->
-										<a href="" class="link" target="_blank" title="Instagram">
+										<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
 											<div class="social-icon insta-icon"></div>
 										</a>
 
@@ -1940,7 +1942,7 @@
 										</a>
 
 										<!-- Youtube -->
-										<a href="" class="link" target="_blank" title="Youtube">
+										<a href="https://www.youtube.com/playlist?list=PLTowxHmkqeM-8WGkLT6cSuFo-8fG4E01H" class="link" target="_blank" title="Youtube">
 											<div class="social-icon youtube-icon"></div>
 										</a>
 										

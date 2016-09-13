@@ -208,7 +208,7 @@ body{
 	/* Conteúdo da página */
 	.pagina-content{
 		width: 700px;
-		height: 700px;
+		height: 100%;
 	}
 
 	/* Logo */
