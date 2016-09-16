@@ -1,9 +1,18 @@
 /* Jquery --> depois de carregar pg */
 $( document ).ready(function() {
+	
+	/* ao abrir a agenda */
+	function openAgenda (){
+		var pgAgenda = $('#pagina-agenda');
+		$(pgAgenda).height($(pgAgenda).find('.pagina-content-lateral').outerHeight(true));
+	}
 
 	/*========= Navegação vertical do site ========*/
 	$('.menu a').click(function(event){
 		event.preventDefault();
+
+		/* Busca largura da tela */
+		var larguraTela = $(window).width();
 
 		/* Página que está visível é a anterior */
 		var pagina_anterior = $('.container-site > div:visible');
@@ -14,35 +23,51 @@ $( document ).ready(function() {
 		/* Página a ser aberta, de acordo com o link do menu */
 		var pagina = $('#pagina-' + $(this).attr('href'));
 		
+
 		/* Se está na página que foi clicada, não precisa fazer nada */
 		if(pagina.index() == pagina_anterior.index()){
 			return false;
 		}
 
+		if(larguraTela>720){
 
-		/* Para que o conteúdo da página ocupe toda a altura da tela */
-		if (pagina.outerHeight() < $(window).height()){
-			$('<div class="espacador"></div>').height($(window).height() - pagina.outerHeight()).insertAfter(pagina);
+			/* Para que o conteúdo da página ocupe toda a altura da tela */
+			if (pagina.outerHeight() < $(window).height()){
+				$('<div class="espacador"></div>').height($(window).height() - pagina.outerHeight()).insertAfter(pagina);
+			}
+			if (pagina_anterior.outerHeight() < $(window).height()){
+				$('<div class="espacador"></div>').height($(window).height() - pagina_anterior.outerHeight()).insertAfter(pagina_anterior);
+			}
+
+			$('.pagina-content-lateral').css('overflow','hidden');
+
+			/* Para que todas as páginas sejam abertas e medida que vai para a escolhida */
+			$('.container-site > div').each(function(index, element) {
+				$(this).show();
+				if (pagina.index() > pagina_anterior.index() && index == pagina.index()) return false;
+				if (pagina.index() < pagina_anterior.index() && index == pagina_anterior.index()) return false;
+			});	
+			
+
+			/* Corre a página para esconder a anterior */
+			$('html, body').scrollTop(pagina_anterior.offset().top + past);
+			$('html, body').animate({ scrollTop: pagina.offset().top }, 1000, function() {
+				$('.container-site > div').not(pagina).hide();
+				$('.espacador').remove();
+				$('html, body').scrollTop(pagina.offset().top);
+			});
+			$('.pagina-content-lateral').css('overflow','visible');
 		}
-		if (pagina_anterior.outerHeight() < $(window).height()){
-			$('<div class="espacador"></div>').height($(window).height() - pagina_anterior.outerHeight()).insertAfter(pagina_anterior);
-		}
-
-		/* Para que todas as páginas sejam abertas e medida que vai para a escolhida */
-		$('.container-site > div').each(function(index, element) {
-			$(this).show();
-			if (pagina.index() > pagina_anterior.index() && index == pagina.index()) return false;
-			if (pagina.index() < pagina_anterior.index() && index == pagina_anterior.index()) return false;
-		});	
-		
-
-		/* Corre a página para esconder a anterior */
-		$('html, body').scrollTop(pagina_anterior.offset().top + past);
-		$('html, body').animate({ scrollTop: pagina.offset().top }, 1000, function() {
-			$('.container-site > div').not(pagina).hide();
-			$('.espacador').remove();
+		else{
+			$(pagina).show();
+			$(pagina_anterior).hide();
 			$('html, body').scrollTop(pagina.offset().top);
-		});
+
+		}
+
+		if($(this).attr('href')=='agenda'){
+			openAgenda();
+		}
 
 	});
 
@@ -90,7 +115,7 @@ $( document ).ready(function() {
 		$('.arrow-nav').hide();
 
 		/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
-		$('.pesquisa-content').each(function( index ) {
+		$('.projeto-content').each(function( index ) {
 
 		    var curHeight = $(this).height(),
 		   		autoHeight = $(this).css('height', 'auto').height();
@@ -98,7 +123,6 @@ $( document ).ready(function() {
 		   	$(this).height(curHeight).animate({height: autoHeight}, 50);
 
 		});
-		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
 
 		$('body').scrollTop(0);	
 		$('.site').css('overflow','hidden');	
@@ -137,9 +161,6 @@ $( document ).ready(function() {
 		/*=== Mostra seta ===*/
 		$('.arrow-nav').show();
 		$('.site').css('overflow','visible');
-
-		/* projetos */
-		$('.lateral-proj').css('background-color', 'transparent');
 	});
 
 	/* Move a página para a direita */
@@ -183,7 +204,6 @@ $( document ).ready(function() {
 		/*=== Esconde seta ===*/
 		$('.arrow-nav').hide();
 
-		$('.lateral-proj').css('background-color', 'rgba(0, 0, 0, 0.6)');
 		$('body').scrollTop(0);	
 		$('.site').css('overflow','hidden');
 	});
@@ -195,7 +215,7 @@ $( document ).ready(function() {
 	$('.open-projetos').click(function(event){
 
 		/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
-		$('.pesquisa-content').each(function( index ) {
+		$('.projeto-content').each(function( index ) {
 
 		    var curHeight = $(this).height(),
 		   		autoHeight = $(this).css('height', 'auto').height();
@@ -210,13 +230,13 @@ $( document ).ready(function() {
 	$('.titulo-projeto').click(function(event){
 
 		/* fecha outros projetos */
-		$(this).parents('.pesquisa-content').siblings().css('height', '0px' );
+		$(this).parents('.projeto-content').siblings().css('height', '0px' );
 
 		/* abre a descrição */
 		$(this).siblings('.descricao-projeto').css('height','auto');
 
 		/* abre conteúdo do proj */
-		var contentProj = $(this).parents('.pesquisa-content'),
+		var contentProj = $(this).parents('.projeto-content'),
 			curHeight = contentProj.height(),
 		   	autoHeight = contentProj.css('height', 'auto').height();
 
@@ -232,7 +252,7 @@ $( document ).ready(function() {
 		$(this).parents('.descricao-projeto').css('height','0px'); 
 
 		/* abre conteúdo do proj */
-		$('.pesquisa-content').each(function( index ) {
+		$('.projeto-content').each(function( index ) {
 
 		    var curHeight = $(this).height(),
 		   		autoHeight = $(this).css('height', 'auto').height();
@@ -338,7 +358,7 @@ $( document ).ready(function() {
 		}
 	});
 
-	/* abre/fecha alguma publicacao, ao clicar na imagem */
+	/* fecha alguma publicacao, ao clicar na imagem ou clicar em voltar */
 	function closePub(obj){
 		
 		var projeto = $(obj).parents('.wrap-pub'),
@@ -369,6 +389,8 @@ $( document ).ready(function() {
 		var imagemPub = $(this).parents('.pub-content-text').siblings('.pub-content-img');
 		closePub(imagemPub);
 	});
+
+	/* abre publicação ao clicar na imagem */
 	$('.pub-content-img').click(function(event){
 
 		/* define objetos */
@@ -392,7 +414,6 @@ $( document ).ready(function() {
 			$(publicacao).addClass('opened');
 			$(containerPub).addClass('opened');
 
-			/* Página de projetos */ /* Ajusta a altura dos projetos, para que as transições funcionem */
 			$(containerPub).find('.publicacao-content.opened').each(function( index ) {
 
 			    var curHeight = $(this).height(),
@@ -422,6 +443,41 @@ $( document ).ready(function() {
 		}
 	});
 	/*========= Fim Acervo -> Publicacoes ========*/
+
+
+	/*========= Agenda ========*/
+	
+
+	/* Ler mais da notícia */
+	$('.not-mais').click(function(event){
+
+		var textoNoticia = $(this).siblings('.not-text'),
+			textoCompleto = $(textoNoticia).find('.not-text-mais'),
+			textoMostrarMais = $(this).find('.closed'),
+			textoMostrarMenos = $(this).find('.opened'),
+			flagTexto = $(textoCompleto).hasClass('opened');
+
+		/* ler mais */
+		if(!flagTexto){
+			$(textoCompleto).addClass('opened');
+			$(textoMostrarMais).hide();
+			$(textoMostrarMenos).show();
+
+		    var curHeight = $(textoCompleto).height(),
+		   		autoHeight = $(textoCompleto).css('height', 'auto').height();
+
+		   	$(textoCompleto).height(curHeight).animate({height: autoHeight}, 500);
+		}
+		/* ler menos */
+		else{
+			$(textoMostrarMais).show();
+			$(textoMostrarMenos).hide();
+			$(textoCompleto).removeClass('opened');
+			$(textoCompleto).animate({height: '0px'}, 500);
+		}
+	});
+	/*========= Fim Agenda ========*/
+
 	
 
 	/* Quando a tela é redimencionada, os valores de css voltam ao default */
@@ -436,5 +492,6 @@ $( document ).ready(function() {
 		$('.nav-x').removeClass('title-nav-x');
 		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
 
+		setTimeout(openAgenda(), 10000);
 	});
 });

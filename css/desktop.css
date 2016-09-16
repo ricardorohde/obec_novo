@@ -1,6 +1,9 @@
 /*=== DESKTOP ======================================================================*/
-body{
-	overflow: hidden;
+.mobile{
+	display: none;
+}
+.desktop{
+
 }
 /*=== Conteúdo das páginas =============================*/
 .pagina-wrap{
@@ -55,6 +58,7 @@ body{
 .nav-x.title-nav-x{
 	top: 150px;
 }
+/* títulos nas pgs laterais */
 .nav-x-center.sub-nav-x{
 	transform: translateX(-105%);
 }
@@ -114,15 +118,16 @@ body{
 	width: 100%;
 	top: 50%;
 	height: 470px;
-	transform: translateY(-60%);
+	transform: translateY(-65%);
 	text-align: center;
 }
 /* Logo OBEC */
 .logo{
-	width: 750px;
+	width: 665px;
 	height: auto;
 	margin: auto;
 }
+
 
 /* Menu de navegação */
 .menu-inicio{
@@ -131,8 +136,23 @@ body{
 	bottom: 50px;
 	text-align: center;
 }
+.menu-capa{
+	position: absolute;
+	width: 100%;
+	bottom: 15px;
+	text-align: center;
+}
+.menu-agenda{
+	position: relative;
+	width: 100%;
+	padding: 50px 0px;
+	text-align: center;
+}
+.menu-logo-agenda{
+	padding-top: 50px;
+}
 .menu-opt li{
-	letter-spacing: 12px;
+	letter-spacing: 8px;
 	font-size: 14pt;
 	line-height: 20px;
 }
@@ -208,6 +228,16 @@ body{
 	font-size: 10pt;
 	letter-spacing: 8px;
 }
+/*=== AGENDA ===========*/
+.container-mural{
+	padding-top: 160px;
+	width: 590px;
+	margin: auto;
+}
+.content-mural{
+	padding-right: 25px;
+}
+
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
 @media only screen and (max-width: 1199px){
@@ -224,6 +254,9 @@ body{
 	}
 	
 	/* Menu */
+	.menu-capa{
+		bottom: 80px;
+	}
 	.menu-opt li{
 		letter-spacing: 5px;
 		font-size: 13pt;
@@ -260,6 +293,9 @@ body{
 	/* Menu */
 	.menu-inicio{
 		bottom: 0px;
+	}
+	.menu-capa{
+		bottom: 80px;
 	}
 
 	/* parceiros */
@@ -302,6 +338,8 @@ body{
 	.lateral-align-vert-right, .lateral-align-vert-left{
 		margin-top: 80px;
 	}
+
+	/* títulos das seções */
 	.nav-x-center{
 		top: 130px;
 	}
@@ -398,7 +436,8 @@ body{
 		width: 530px;
 	}
 }
-@media only screen and (min-height: 720px) and (max-height: 768px){
+
+@media only screen and (min-height: 720px) and (max-height: 768px) and (min-width: 1200px){
 	.logo{
 		width: 550px;
 	}
@@ -416,12 +455,60 @@ body{
 	.menu-inicio{
 		bottom: 5px;
 	}
+	.menu-capa{
+		bottom: 0px;
+	}
 }
-@media only screen and (max-width: 992px) and (min-height: 720px){
+@media only screen and (max-width: 992px) and (min-height: 720px) and (max-height: 768px){
 	.menu-capa{
 		bottom: 40px;
 	}
 }
-@media only screen and (max-height: 780px){
 
+@media only screen and (min-height: 900px) and (max-height: 1100px) and (max-width: 1199px){
+	.texto-sobre{
+		padding-top: 155px;
+	}
+	.info-sobre{
+		display: block;
+		margin: auto;
+		font-size: 13pt;
+		width: 600px;
+	}
+	.video-sobre{
+		display: block;
+		margin: auto;
+		width: 600px;
+		height: 260px;
+		padding: 20px 0px;
+	}
+	.menu-inicio{
+		bottom: 0px;
+	}
+	.menu-capa{
+		bottom: 80px;
+	}
+}
+
+
+/* agenda altura */
+@media only screen and (min-height: 720px) and (max-height: 799px){
+	.content-mural{
+		height: 280px;
+	}
+}
+@media only screen and (min-height: 800px) and (max-height: 899px){
+	.content-mural{
+		height: 315px;
+	}
+}
+@media only screen and (min-height: 900px) and (max-height: 999px){
+	.content-mural{
+		height: 435px;
+	}
+}
+@media only screen and (min-height: 1000px) and (max-height: 1099px){
+	.content-mural{
+		height: 530px;
+	}
 }

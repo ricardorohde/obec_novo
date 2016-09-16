@@ -18,6 +18,7 @@
 	</head>
 
 	<body class="site">
+
 		<!-- Idioma do site -->
 		<div class="lang-container">
 			
@@ -98,7 +99,7 @@
 								</li>
 								
 								<!-- ícone -->
-								<li><div class="menu-icon"/></li>
+								<li><div class="menu-icon"></div></li>
 								
 								<!-- Projetos -->
 								<li>
@@ -120,6 +121,22 @@
 								<li><a href="agenda" class="link">Agenda</a></li>
 
 							</ul>
+
+							<div class="contato-info desktop">
+								UFRGS | Faculdade de Ciências Econômicas, Anexo - Campus Centro
+								<br/>
+								Av. João Pessoa, 52 - Porto Alegre - RS, Brasil
+								<br/>
+								Telefone: +55 51 3308-4718
+							</div>
+
+							<div class="contato-info mobile">
+								UFRGS | Faculdade de Ciências Econômicas, Anexo
+								<br/>
+								Campus Centro, Av. João Pessoa, 52 - Porto Alegre - RS, Brasil
+								<br/>
+								Telefone: +55 51 3308-4718
+							</div>
 						</div>
 
 					</div>
@@ -134,7 +151,6 @@
 				<!-- Fundo da página -->
 				<div class="pagina-wrap sobre-wrap" id="sobre-wrap">
 					
-
 					<!-- engloba todas as laterais -->
 					<div class="container-laterais">
 
@@ -159,33 +175,9 @@
 							</a>
 						</div>
 
-
-						<!-- *** Centro sobre *** -->
+						<!-- centro SOBRE -->
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
-
-								<!-- Barra de idiomas 
-								<div class="text-center">
-						
-									<a href="#" class="link" title="Espanhol">
-										<div class="lang-icon">
-											ES
-										</div>
-									</a>
-
-									<a href="#" class="link" title="Português">
-										<div class="lang-icon">
-											PT
-										</div>
-									</a>
-
-									<a href="#" class="link" title="Inglês">
-										<div class="lang-icon">
-											EN
-										</div>
-									</a>
-
-								</div> /.fim da barra de idiomas -->
 
 								<!-- Conteúdo central -->
 								<div class="content-lateral-center">
@@ -209,7 +201,7 @@
 
 										<!-- Vídeo -->
 										<div class="video-sobre">
-											<iframe width="100%" height="100%" src="https://www.youtube.com/embed/MQZCKGlzNdI?showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+											<iframe width="100%" height="100%" src="https://www.youtube.com/embed/EG8u6rMgrx4" frameborder="0" allowfullscreen=""></iframe>
 										</div>
 
 									</div>
@@ -253,7 +245,7 @@
 										</li>
 										
 										<!-- ícone -->
-										<li><div class="menu-icon"/></li>
+										<li><div class="menu-icon"></div></li>
 										
 										<!-- Projetos -->
 										<li>
@@ -284,14 +276,14 @@
 						</div><!-- /.fim da pg central -->
 
 
-						<!-- *** Esquerda sobre *** -->
+						<!-- *** esquerda PARCEIROS *** -->
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 							
 
-							<!-- Conteúdo lateral ::: PARCEIROS -->
+							<!-- Conteúdo lateral -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
@@ -516,14 +508,14 @@
 						</div><!-- /.fim da pg lateral -->
 
 
-						<!-- *** Direita sobre *** -->
+						<!-- *** direita EQUIPE *** -->
 						<div class="lateral lateral-right">
 								
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 							
 
-							<!-- Conteúdo lateral ::: EQUIPE -->
+							<!-- Conteúdo lateral -->
 							<div class="content-lateral">
 								<div class="lateral-align-vert-right">
 									<div class="lateral-align-horzt">
@@ -659,388 +651,389 @@
 
 				<!-- Fundo da página -->
 				<div class="pagina-wrap projetos-wrap">
-					<div class="lateral-proj">
 
-						<!-- engloba todas as laterais -->
-						<div class="container-laterais">
-
-							<!-- *** Navegação horizontal *** -->
-							<div class="nav-x nav-x-left text-center">
-								<a class="left-button open-projetos">
-									<div class="titulo-lat"> EXTENSÃO </div>
-									<div class="arrow-nav arrow-left"></div>
-								</a>
-							</div>
-
-							<div class="nav-x nav-x-center text-center">
-								<a class="center-button">
-									<div class="titulo-lat">PROJETOS</div>
-								</a>
-							</div>
-
-							<div class="nav-x nav-x-right text-left">
-								<a class="right-button open-projetos">
-									<div class="titulo-lat"> PESQUISA </div>
-									<div class="arrow-nav arrow-right"></div>
-								</a>
-							</div>
-
-
-							<!-- *** Centro projetos *** -->
-							<div class="lateral lateral-center">
-								<div class="pagina-content-lateral text-center">
-
-									<!-- Conteúdo central -->
-									<div class="content-lateral-center">
-										
-										<!-- Volta a pg inicial -->
-										<div class="menu">
-											<a href="inicio" class="link">
-												<div class="logo-icon"></div>	
-											</a>
-										</div>
-
-										<!-- Info sobre a OBEC -->
-										<div class="texto-projetos">
-
-											<!-- Texto -->
-											<p class="info-projetos">
-												Os projetos realizados pelo Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul estão divididos em iniciativas de extensão e de pesquisa. Economia da cultura, Arranjos Produtivos Locais, Contas Nacionais de Cultura, desenvolvimento territorial, financiamento à cultura, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos no OBEC.
-											</p>
-
-										</div>
-
-									</div><!-- /.fim do conteúdo -->									
-
-									<!-- Menu para navegação -->
-									<div class="menu-inicio">
-
-										<!-- Links para as redes sociais -->
-										<div class="social-links">
-										
-											<!-- Facebook -->
-											<a href="https://www.facebook.com/obec.rs/" class="link" target="_blank" title="Facebook">
-												<div class="social-icon face-icon"></div>
-											</a>
-
-											<!-- Instagram -->
-											<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
-												<div class="social-icon insta-icon"></div>
-											</a>
-
-											<!-- Twitter -->
-											<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
-												<div class="social-icon twitter-icon"></div>
-											</a>
-
-											<!-- Youtube -->
-											<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
-												<div class="social-icon youtube-icon"></div>
-											</a>
-											
-										</div>
-
-										<!-- Páginas -->
-										<ul class="menu menu-opt"> 
-
-											<!-- Sobre -->
-											<li>
-												<a href="sobre" class="link">Sobre</a>
-											</li>
-											
-											<!-- ícone -->
-											<li><div class="menu-icon"/></li>
-											
-											<!-- Projetos -->
-											<li>
-												<a href="projetos" class="link active">Projetos</a>
-											</li>
-
-											<!-- ícone -->
-											<li><div class="menu-icon"></div></li>
-
-											<!-- Acervo -->
-											<li>
-												<a href="acervo" class="link">Acervo</a>
-											</li>
-
-											<!-- ícone -->
-											<li><div class="menu-icon"></div></li>
-
-											<!-- Agenda -->
-											<li>
-												<a href="agenda" class="link">Agenda</a>
-											</li>
-
-										</ul>
-
-									</div> <!-- /.fim do menu -->
-
-								</div>
-							</div><!-- /.fim da pg central -->
-
-
-							<!-- *** Esquerda projetos *** -->
-							<div class="lateral lateral-left">
-
-								<!-- Scroll na altura completa da pg -->
-								<div class="scroll-fake right"></div>
-
-								<!-- Conteúdo lateral ::: EXTENSÃO -->
-								<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
-									<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
-										<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
-
-										<div class="pesquisa-container">
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														CONEXÕES CRIATIVAS I
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														<p>
-															No ano de 2014, com o intuito de qualificar o debate sobre Economia Criativa a nível local e contribuir para a formação de estudantes e gestores da área, o Observatório de Economia Criativa da UFRGS realizou um curso de extensão sobre o tema. Por meio da explanação de conceitos teóricos, aliados a uma série de debates e apresentações de casos concretos, mostrou-se a importância que a Economia Criativa, bem como a Economia da Cultura, possui para o desenvolvimento da nossa sociedade. O evento, resultado do projeto de extensão, está inserido no aumento do debate acadêmico sobre o tema no Brasil, da mesma maneira que na construção de políticas públicas e da área.
-
-														</p>
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														CONEXÕES CRIATIVAS II
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														<p>
-															Entre os dias 16 e 19 de novembro de 2015 ocorreu o seminário Conexões Criativas 2, resultado de projeto de extensão sobre a área de Economia Criativa e Cultura. Um dos focos do evento foi o destaque da Economia Criativa em meio a um mercado em que prepondera a homogeneização de bens e serviços e a percepção da criatividade como força propulsora para diferenciação de produtos. No Brasil, percebe-se, nos últimos anos, um aumento no debate acadêmico, bem como a construção de políticas públicas e formação na área. Assim, o espaço proposto para reflexões sobre essa temática durante o evento contou com um importante intercâmbio de conhecimento entre a UFRGS e a Universidade de Valência, com a realização, ainda, de um workshop para o aprendizado de métricas para mensuração do setor criativo, voltado para os pesquisadores e atuantes no tema.
-
-														</p>
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														DIÁLOGOS EM ECONOMIA CRIATIVA
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-extensao">
-
-														<p>
-															Tendo em vista a demanda pelo aprofundamento de debates na área de Economia Criativa e da Cultura, o projeto “Diálogos em Economia Criativa” visa atuar na promoção de um espaço qualificado de discussão com pesquisadores nacionais e internacionais da área.
-
-														</p>
-
-														<p>
-															O projeto propõe-se a realizar 7 conferências ao longo do ano letivo da UFRGS, buscando discutir três eixos centrais nas discussões contemporâneas da Economia Criativa:
-
-															<ul>
-																<li>Fluxos internacionais e globalização de bens criativos;</li>
-																<li>Novas perspectivas para mercados tradicionais de cultura;</li>
-																<li>Gestão pública e privada para fomento da Economia da Cultura.</li>
-															</ul>
-														</p>
-
-														<br/>
-														
-														<p>Início: 2016</p>
-														<p>Situação: Em andamento</p>
-
-														<div class="dialogos-link">
-															<a href="http://www.ufrgs.br/obec/dialogos/" class="link">
-																<div class="dialogos-texto">
-																	<div class="title-dialogos">Diálogos</div>
-																	<div class="subtitle-dialogos">Em Economia Criativa</div>
-																</div>
-															</a>
-														</div>
-
-													</div>
-												</div>
-
-											</div>
-
-										</div>
-									</div>
-								</div><!-- /.fim do conteúdo da lateral -->
-
-							</div><!-- /.fim da pg lateral -->
-
-
-							<!-- *** Direita projetos *** -->
-							<div class="lateral lateral-right">
-
-								<!-- Scroll na altura completa da pg -->
-								<div class="scroll-fake right"></div>
-
-								<!-- Conteúdo lateral ::: PESQUISA -->
-								<div class="content-lateral">
-									<div class="lateral-align-vert-right">
-										<div class="lateral-align-horzt">
-
-
-											<div class="pesquisa-container">
-
-												<div class="pesquisa-content">
-													
-													<div class="titulo-projeto">
-
-														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA – CONTA SATÉLITE DE CULTURA E COMÉRCIO INTERNACIONAL DE BENS E SERVIÇOS EM ECONOMIA CRIATIVA
-
-													</div>
-
-													<div class="separador"></div>
-
-													<div class="descricao-projeto">
-
-														<p>
-															O projeto tem por fim a elaboração de subsídios e diretrizes no contexto da estruturação da Conta Satélite de Cultura (IBGE-MinC). Além disso, estrutura-se no campo dos fluxos internacionais de bens e serviços em Economia Criativa e na consolidação teórico-metodológica da Conta Satélite Nacional de Cultura, desenvolvida em parceria entre IBGE e Ministério da Cultura. O projeto apresenta dois objetivos, quais sejam, a consolidação teórico-metodológica da Conta Satélite Nacional e o desenvolvimento metodológico e mensuração da corrente de comércio exterior do Brasil com os países da América do Sul e do Brasil com os demais países, com recorte específico para os serviços culturais/criativos.
-														</p>
-														<br/>
-														<p>Início: 2013</p>
-														<p>Situação: Em andamento</p> 
-														<p>Financiador: Secretaria de Economia Criativa do Ministério da Cultura</p>
-											
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
-													</div>
-
-													<div class="separador"></div>
-
-													<div class="descricao-projeto">
-
-														<p>
-															Em parceria firmada entre a Secretaria da Economia Criativa do Ministério da Cultura (SEC/MinC) e a UFRGS, esse projeto tem como objetivo principal prestar assessoria e consultoria técnica para subsidiar a implementação, o acompanhamento e a avaliação das políticas dessa Secretaria. Para tanto, suas ações estão organizadas em seis macroeixos temáticos: (i) desenvolvimento metodológico para o monitoramento e sistematização das etapas do Programa Incubadoras Brasil Criativo, bem como suporte técnico à elaboração e execução das políticas de formação e de articulação e gestão no contexto do Programa; (ii) sistematização dos dados e informações geradas a partir dos estudos e pesquisas dos Observatórios de Economia Criativa Estaduais (Obeces); (iii) estudos sobre a eficiência tributária em relação à produção cultural; (iv) suporte técnico para a política de desenvolvimento territorial da SEC/MinC, incluindo o monitoramento dos 27 planos de desenvolvimento para APLs Intensivos em Cultura pactuados em parceria com o MDIC; (v) suporte técnico para a construção da política de internacionalização das ações de promoção e difusão da cultura brasileira e para a constru- ção executiva da política de formação para promoção e difusão de bens culturais; e (vi) suporte técnico na aplicação, monitoramento e aprimoramento das ações da política no contexto dos territórios de vivência do Programa CEUs das Artes.
-														</p>
-
-														<br/>
-
-														<p>Início: 2014</p>
-														<p>Situação: Em andamento</p>
-														<p>Financiador: Ministério da Cultura</p>
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														<p>
-															O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranjo produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, por meio da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI), adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local. Dessa forma, há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que a torna lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
-														</p>
-
-														<br/>
-
-														<p>Início: 2013</p>
-														<p>Situação: Finalizado</p>
-														<p>Financiador: Agência Gaúcha de Desenvolvimento e Promoção do Investimento</p>
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														OBSERVATÓRIO ESTADUAL DE ECONOMIA CRIATIVA
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														<p>
-															Envolve ações de pesquisa e extensão, tendo por foco a centralização e a estruturação de canais de acesso e informações sobre o setor de economia criativa, inclusive sobre seu impacto na dinâmica social econômica do país, favorecendo, assim, debates sobre o tema e o fomento a um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede, estudiosos, especialistas, agentes governamentais e representantes do setor cultural. O Observatório articula-se para a realização de estudos e pesquisas aplicadas e a difusão de informações sobre a economia criativa, com especial ênfase na realidade de cada estado brasileiro. Tal iniciativa foi implantada, em 2013, de forma análoga, na Universidade Federal Fluminense, Universidade Federal da Bahia, Universidade de Brasília, Universidade Federal de Goiás e Universidade Federal do Amazonas.
-														</p>
-
-														<br/>
-
-														<p>Início: 2013</p> 
-														<p>Situação: Em andamento</p>
-														<p>Financiador/Parceiro: Secretaria de Economia Criativa do Ministério da Cultura</p> 
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-												<div class="pesquisa-content">
-													<div class="titulo-projeto">
-														PLATAFORMA DE INDICADORES SOBRE FINANCIAMENTO À CULTURA 
-													</div>
-
-													<div class="separador"></div>
-													
-													<div class="descricao-projeto">
-
-														<p>
-															Visa a fornecer um espelho da conjuntura pública brasileira para subsidiar o controle e a avaliação das políticas culturais no Brasil. Esses indicadores conjunturais direcionarão a política ministerial, com o intuito de permitir ao governo cumprir com as suas competências constitucionais. Para o suporte do desenvolvimento do projeto, o CEGOV, por meio do seu Grupo de Trabalho Economia Criativa, Cultura e Política Públicas, vem mapeando as áreas estratégicas e os indicadores-alvo, desenvolvendo uma ficha de indicadores que possa prover o acompanhamento e suporte às políticas, posteriormente sistematizado em um sistema web. O convênio tem como objetivos (i) criar, formalizar e aplicar indicadores sobre a base de dados do fomento e incentivos à cultura do MinC; (ii) relacionar esses indicadores a dados conjunturais, que permitam embasar a tomada de decisão e a avaliação de políticas públicas; (iii) oferecer ao Ministério da Cultura subsídios para o acompanhamento da distribuição e impacto dos recursos aplicados em incentivo à cultura em escala nacional; e (iv) Oferecer massa crítica ao MinC para embasar reflexões sobre o sistema nacional.
-														</p>
-
-														<br/>
-
-														<p>Início: 2015</p> 
-														<p>Situação: Em andamento</p>
-														<p>Financiador/Parceiro: Ministério da Cultura</p> 
-
-														<div class="voltar-proj">
-															<div class="titulo-lat voltar-projeto"> VOLTAR </div>
-														</div>
-
-													</div>
-												</div>
-
-											</div>
-
-
-										</div>
-									</div>
-								</div><!-- /.fim do conteúdo da lateral -->
-
-							</div><!-- /.fim da pg lateral -->
-
+					<!-- engloba todas as laterais -->
+					<div class="container-laterais">
+
+						<!-- *** Navegação horizontal *** -->
+						<div class="nav-x nav-x-left text-center">
+							<a class="left-button open-projetos">
+								<div class="titulo-lat"> EXTENSÃO </div>
+								<div class="arrow-nav arrow-left"></div>
+							</a>
 						</div>
+
+						<div class="nav-x nav-x-center text-center">
+							<a class="center-button">
+								<div class="titulo-lat">PROJETOS</div>
+							</a>
+						</div>
+
+						<div class="nav-x nav-x-right text-left">
+							<a class="right-button open-projetos">
+								<div class="titulo-lat"> PESQUISA </div>
+								<div class="arrow-nav arrow-right"></div>
+							</a>
+						</div>
+
+						<!-- *** centro PROJETOS *** -->
+						<div class="lateral lateral-center">
+							<div class="pagina-content-lateral text-center">
+
+								<!-- Conteúdo central -->
+								<div class="content-lateral-center">
+									
+									<!-- Volta a pg inicial -->
+									<div class="menu">
+										<a href="inicio" class="link">
+											<div class="logo-icon"></div>	
+										</a>
+									</div>
+
+									<!-- info sobre os projetos -->
+									<div class="texto-projetos">
+
+										<!-- Texto -->
+										<p class="info-projetos">
+											Os projetos realizados pelo Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul estão divididos em iniciativas de extensão e de pesquisa. Economia da cultura, Arranjos Produtivos Locais, Contas Nacionais de Cultura, desenvolvimento territorial, financiamento à cultura, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos no OBEC.
+										</p>
+
+									</div>
+
+								</div><!-- /.fim do conteúdo -->									
+
+								<!-- Menu para navegação -->
+								<div class="menu-inicio">
+
+									<!-- Links para as redes sociais -->
+									<div class="social-links">
+									
+										<!-- Facebook -->
+										<a href="https://www.facebook.com/obec.rs/" class="link" target="_blank" title="Facebook">
+											<div class="social-icon face-icon"></div>
+										</a>
+
+										<!-- Instagram -->
+										<a href="https://www.instagram.com/obec.ufrgs/" class="link" target="_blank" title="Instagram">
+											<div class="social-icon insta-icon"></div>
+										</a>
+
+										<!-- Twitter -->
+										<a href="https://twitter.com/OBEC_RS" class="link" target="_blank" title="Twitter">
+											<div class="social-icon twitter-icon"></div>
+										</a>
+
+										<!-- Youtube -->
+										<a href="https://www.youtube.com/channel/UCDq6cCG5p9thYTGgZEuSeGA" class="link" target="_blank" title="Youtube">
+											<div class="social-icon youtube-icon"></div>
+										</a>
+										
+									</div>
+
+									<!-- Páginas -->
+									<ul class="menu menu-opt"> 
+
+										<!-- Sobre -->
+										<li>
+											<a href="sobre" class="link">Sobre</a>
+										</li>
+										
+										<!-- ícone -->
+										<li><div class="menu-icon"></div></li>
+										
+										<!-- Projetos -->
+										<li>
+											<a href="projetos" class="link active">Projetos</a>
+										</li>
+
+										<!-- ícone -->
+										<li><div class="menu-icon"></div></li>
+
+										<!-- Acervo -->
+										<li>
+											<a href="acervo" class="link">Acervo</a>
+										</li>
+
+										<!-- ícone -->
+										<li><div class="menu-icon"></div></li>
+
+										<!-- Agenda -->
+										<li>
+											<a href="agenda" class="link">Agenda</a>
+										</li>
+
+									</ul>
+
+								</div> <!-- /.fim do menu -->
+
+							</div>
+						</div><!-- /.fim da pg central -->
+
+						<!-- *** esquerda EXTENSÃO *** -->
+						<div class="lateral lateral-left">
+
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake right"></div>
+
+							<!-- Conteúdo lateral -->
+							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
+								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
+									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
+
+										<!-- Projetos de extensão -->
+										<div class="projeto-container">
+
+											<!-- Projeto de extensão -->
+											<div class="projeto-content">
+												<div class="titulo-projeto">
+													CONEXÕES CRIATIVAS I
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														No ano de 2014, com o intuito de qualificar o debate sobre Economia Criativa a nível local e contribuir para a formação de estudantes e gestores da área, o Observatório de Economia Criativa da UFRGS realizou um curso de extensão sobre o tema. Por meio da explanação de conceitos teóricos, aliados a uma série de debates e apresentações de casos concretos, mostrou-se a importância que a Economia Criativa, bem como a Economia da Cultura, possui para o desenvolvimento da nossa sociedade. O evento, resultado do projeto de extensão, está inserido no aumento do debate acadêmico sobre o tema no Brasil, da mesma maneira que na construção de políticas públicas e da área.
+
+													</p>
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div><!-- /.fim do projeto -->
+
+											<!-- Projeto de extensão -->
+											<div class="projeto-content">
+												<div class="titulo-projeto">
+													CONEXÕES CRIATIVAS II
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														Entre os dias 16 e 19 de novembro de 2015 ocorreu o seminário Conexões Criativas 2, resultado de projeto de extensão sobre a área de Economia Criativa e Cultura. Um dos focos do evento foi o destaque da Economia Criativa em meio a um mercado em que prepondera a homogeneização de bens e serviços e a percepção da criatividade como força propulsora para diferenciação de produtos. No Brasil, percebe-se, nos últimos anos, um aumento no debate acadêmico, bem como a construção de políticas públicas e formação na área. Assim, o espaço proposto para reflexões sobre essa temática durante o evento contou com um importante intercâmbio de conhecimento entre a UFRGS e a Universidade de Valência, com a realização, ainda, de um workshop para o aprendizado de métricas para mensuração do setor criativo, voltado para os pesquisadores e atuantes no tema.
+
+													</p>
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div><!-- /.fim do projeto -->
+
+											<!-- Projeto de extensão -->
+											<div class="projeto-content">
+												<div class="titulo-projeto">
+													DIÁLOGOS EM ECONOMIA CRIATIVA
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-extensao">
+
+													<p>
+														Tendo em vista a demanda pelo aprofundamento de debates na área de Economia Criativa e da Cultura, o projeto “Diálogos em Economia Criativa” visa atuar na promoção de um espaço qualificado de discussão com pesquisadores nacionais e internacionais da área.
+
+													</p>
+
+													<p>
+														O projeto propõe-se a realizar 7 conferências ao longo do ano letivo da UFRGS, buscando discutir três eixos centrais nas discussões contemporâneas da Economia Criativa:
+
+														<ul>
+															<li>Fluxos internacionais e globalização de bens criativos;</li>
+															<li>Novas perspectivas para mercados tradicionais de cultura;</li>
+															<li>Gestão pública e privada para fomento da Economia da Cultura.</li>
+														</ul>
+													</p>
+
+													<br/>
+													
+													<p>Início: 2016</p>
+													<p>Situação: Em andamento</p>
+
+													<div class="dialogos-link">
+														<a href="http://www.ufrgs.br/obec/dialogos/" class="link">
+															<div class="dialogos-texto">
+																<div class="title-dialogos">Diálogos</div>
+																<div class="subtitle-dialogos">Em Economia Criativa</div>
+															</div>
+														</a>
+													</div>
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div><!-- /.fim do projeto -->
+
+										</div>
+
+									</div>
+								</div>
+							</div><!-- /.fim do conteúdo da lateral -->
+
+						</div><!-- /.fim da pg lateral -->
+
+						<!-- *** direita PESQUISA *** -->
+						<div class="lateral lateral-right">
+
+							<!-- Scroll na altura completa da pg -->
+							<div class="scroll-fake right"></div>
+
+							<!-- Conteúdo lateral -->
+							<div class="content-lateral">
+								<div class="lateral-align-vert-right">
+									<div class="lateral-align-horzt">
+
+										<!-- Projetos de pesquisa -->
+										<div class="projetos-container">
+
+											<div class="projetos-content">
+												
+												<div class="titulo-projeto">
+
+													ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA – CONTA SATÉLITE DE CULTURA E COMÉRCIO INTERNACIONAL DE BENS E SERVIÇOS EM ECONOMIA CRIATIVA
+
+												</div>
+
+												<div class="separador"></div>
+
+												<div class="descricao-projeto">
+
+													<p>
+														O projeto tem por fim a elaboração de subsídios e diretrizes no contexto da estruturação da Conta Satélite de Cultura (IBGE-MinC). Além disso, estrutura-se no campo dos fluxos internacionais de bens e serviços em Economia Criativa e na consolidação teórico-metodológica da Conta Satélite Nacional de Cultura, desenvolvida em parceria entre IBGE e Ministério da Cultura. O projeto apresenta dois objetivos, quais sejam, a consolidação teórico-metodológica da Conta Satélite Nacional e o desenvolvimento metodológico e mensuração da corrente de comércio exterior do Brasil com os países da América do Sul e do Brasil com os demais países, com recorte específico para os serviços culturais/criativos.
+													</p>
+													<br/>
+													<p>Início: 2013</p>
+													<p>Situação: Em andamento</p> 
+													<p>Financiador: Secretaria de Economia Criativa do Ministério da Cultura</p>
+										
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+
+											</div>
+
+											<div class="projetos-content">
+												<div class="titulo-projeto">
+													ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
+												</div>
+
+												<div class="separador"></div>
+
+												<div class="descricao-projeto">
+
+													<p>
+														Em parceria firmada entre a Secretaria da Economia Criativa do Ministério da Cultura (SEC/MinC) e a UFRGS, esse projeto tem como objetivo principal prestar assessoria e consultoria técnica para subsidiar a implementação, o acompanhamento e a avaliação das políticas dessa Secretaria. Para tanto, suas ações estão organizadas em seis macroeixos temáticos: (i) desenvolvimento metodológico para o monitoramento e sistematização das etapas do Programa Incubadoras Brasil Criativo, bem como suporte técnico à elaboração e execução das políticas de formação e de articulação e gestão no contexto do Programa; (ii) sistematização dos dados e informações geradas a partir dos estudos e pesquisas dos Observatórios de Economia Criativa Estaduais (Obeces); (iii) estudos sobre a eficiência tributária em relação à produção cultural; (iv) suporte técnico para a política de desenvolvimento territorial da SEC/MinC, incluindo o monitoramento dos 27 planos de desenvolvimento para APLs Intensivos em Cultura pactuados em parceria com o MDIC; (v) suporte técnico para a construção da política de internacionalização das ações de promoção e difusão da cultura brasileira e para a constru- ção executiva da política de formação para promoção e difusão de bens culturais; e (vi) suporte técnico na aplicação, monitoramento e aprimoramento das ações da política no contexto dos territórios de vivência do Programa CEUs das Artes.
+													</p>
+
+													<br/>
+
+													<p>Início: 2014</p>
+													<p>Situação: Em andamento</p>
+													<p>Financiador: Ministério da Cultura</p>
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div>
+
+											<div class="projetos-content">
+												<div class="titulo-projeto">
+													ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranjo produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, por meio da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI), adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local. Dessa forma, há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que a torna lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+													</p>
+
+													<br/>
+
+													<p>Início: 2013</p>
+													<p>Situação: Finalizado</p>
+													<p>Financiador: Agência Gaúcha de Desenvolvimento e Promoção do Investimento</p>
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div>
+
+											<div class="projetos-content">
+												<div class="titulo-projeto">
+													OBSERVATÓRIO ESTADUAL DE ECONOMIA CRIATIVA
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														Envolve ações de pesquisa e extensão, tendo por foco a centralização e a estruturação de canais de acesso e informações sobre o setor de economia criativa, inclusive sobre seu impacto na dinâmica social econômica do país, favorecendo, assim, debates sobre o tema e o fomento a um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede, estudiosos, especialistas, agentes governamentais e representantes do setor cultural. O Observatório articula-se para a realização de estudos e pesquisas aplicadas e a difusão de informações sobre a economia criativa, com especial ênfase na realidade de cada estado brasileiro. Tal iniciativa foi implantada, em 2013, de forma análoga, na Universidade Federal Fluminense, Universidade Federal da Bahia, Universidade de Brasília, Universidade Federal de Goiás e Universidade Federal do Amazonas.
+													</p>
+
+													<br/>
+
+													<p>Início: 2013</p> 
+													<p>Situação: Em andamento</p>
+													<p>Financiador/Parceiro: Secretaria de Economia Criativa do Ministério da Cultura</p> 
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div>
+
+											<div class="projetos-content">
+												<div class="titulo-projeto">
+													PLATAFORMA DE INDICADORES SOBRE FINANCIAMENTO À CULTURA 
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														Visa a fornecer um espelho da conjuntura pública brasileira para subsidiar o controle e a avaliação das políticas culturais no Brasil. Esses indicadores conjunturais direcionarão a política ministerial, com o intuito de permitir ao governo cumprir com as suas competências constitucionais. Para o suporte do desenvolvimento do projeto, o CEGOV, por meio do seu Grupo de Trabalho Economia Criativa, Cultura e Política Públicas, vem mapeando as áreas estratégicas e os indicadores-alvo, desenvolvendo uma ficha de indicadores que possa prover o acompanhamento e suporte às políticas, posteriormente sistematizado em um sistema web. O convênio tem como objetivos (i) criar, formalizar e aplicar indicadores sobre a base de dados do fomento e incentivos à cultura do MinC; (ii) relacionar esses indicadores a dados conjunturais, que permitam embasar a tomada de decisão e a avaliação de políticas públicas; (iii) oferecer ao Ministério da Cultura subsídios para o acompanhamento da distribuição e impacto dos recursos aplicados em incentivo à cultura em escala nacional; e (iv) Oferecer massa crítica ao MinC para embasar reflexões sobre o sistema nacional.
+													</p>
+
+													<br/>
+
+													<p>Início: 2015</p> 
+													<p>Situação: Em andamento</p>
+													<p>Financiador/Parceiro: Ministério da Cultura</p> 
+
+													<div class="voltar-proj">
+														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+													</div>
+
+												</div>
+											</div>
+
+										</div>
+
+									</div>
+								</div>
+							</div><!-- /.fim do conteúdo da lateral -->
+
+						</div><!-- /.fim da pg lateral -->
 
 					</div>
 				</div>
@@ -1078,7 +1071,7 @@
 						</div>
 
 
-						<!-- *** Centro acervo *** -->
+						<!-- *** centro ACERVO *** -->
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
@@ -1092,7 +1085,7 @@
 										</a>
 									</div>
 
-									<!-- Info sobre a OBEC -->
+									<!-- Info sobre o acervo -->
 									<div class="texto-acervo">
 
 										<!-- Texto -->
@@ -1141,7 +1134,7 @@
 										</li>
 										
 										<!-- ícone -->
-										<li><div class="menu-icon"/></li>
+										<li><div class="menu-icon"></div></li>
 										
 										<!-- Projetos -->
 										<li>
@@ -1172,13 +1165,13 @@
 						</div><!-- /.fim da pg central -->
 
 
-						<!-- *** Esquerda acervo *** -->
+						<!-- *** esquerda PUBLICAÇÕES *** -->
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 
-							<!-- Conteúdo lateral ::: PUBLICAÇÕES -->
+							<!-- Conteúdo lateral -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
@@ -1224,7 +1217,6 @@
 																VOLTAR
 															</div>
 
-
 														</div>
 
 													</div>
@@ -1795,7 +1787,6 @@
 											</div>
 
 										</div>
-
 
 									</div>
 								</div>
@@ -1804,17 +1795,16 @@
 						</div><!-- /.fim da pg lateral -->
 
 
-						<!-- *** Direita acervo *** -->
+						<!-- *** direita VÍDEOS *** -->
 						<div class="lateral lateral-right">
 
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 
-							<!-- Conteúdo lateral ::: VÍDEOS -->
+							<!-- Conteúdo lateral  -->
 							<div class="content-lateral">
 								<div class="lateral-align-vert-right">
 									<div class="lateral-align-horzt">
-
 
 										<div class="video-container">
 
@@ -1871,15 +1861,33 @@
 
 			<!-- === AGENDA === -->
 			<div id="pagina-agenda">
+
+				<div class="bg-agenda"></div>
+
 				<!-- Fundo da página -->
 				<div class="pagina-wrap agenda-wrap">
 
 					<!-- engloba todas as laterais -->
 					<div class="container-laterais">
 
+						<!-- *** Navegação horizontal *** -->
+						<div class="nav-x nav-x-left text-center">
+							<a class="left-button">
+								<div class="titulo-lat"> CONTATO </div>
+								<div class="arrow-nav arrow-left"></div>
+							</a>
+						</div>
+
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
 								<div class="titulo-lat">AGENDA</div>
+							</a>
+						</div>
+
+						<div class="nav-x nav-x-right text-left">
+							<a class="right-button">
+								<div class="titulo-lat"> CALENDÁRIO </div>
+								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
 
@@ -1891,23 +1899,292 @@
 								<div class="content-lateral-center">
 									
 									<!-- Volta a pg inicial -->
-									<div class="menu">
+									<div class="menu menu-logo-agenda">
 										<a href="inicio" class="link">
 											<div class="logo-icon"></div>
 										</a>
 									</div>
 
-									<!-- Info agenda -->
-									<div class="agenda-div">
-										<div class="texto-agenda">
-											EM BREVE
+									<!-- Info sobre o acervo -->
+									<div class="container-mural">
+
+										<div class="content-mural">
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">Evento</div>
+													<div class="not-titulo">Título</div>
+													<div class="not-data">Data</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+													<div class="not-img">
+														<img src="images/noticias/not2.png"/>
+													</div>
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+											</div>
+
+											<div class="separador"></div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">Evento</div>
+													<div class="not-titulo">Título</div>
+													<div class="not-data">Data</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+													<div class="not-img">
+														<img src="images/noticias/not2.png"/>
+													</div>
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+											</div>
+
+											<div class="separador"></div>
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">Evento</div>
+													<div class="not-titulo">Título</div>
+													<div class="not-data">Data</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+													<div class="not-img">
+														<img src="images/noticias/not2.png"/>
+													</div>
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+											</div>
+
+											<div class="separador"></div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">Evento</div>
+													<div class="not-titulo">Título</div>
+													<div class="not-data">Data</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+													<div class="not-img">
+														<img src="images/noticias/not2.png"/>
+													</div>
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+											</div>
+
+											<div class="separador"></div>
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">Evento</div>
+													<div class="not-titulo">Título</div>
+													<div class="not-data">Data</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+													<div class="not-img">
+														<img src="images/noticias/not2.png"/>
+													</div>
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+															<p> 
+																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+											</div>
+											
 										</div>
 									</div>
 
 								</div><!-- /.fim do conteúdo -->									
 
 								<!-- Menu para navegação -->
-								<div class="menu-inicio">
+								<div class="menu-agenda">
 
 									<!-- Links para as redes sociais -->
 									<div class="social-links">
@@ -1943,7 +2220,7 @@
 										</li>
 										
 										<!-- ícone -->
-										<li><div class="menu-icon"/></li>
+										<li><div class="menu-icon"></div></li>
 										
 										<!-- Projetos -->
 										<li>

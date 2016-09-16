@@ -1,18 +1,27 @@
 /*=== MOBILE ======================================================================*/
-
+.mobile{
+	display: block;
+}
+.desktop{
+	display: none;
+}
 /* Idioma */
 .lang-container{
-	margin-top: 0px;
-	top: 20px;
+	text-align: right;
 	position: absolute;
+	top: 50%;
+	bottom: auto;
+	right: 0px;
+	transform: translateY(-50%);
 }
 .lang-icon{
-	width: 55px;
-	height: 25px;
-	font-size: 10pt;
-	line-height: 21px;
-	padding-left: 11px;
+	width: 35px;
+	height: 24px;
+	font-size: 8pt;
+	line-height: 20px;
+	padding-left: 2px;
 	text-align: center;
+	letter-spacing: 5px;
 }
 
 
@@ -98,6 +107,8 @@
 	left: 50%;
 	transform: translateX(5%);
 }
+
+/* títulos nas pgs laterais */
 .nav-x.sub-nav-x{
 	top: 90px;
 	width: 190px;
@@ -129,11 +140,15 @@
 }
 /* Logo OBEC */
 .logo{
-	width: 370px;
+	width: 300px;
 	height: auto;
 	margin: auto;
 }
-
+.social-icon{
+	width: 40px;
+	height: 55px;
+	margin-left: 5px;
+}
 /* Menu de navegação */
 .menu-inicio{
 	position: relative;
@@ -146,11 +161,17 @@
 }
 .menu-opt li{
 	letter-spacing: 7px;
-	font-size: 13pt;
+	font-size: 12.5pt;
+	padding: 4px 1px 4px 10px;
 	display: block;
 }
 .menu-icon{
 	display: none;
+}
+
+.contato-info{
+	font-size: 7.5pt;
+	padding-top: 50px;
 }
 /*==== SOBRE ================*/
 /* Titulos seções */
@@ -194,7 +215,7 @@
 	padding-top: 135px;
 	padding-bottom: 20px;
 }
-.pesquisa-container{
+.projeto-container{
 	width: 65%;
 }
 .titulo-projeto{
@@ -249,6 +270,19 @@
 	font-size: 8pt;
 	letter-spacing: 7px;
 }
+/*=== AGENDA ============*/
+.container-mural{
+	padding-bottom: 20px;
+}
+.content-mural{
+	height: 50vh;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	padding-right: 25px;
+	transform: none;
+	top: 0px;
+	overflow-y: scroll;
+}
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
 @media only screen and (max-width: 479px){
@@ -259,7 +293,7 @@
 
 	/* inicio */
 	.logo{
-		width: 300px;
+		width: 280px;
 	}
 	.social-icon{
 		width: 40px;

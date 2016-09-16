@@ -4,13 +4,18 @@
     src: url('../fonts/Lato-Regular.ttf');
 }
 @font-face {
+    font-family: Lato Light;
+    src: url('../fonts/Lato-Light.ttf');
+}
+@font-face {
     font-family: Adam;
     src: url(../fonts/adam/ADAM.CG_PRO.otf);
 }
 
 /*=== Geral ======================================================================*/
 body{
-	overflow-x: hidden !important;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 /* Para que o scroll apareça na altura completa das telas laterais */
 .scroll-fake{
@@ -49,12 +54,10 @@ body{
 
 /* idioma */
 .lang-container{
-	position: fixed;
-	right: 0px;
-	margin-top: 80vh;
-	margin-right: 2vw;
+	position: absolute;
+	right: 20px;
+	bottom: 80px;
 	width: 70px;
-	z-index: 10000;
 }
 .lang-icon{
 	width: 60px;
@@ -143,6 +146,11 @@ body{
 	transform: translateX(-50%);
 	z-index: 2000;
 }
+/* nas pgs laterais */
+.sub-nav-x{
+	width: 143px;
+	z-index: 9999999;
+}
 
 /* ícone logo */
 .logo-icon{
@@ -179,20 +187,6 @@ body{
 	background-image: url('../images/icons/youtube.png');
 }
 
-/* temporário */
-.agenda-div{
-	padding: 150px 0px;
-}
-.texto-agenda{
-	position: absolute;
-	top: 40%;
-	left: 50%;
-	transform: translate(-50%);
-	font-size: 18pt;
-	letter-spacing: 4px;
-	color: white;
-}
-
 /*=== Conteúdo das páginas =============================*/
 #pagina-sobre, #pagina-projetos, #pagina-acervo, #pagina-agenda{
 	position: relative;
@@ -202,7 +196,6 @@ body{
 	background-image: url('../images/bg_sombra.png');
 	background-size: 100% 100%;
 	position: relative;
-	/*background-color: rgba(0, 0, 0, 0.45);*/
 }
 .pagina-content{
 	top: 50%;
@@ -253,6 +246,14 @@ body{
 	background-position: center bottom; 
 	transition: .2s all ease-in-out;
 }
+.contato-info{
+	font-family:'Lato Regular';
+	font-size: 9pt;
+	text-align:center;
+	padding-top: 25px;
+	color: white;
+	margin: auto;
+}
 
 /*=== SOBRE ==========================*/
 .sobre-wrap{
@@ -289,10 +290,6 @@ body{
 .titulo-lat.voltar-projeto{
 	width: auto;
 }
-.sub-nav-x{
-	width: 143px;
-	z-index: 9999999;
-}
 .sub-titulo-lat{
 	font-size: 7pt;
 	letter-spacing: 7px;
@@ -303,7 +300,6 @@ body{
 	margin: auto;
 	width: 100%;
 	text-align: justify;
-	letter-spacing: 1px;
 	font-family: 'Lato Regular';
 	font-size: 14pt;
 	color: white;
@@ -395,16 +391,11 @@ body{
 	background-size: cover;
 	background-position: center bottom; 
 }
-.lateral-proj{
-	background-color: transparent;
-	transition: .2s all ease-in-out;
-}
 /* Info */
 .texto-projetos{
 	margin: auto;
 	width: 100%;
 	text-align: justify;
-	letter-spacing: 1px;
 	font-family: 'Lato Regular';
 	font-size: 14pt;
 	color: white;
@@ -415,12 +406,12 @@ body{
 	background-color: rgba(241, 181, 4, 0.75);
 }
 /* os projetos */
-.pesquisa-container{
+.projeto-container{
 	width: 90%;
 	margin: auto;
 	text-align: center;
 }
-.pesquisa-content{
+.projeto-content{
 	overflow-y: hidden;
 	transition: .5s all ease;
 }
@@ -429,7 +420,6 @@ body{
 	font-family: 'Lato Regular';
 	font-size: 13pt;
 	font-weight: bold;
-	letter-spacing: 2px;
 	color: white;
 	transition: .3s all ease;
 }
@@ -440,7 +430,6 @@ body{
 .descricao-projeto{
 	font-family: 'Lato Regular';
 	font-size: 13pt;
-	letter-spacing: 1px;
 	line-height: 27px;
 	color: white;
 	text-align: justify;
@@ -451,7 +440,6 @@ body{
 .descricao-extensao{
 	font-family: 'Lato Regular';
 	font-size: 13pt;
-	letter-spacing: 1px;
 	line-height: 27px;
 	color: white;
 	text-align: justify;
@@ -507,7 +495,6 @@ body{
 	margin: auto;
 	width: 100%;
 	text-align: justify;
-	letter-spacing: 1px;
 	font-family: 'Lato Regular';
 	font-size: 14pt;
 	color: white;
@@ -578,7 +565,6 @@ body{
 	vertical-align: top;
 	text-align: justify;
 	font-family: 'Lato Regular';
-	letter-spacing: 1px;
 	color: white;
 }
 .pub-titulo{
@@ -657,7 +643,95 @@ body{
 }
 /*=== AGENDA ==========================*/
 .agenda-wrap{
+	width: 100vw;
+	height: 100vh;
 	background-image: url('../images/bg_agenda.jpg');
 	background-size: cover;
 	background-position: center bottom; 
+}
+.bg-agenda{
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	background-image: url('../images/bg_agenda.jpg');
+	background-size: cover;
+	background-position: center bottom; 
+	background-attachment: fixed;
+
+}
+.noticia-container{
+	width: 100%;
+	text-align: justify;
+	color: white;
+}
+.noticia-header{
+	text-transform: uppercase;
+}
+.noticia-container.right .noticia-header{
+	text-align: right;
+}
+.not-tipo, .not-data{
+	font-family: 'Lato Light';
+}
+.not-titulo{
+	font-family: 'Lato Regular';
+	font-size: 18pt;
+	line-height: 24px;
+	font-weight: bold;
+}
+.not-img{
+	width: 160px;
+	height: 100px;
+	margin: 5px 5px 0px 0px;
+	overflow: hidden;
+}
+.not-img img{
+	height: 100%;
+	min-width: 100%;
+}
+.noticia-container.right .not-img{
+	float: right;
+	margin: 5px 0px 0px 10px;
+}
+.noticia-container.left .not-img{
+	float: left;
+	margin: 5px 10px 0px 0px;
+}
+.not-text{
+	font-family: 'Lato Regular';
+	font-size: 12pt;
+	font-weight: bold;
+}
+.not-text-mais{
+	overflow: hidden;
+	height: 0px;
+}
+.not-mais{
+	cursor: pointer;
+	padding-top: 5px;
+	margin-top: 10px;
+	font-family: 'Lato Regular';
+	font-size: 10pt;
+	text-transform: uppercase;
+	background-repeat: no-repeat;
+	background-size: 10px auto;
+	background-image: url('../images/icons/ler_mais.png');
+}
+.not-mais .closed{
+	padding-top: 0px;
+	display: block;
+}
+.not-mais .opened{
+	padding-top: 12px;
+	display: none;
+}
+.noticia-container.left .not-mais{
+	text-align: right;
+	background-position: top right;
+	padding: 0px 15px 10px 0px;
+}
+.noticia-container.right .not-mais{
+	text-align: left;
+	background-position: top left;
+	padding: 0px 0px 10px 15px;
 }
