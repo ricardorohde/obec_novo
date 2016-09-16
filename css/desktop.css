@@ -145,7 +145,8 @@
 .menu-agenda{
 	position: relative;
 	width: 100%;
-	padding: 50px 0px;
+	margin-top: 30px;
+	padding: 50px 0px 80px 0px;
 	text-align: center;
 }
 .menu-logo-agenda{
@@ -234,10 +235,6 @@
 	width: 590px;
 	margin: auto;
 }
-.content-mural{
-	padding-right: 25px;
-}
-
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
 @media only screen and (max-width: 1199px){
@@ -487,28 +484,5 @@
 	}
 	.menu-capa{
 		bottom: 80px;
-	}
-}
-
-
-/* agenda altura */
-@media only screen and (min-height: 720px) and (max-height: 799px){
-	.content-mural{
-		height: 280px;
-	}
-}
-@media only screen and (min-height: 800px) and (max-height: 899px){
-	.content-mural{
-		height: 315px;
-	}
-}
-@media only screen and (min-height: 900px) and (max-height: 999px){
-	.content-mural{
-		height: 435px;
-	}
-}
-@media only screen and (min-height: 1000px) and (max-height: 1099px){
-	.content-mural{
-		height: 530px;
 	}
 }

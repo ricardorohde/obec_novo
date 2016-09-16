@@ -122,6 +122,8 @@
 
 							</ul>
 
+
+							<!-- Informações para contato, para desktop -->
 							<div class="contato-info desktop">
 								UFRGS | Faculdade de Ciências Econômicas, Anexo - Campus Centro
 								<br/>
@@ -130,6 +132,7 @@
 								Telefone: +55 51 3308-4718
 							</div>
 
+							<!-- Informações para contato, para mobile -->
 							<div class="contato-info mobile">
 								UFRGS | Faculdade de Ciências Econômicas, Anexo
 								<br/>
@@ -157,20 +160,20 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
-								<div class="titulo-lat"> PARCEIROS </div>
+								<button class="button titulo-lat">Parceiros</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="titulo-lat"> SOBRE </div>
+								<button class="button titulo-lat">Sobre</button>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat"> EQUIPE </div>
+								<button class="button titulo-lat">Equipe</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -658,20 +661,20 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button open-projetos">
-								<div class="titulo-lat"> EXTENSÃO </div>
+								<button class="button titulo-lat">Extensão</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="titulo-lat">PROJETOS</div>
+								<button class="button titulo-lat">Projetos</button>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button open-projetos">
-								<div class="titulo-lat"> PESQUISA </div>
+								<button class="button titulo-lat">Pesquisa</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -799,7 +802,7 @@
 													</p>
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
@@ -821,7 +824,7 @@
 													</p>
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
@@ -867,7 +870,7 @@
 													</div>
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
@@ -893,9 +896,9 @@
 									<div class="lateral-align-horzt">
 
 										<!-- Projetos de pesquisa -->
-										<div class="projetos-container">
+										<div class="projeto-container">
 
-											<div class="projetos-content">
+											<div class="projeto-content">
 												
 												<div class="titulo-projeto">
 
@@ -916,14 +919,14 @@
 													<p>Financiador: Secretaria de Economia Criativa do Ministério da Cultura</p>
 										
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
 
 											</div>
 
-											<div class="projetos-content">
+											<div class="projeto-content">
 												<div class="titulo-projeto">
 													ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
 												</div>
@@ -943,13 +946,13 @@
 													<p>Financiador: Ministério da Cultura</p>
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
 											</div>
 
-											<div class="projetos-content">
+											<div class="projeto-content">
 												<div class="titulo-projeto">
 													ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
 												</div>
@@ -969,13 +972,13 @@
 													<p>Financiador: Agência Gaúcha de Desenvolvimento e Promoção do Investimento</p>
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
 											</div>
 
-											<div class="projetos-content">
+											<div class="projeto-content">
 												<div class="titulo-projeto">
 													OBSERVATÓRIO ESTADUAL DE ECONOMIA CRIATIVA
 												</div>
@@ -995,13 +998,13 @@
 													<p>Financiador/Parceiro: Secretaria de Economia Criativa do Ministério da Cultura</p> 
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
 											</div>
 
-											<div class="projetos-content">
+											<div class="projeto-content">
 												<div class="titulo-projeto">
 													PLATAFORMA DE INDICADORES SOBRE FINANCIAMENTO À CULTURA 
 												</div>
@@ -1021,7 +1024,7 @@
 													<p>Financiador/Parceiro: Ministério da Cultura</p> 
 
 													<div class="voltar-proj">
-														<div class="titulo-lat voltar-projeto"> VOLTAR </div>
+														<button class="button voltar-projeto">Voltar</button>
 													</div>
 
 												</div>
@@ -1052,20 +1055,20 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button open-publicacoes">
-								<div class="titulo-lat"> PUBLICAÇÕES </div>
+								<button class="button titulo-lat">Publicações</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="titulo-lat">ACERVO</div>
+								<button class="button titulo-lat">Acervo</button>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat"> VÍDEOS </div>
+								<button class="button titulo-lat">Vídeos</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
@@ -1209,13 +1212,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1242,14 +1240,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1275,14 +1267,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1307,14 +1293,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1338,14 +1318,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1370,14 +1344,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1402,14 +1370,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1433,14 +1395,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1465,14 +1421,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1497,14 +1447,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1552,14 +1496,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1583,14 +1521,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1615,14 +1547,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1647,14 +1573,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1678,14 +1598,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1734,14 +1648,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1765,14 +1673,8 @@
 																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
 															</div>
 
-															<div class="pub-button">
-																DOWNLOAD
-															</div>
-
-															<div class="pub-button voltar-pub">
-																VOLTAR
-															</div>
-
+															<button class="button pub-button">Download</button>
+															<button class="button pub-button voltar-pub">Voltar</button>
 
 														</div>
 
@@ -1873,25 +1775,25 @@
 						<!-- *** Navegação horizontal *** -->
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
-								<div class="titulo-lat"> CONTATO </div>
+								<button class="button titulo-lat">Contato</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
-								<div class="titulo-lat">AGENDA</div>
+								<button class="button titulo-lat">Agenda</button>
 							</a>
 						</div>
 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
-								<div class="titulo-lat"> CALENDÁRIO </div>
+								<button class="button titulo-lat">Calendário</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
 						</div>
 
-						<!-- *** Centro sobre *** -->
+						<!-- *** centro agenda *** -->
 						<div class="lateral lateral-center">
 							<div class="pagina-content-lateral text-center">
 
@@ -1905,7 +1807,7 @@
 										</a>
 									</div>
 
-									<!-- Info sobre o acervo -->
+									<!-- mural (notícias+eventos) -->
 									<div class="container-mural">
 
 										<div class="content-mural">
@@ -1956,9 +1858,9 @@
 												
 												</div>
 
-											</div>
+												<div class="separador"></div>
 
-											<div class="separador"></div>
+											</div>
 
 											<!-- Notícia -->
 											<div class="noticia-container right">
@@ -1995,11 +1897,6 @@
 															<p> 
 																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
 															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
 														</div>
 
 													</div>
@@ -2011,9 +1908,9 @@
 												
 												</div>
 
-											</div>
+												<div class="separador"></div>
 
-											<div class="separador"></div>
+											</div>
 
 											<!-- Notícia -->
 											<div class="noticia-container left">
@@ -2050,11 +1947,6 @@
 															<p> 
 																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
 															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
 														</div>
 
 													</div>
@@ -2066,115 +1958,7 @@
 												
 												</div>
 
-											</div>
-
-											<div class="separador"></div>
-
-											<!-- Notícia -->
-											<div class="noticia-container right">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">Evento</div>
-													<div class="not-titulo">Título</div>
-													<div class="not-data">Data</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-													<div class="not-img">
-														<img src="images/noticias/not2.png"/>
-													</div>
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-											</div>
-
-											<div class="separador"></div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">Evento</div>
-													<div class="not-titulo">Título</div>
-													<div class="not-data">Data</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-													<div class="not-img">
-														<img src="images/noticias/not2.png"/>
-													</div>
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
+												<div class="separador"></div>
 
 											</div>
 											
@@ -2251,16 +2035,24 @@
 						</div><!-- /.fim da pg central -->
 
 
-						<!-- *** Esquerda agenda *** -->
+						<!-- *** esquerda agenda *** -->
 						<div class="lateral lateral-left">
 
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 
-							<!-- Conteúdo lateral ::: NOTÍCIAS -->
+							<!-- conteúdo CONTATO -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
 								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
+
+										<form class="contato-container">
+
+											<input type="text" class="form-control form-contato" placeholder="Nome"/>
+											<input type="text" class="form-control form-contato" placeholder="E-mail"/>
+											<textarea class="form-control form-contato textarea-contato" placeholder="Mensagem"></textarea>
+											<button type="submit" class="button button-contato">Enviar</button>
+										</form>
 
 									</div>
 								</div>

@@ -61,9 +61,9 @@ $( document ).ready(function() {
 		else{
 			$(pagina).show();
 			$(pagina_anterior).hide();
-			$('html, body').scrollTop(pagina.offset().top);
-
 		}
+
+		$('html, body').scrollTop(0);
 
 		if($(this).attr('href')=='agenda'){
 			openAgenda();
@@ -160,7 +160,7 @@ $( document ).ready(function() {
 
 		/*=== Mostra seta ===*/
 		$('.arrow-nav').show();
-		$('.site').css('overflow','visible');
+		$('.site').css('overflow-y','visible');
 	});
 
 	/* Move a página para a direita */
@@ -205,7 +205,7 @@ $( document ).ready(function() {
 		$('.arrow-nav').hide();
 
 		$('body').scrollTop(0);	
-		$('.site').css('overflow','hidden');
+		$('.site').css('overflow-y','hidden');
 	});
 
 	/* */

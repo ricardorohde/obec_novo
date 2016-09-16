@@ -275,13 +275,14 @@
 	padding-bottom: 20px;
 }
 .content-mural{
-	height: 50vh;
+	min-height: 50vh;
 	margin-top: 150px;
 	margin-bottom: 50px;
-	padding-right: 25px;
 	transform: none;
 	top: 0px;
-	overflow-y: scroll;
+}
+.contato-container{
+	width: 400px;
 }
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
@@ -289,6 +290,14 @@
 	/* conteúdo da pg */
 	.pagina-content{
 		width: 300px;
+	}
+	.button{
+		font-size: 9pt;
+		letter-spacing: 4px;
+		padding-left: 14px;
+		padding-right: 10px;
+		line-height: 28px;
+		height: 30px;
 	}
 
 	/* inicio */
@@ -319,7 +328,6 @@
 	}
 	.right-button .titulo-lat, .left-button .titulo-lat{
 		letter-spacing: 4px;
-		padding-left: 4px;
 	}
 	/* sobre */
 	#pagina-sobre{
@@ -353,5 +361,10 @@
 	.pub-button{
 		width: 220px;
 		margin: 10px 5px 0px 0px;
+	}
+
+	/* agenda */
+	.contato-container{
+		width: 280px;
 	}
 }
