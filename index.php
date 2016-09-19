@@ -197,14 +197,12 @@
 
 										<!-- Texto -->
 										<p class="info-sobre">
-											Ao compor a Rede de Observatórios em Economia Criativa, a Universidade se abre para uma nova experiência: a de agregar projetos de arte e cultura que tenham em sua essência espaço para a “convivência criativa”, dialogando, informando e debatendo o cruzamento de ideias. 
-											<br/>
-											O OBEC pretende atuar como uma fronteira aberta e permeável entre a universidade e a comunidade,  em um amplo diálogo com a cidade e na criação de pontos de contato entre a arte e a ciência, disseminando a criatividade como estratégia de desenvolvimento.
+											O Observatório de Economia Criativa do Rio Grande do Sul desenvolve ações de pesquisa e extensão em Economia Criativa promovendo o debate e a formação de massa crítica sobre o setor no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Seu objetivo é propor, realizar e consolidar um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede nacional e internacional, universidades, centros de pesquisa e inovação, estudiosos, especialistas, agentes governamentais e representantes dos mais amplos setores ligados às Industrias Criativas.
 										</p>
 
 										<!-- Vídeo -->
 										<div class="video-sobre">
-											<iframe width="100%" height="100%" src="https://www.youtube.com/embed/EG8u6rMgrx4" frameborder="0" allowfullscreen=""></iframe>
+											<iframe width="100%" height="100%" src="https://www.youtube.com/embed/OfbVN-NGzXo" frameborder="0" allowfullscreen=""></iframe>
 										</div>
 
 									</div>
@@ -698,7 +696,7 @@
 
 										<!-- Texto -->
 										<p class="info-projetos">
-											Os projetos realizados pelo Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul estão divididos em iniciativas de extensão e de pesquisa. Economia da cultura, Arranjos Produtivos Locais, Contas Nacionais de Cultura, desenvolvimento territorial, financiamento à cultura, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos no OBEC.
+											Os projetos realizados pelo Observatório em Economia Criativa da Universidade Federal do Rio Grande do Sul estão divididos em iniciativas de extensão e de pesquisa. Comércio internacional, indústrias criativas, economia da cultura, fomento à cultura brasileira, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos no OBEC.
 										</p>
 
 									</div>
@@ -901,9 +899,7 @@
 											<div class="projeto-content">
 												
 												<div class="titulo-projeto">
-
-													ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA – CONTA SATÉLITE DE CULTURA E COMÉRCIO INTERNACIONAL DE BENS E SERVIÇOS EM ECONOMIA CRIATIVA
-
+													COMÉRCIO INTERNACIONAL, INDÚSTRIAS CRIATIVAS E ECONOMIA DA CULTURA
 												</div>
 
 												<div class="separador"></div>
@@ -911,12 +907,26 @@
 												<div class="descricao-projeto">
 
 													<p>
-														O projeto tem por fim a elaboração de subsídios e diretrizes no contexto da estruturação da Conta Satélite de Cultura (IBGE-MinC). Além disso, estrutura-se no campo dos fluxos internacionais de bens e serviços em Economia Criativa e na consolidação teórico-metodológica da Conta Satélite Nacional de Cultura, desenvolvida em parceria entre IBGE e Ministério da Cultura. O projeto apresenta dois objetivos, quais sejam, a consolidação teórico-metodológica da Conta Satélite Nacional e o desenvolvimento metodológico e mensuração da corrente de comércio exterior do Brasil com os países da América do Sul e do Brasil com os demais países, com recorte específico para os serviços culturais/criativos.
+														Estudo da dinâmica econômica e geopolítica do comércio internacional contemporâneo com ênfase nas indústrias criativas e cadeias globais de serviços. A pesquisa se instrumentaliza a partir da aplicação de instrumentos práticos de análise e proposição de políticas e mecanismos de internacionalização nas ICs. São construídas também reflexões teóricas e aplicadas, a partir de bases de dados de comércio internacional e tecnologias de avaliação de impacto e processo de acesso a novos mercados contemporâneos. 
+														
+														<br/>
+															
+														Principais realizações no eixo:
+														
+														<ol>
+															<li> Cooperação Brasil-China: Possibilidades de fortalecimento da relação cultural bilateral.
+															Ministério da Cultura - 2015</li>
+
+															<li> Metodologias de mensuração dos impactos econômicos dos setores culturais e criativos.
+															Ministério da Cultura - 2014/2015</li>
+
+															<li> Suporte Técnico especializado para construção da política de difusão da cultura Brasileira.
+															Ministério da Cultura - 2015/2016</li>
+
+															<li> Banco de dados mundial sobre comercio internacional em ICs.
+															Ministério da Cultura - 2016</li>
+														</ol>
 													</p>
-													<br/>
-													<p>Início: 2013</p>
-													<p>Situação: Em andamento</p> 
-													<p>Financiador: Secretaria de Economia Criativa do Ministério da Cultura</p>
 										
 													<div class="voltar-proj">
 														<button class="button voltar-projeto">Voltar</button>
@@ -928,7 +938,7 @@
 
 											<div class="projeto-content">
 												<div class="titulo-projeto">
-													ESTUDOS E PESQUISAS EM ECONOMIA CRIATIVA - DESENVOLVIMENTO TERRITORIAL E FORTALECIMENTO DA ECONOMIA CRIATIVA
+													FOMENTO À CULTURA BRASILEIRA: POLÍTICAS E INDICADORES 
 												</div>
 
 												<div class="separador"></div>
@@ -936,14 +946,21 @@
 												<div class="descricao-projeto">
 
 													<p>
-														Em parceria firmada entre a Secretaria da Economia Criativa do Ministério da Cultura (SEC/MinC) e a UFRGS, esse projeto tem como objetivo principal prestar assessoria e consultoria técnica para subsidiar a implementação, o acompanhamento e a avaliação das políticas dessa Secretaria. Para tanto, suas ações estão organizadas em seis macroeixos temáticos: (i) desenvolvimento metodológico para o monitoramento e sistematização das etapas do Programa Incubadoras Brasil Criativo, bem como suporte técnico à elaboração e execução das políticas de formação e de articulação e gestão no contexto do Programa; (ii) sistematização dos dados e informações geradas a partir dos estudos e pesquisas dos Observatórios de Economia Criativa Estaduais (Obeces); (iii) estudos sobre a eficiência tributária em relação à produção cultural; (iv) suporte técnico para a política de desenvolvimento territorial da SEC/MinC, incluindo o monitoramento dos 27 planos de desenvolvimento para APLs Intensivos em Cultura pactuados em parceria com o MDIC; (v) suporte técnico para a construção da política de internacionalização das ações de promoção e difusão da cultura brasileira e para a constru- ção executiva da política de formação para promoção e difusão de bens culturais; e (vi) suporte técnico na aplicação, monitoramento e aprimoramento das ações da política no contexto dos territórios de vivência do Programa CEUs das Artes.
+														Mapear o processamento das distintas formas de fomento e incentivo à cultura brasileiros, tanto do lado da oferta quando da demanda, a fim de conhecer a composição e distribuição do fomento federal à cultura do país. O trabalho consiste em compreender os padrões de distribuição internos à cada forma de fomento e a maneira como eles compõe o padrão de fomento federal à cultura no país a partir de indicadores de concentração e distribuição e sua aderência às questões regionais. 
+
+														<br/>
+
+														Principais realizações no eixo: 
+
+														<ol>
+															<li> Plataforma de indicadores de fomento à cultura. Ministério da Cultura – 2015/2016</li>
+
+															<li> Sistematização de bancos de dados (FNC, Vale Cultura e Lei Rouanet). Ministério da Cultura – 2015/2016</li>
+
+															<li> Relatório analítico sobre financiamento à cultura no Brasil. Ministério da Cultura – 2016 </li>
+														</ol>
+
 													</p>
-
-													<br/>
-
-													<p>Início: 2014</p>
-													<p>Situação: Em andamento</p>
-													<p>Financiador: Ministério da Cultura</p>
 
 													<div class="voltar-proj">
 														<button class="button voltar-projeto">Voltar</button>
@@ -954,22 +971,30 @@
 
 											<div class="projeto-content">
 												<div class="titulo-projeto">
-													ELABORAÇÃO DO PLANO DE DESENVOLVIMENTO DO APL DO AUDIOVISUAL
+													ESTUDOS SETORIAIS EM ECONOMIA DA CULTURA E INDÚSTRIAS CRIATIVAS 
 												</div>
 
 												<div class="separador"></div>
-												
+
 												<div class="descricao-projeto">
 
 													<p>
-														O setor do audiovisual vive um momento de forte transição institucional e de alto crescimento no contexto econômico nacional e regional. Nesse sentido, o estabelecimento de um arranjo produtivo local (APL) tem um papel central no dimensionamento de esforços produtivos e bem da estruturação do setor. O governo do estado do RS, por meio da ação pontual da Agência Gaúcha de Promoção e Difusão do Investimento (AGDI), adota tal setor como uma das áreas prioritárias do processo de desenvolvimento local. Dessa forma, há interesse do mesmo em produzir massa crítica necessária para a gestão de investimentos na referida área. A Faculdade de Economia da UFRGS, além de sua reconhecida excelência acadêmica e técnica, possui um corpo técnico com tradição em estudos no campo da economia da cultura, o que a torna lócus privilegiado da realização de estudo focado no planejamento do desenvolvimento do APL do Audiovisual no Rio Grande do Sul. 
+														Realização de um diagnóstico dos mercados brasileiro e global de bens e serviços de Indústrias Criativas. Analise das distintas cadeias produtivas desses setores a partir de indicadores e estudos de impacto no PIB. No âmbito da análise da estrutura da cadeia produtiva, prioriza-se o mercado de trabalho, a evolução da ação das firmas, o comércio internacional, os padrões de desenvolvimento regional e o impacto econômico do financiamento e das políticas públicas para o setor. 
+
+														<br/>
+
+														Principais realizações no eixo: 
+														
+														<ol>
+															<li>Modelo metodológico da Conta Satélite de Cultura. Ministério da Cultura do Brasil – 2014/2015</li>
+
+															<li>Estudo da Cadeia Produtiva da Música no Brasil. Ministério da Cultura do Brasil - 2016</li>
+
+															<li>Digitalização no mercado de música e seus impactos no Brasil e na França. UFRGS e Universidade Paris 13 - 2016</li>
+
+															<li>Cultura como estratégia de Desenvolvimento Econômico – indicadores. UFRGS e Universidade de Valência 2015/2016</li>
+														</ol>
 													</p>
-
-													<br/>
-
-													<p>Início: 2013</p>
-													<p>Situação: Finalizado</p>
-													<p>Financiador: Agência Gaúcha de Desenvolvimento e Promoção do Investimento</p>
 
 													<div class="voltar-proj">
 														<button class="button voltar-projeto">Voltar</button>
@@ -980,22 +1005,29 @@
 
 											<div class="projeto-content">
 												<div class="titulo-projeto">
-													OBSERVATÓRIO ESTADUAL DE ECONOMIA CRIATIVA
+													NOVOS MODELOS DE NEGÓCIOS NAS INDÚSTRIAS CRIATIVAS: TRANSIÇÃO TECNOLÓGICA E MODELO INSTITUCIONAL 
 												</div>
 
 												<div class="separador"></div>
-												
+
 												<div class="descricao-projeto">
 
 													<p>
-														Envolve ações de pesquisa e extensão, tendo por foco a centralização e a estruturação de canais de acesso e informações sobre o setor de economia criativa, inclusive sobre seu impacto na dinâmica social econômica do país, favorecendo, assim, debates sobre o tema e o fomento a um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede, estudiosos, especialistas, agentes governamentais e representantes do setor cultural. O Observatório articula-se para a realização de estudos e pesquisas aplicadas e a difusão de informações sobre a economia criativa, com especial ênfase na realidade de cada estado brasileiro. Tal iniciativa foi implantada, em 2013, de forma análoga, na Universidade Federal Fluminense, Universidade Federal da Bahia, Universidade de Brasília, Universidade Federal de Goiás e Universidade Federal do Amazonas.
+														Análise de modelos de negócios contemporâneos no campo da Economia Criativa, a partir de dinâmicas de inovação institucional e de empreendedorismo local. Enfatiza a investigação de diferentes territórios criativos e sua diversificação setorial no Brasil (artesanato, música, patrimônio material, dança, teatro, design, moda, games, dentre outros). Destaca-se a produção de estudos temáticos sobre o mercado de trabalho, setores e ocupações criativas, grau de adaptação das empresas do setor à inovação, mudanças regulatórias e as políticas públicas de cada setor. 
+
+														<br/>
+														Principais realizações no eixo: 
+
+														<ol>
+															<li> Plano de Desenvolvimento do Arranjo Produtivo Local do Audiovisual no RS. Governo do Estado do RS - 2013 </li>
+
+															<li> Suporte teórico-metodológico ao Programa Incubadoras Brasil Criativo. Ministério da Cultura - 2014 </li>
+
+															<li> Modelo referencial para o Arranjos Produtivos Locais e Territórios Criativos. Ministério da Cultura - 2014 </li>
+
+															<li> Empreendedorismo, novos modelos e negócios e transição tecnológica nas Industrias Criativas. CNPQ – Brasil – 2015</li>
+														</ol>
 													</p>
-
-													<br/>
-
-													<p>Início: 2013</p> 
-													<p>Situação: Em andamento</p>
-													<p>Financiador/Parceiro: Secretaria de Economia Criativa do Ministério da Cultura</p> 
 
 													<div class="voltar-proj">
 														<button class="button voltar-projeto">Voltar</button>
@@ -1003,33 +1035,7 @@
 
 												</div>
 											</div>
-
-											<div class="projeto-content">
-												<div class="titulo-projeto">
-													PLATAFORMA DE INDICADORES SOBRE FINANCIAMENTO À CULTURA 
-												</div>
-
-												<div class="separador"></div>
-												
-												<div class="descricao-projeto">
-
-													<p>
-														Visa a fornecer um espelho da conjuntura pública brasileira para subsidiar o controle e a avaliação das políticas culturais no Brasil. Esses indicadores conjunturais direcionarão a política ministerial, com o intuito de permitir ao governo cumprir com as suas competências constitucionais. Para o suporte do desenvolvimento do projeto, o CEGOV, por meio do seu Grupo de Trabalho Economia Criativa, Cultura e Política Públicas, vem mapeando as áreas estratégicas e os indicadores-alvo, desenvolvendo uma ficha de indicadores que possa prover o acompanhamento e suporte às políticas, posteriormente sistematizado em um sistema web. O convênio tem como objetivos (i) criar, formalizar e aplicar indicadores sobre a base de dados do fomento e incentivos à cultura do MinC; (ii) relacionar esses indicadores a dados conjunturais, que permitam embasar a tomada de decisão e a avaliação de políticas públicas; (iii) oferecer ao Ministério da Cultura subsídios para o acompanhamento da distribuição e impacto dos recursos aplicados em incentivo à cultura em escala nacional; e (iv) Oferecer massa crítica ao MinC para embasar reflexões sobre o sistema nacional.
-													</p>
-
-													<br/>
-
-													<p>Início: 2015</p> 
-													<p>Situação: Em andamento</p>
-													<p>Financiador/Parceiro: Ministério da Cultura</p> 
-
-													<div class="voltar-proj">
-														<button class="button voltar-projeto">Voltar</button>
-													</div>
-
-												</div>
-											</div>
-
+											
 										</div>
 
 									</div>
