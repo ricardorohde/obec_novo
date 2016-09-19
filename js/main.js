@@ -2,9 +2,12 @@
 $( document ).ready(function() {
 	
 	/* ao abrir a agenda */
-	function openAgenda (){
-		var pgAgenda = $('#pagina-agenda');
-		$(pgAgenda).height($(pgAgenda).find('.pagina-content-lateral').outerHeight(true));
+	function openPgs (){
+
+		$('.container-site > div').each(function(index, element) {
+			
+			$(this).height($(this).find('.pagina-content-lateral').outerHeight(true));
+		});
 	}
 
 	/*========= Navegação vertical do site ========*/
@@ -29,7 +32,7 @@ $( document ).ready(function() {
 			return false;
 		}
 
-		if(larguraTela>720){
+		if(larguraTela>767){
 
 			/* Para que o conteúdo da página ocupe toda a altura da tela */
 			if (pagina.outerHeight() < $(window).height()){
@@ -64,11 +67,7 @@ $( document ).ready(function() {
 		}
 
 		$('html, body').scrollTop(0);
-
-		if($(this).attr('href')=='agenda'){
-			openAgenda();
-		}
-
+		openPgs();
 	});
 
 	/*========= Navegação lateral do site ========*/
@@ -243,7 +242,7 @@ $( document ).ready(function() {
 		contentProj.height(curHeight).animate({height: autoHeight}, 100);
 
 		/* ajusta scroll */
-		$('.lateral-align-vert-right').scrollTop(0);
+		$('.lateral-align-vert').scrollTop(0);
 
 	});	
 	$('.voltar-projeto').click(function(event){
@@ -280,7 +279,7 @@ $( document ).ready(function() {
 			$(this).children().each(function( index ){
 
 				/* calcula a largura do container baseado na largura das publicações */
-				containerWidth = $(this).width()+containerWidth+20;
+				containerWidth = $(this).outerWidth(true)+containerWidth;
 			});
 
 			/* atualiza largura */
@@ -414,14 +413,16 @@ $( document ).ready(function() {
 			$(publicacao).addClass('opened');
 			$(containerPub).addClass('opened');
 
-			$(containerPub).find('.publicacao-content.opened').each(function( index ) {
+			
 
-			    var curHeight = $(this).height(),
-			   		autoHeight = $(this).css('height', 'auto').height();
+			setTimeout(function()
+				{
+					var newHeight = $(containerPub).find('.publicacao-content.opened').outerHeight(true);
+					console.log(newHeight);
 
-			   	$(containerPub).height(curHeight).animate({height: autoHeight}, 50);
+					$(containerPub).height(newHeight);
+				}, 500);
 
-			});
 
 			/* fecha todos as outras publicações */
 			$(publicacao).siblings('.publicacao-content').css('width','0px').css('padding','0px');
@@ -492,6 +493,6 @@ $( document ).ready(function() {
 		$('.nav-x').removeClass('title-nav-x');
 		$('.nav-x').find('.titulo-lat').removeClass('sub-titulo-lat');
 
-		setTimeout(openAgenda(), 10000);
+		setTimeout(openPgs(), 10000);
 	});
 });

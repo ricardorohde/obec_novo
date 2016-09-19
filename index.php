@@ -288,7 +288,7 @@
 
 							<!-- Conteúdo lateral -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
-								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
+								<div class="lateral-align-vert"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
 
 
@@ -520,7 +520,7 @@
 
 							<!-- Conteúdo lateral -->
 							<div class="content-lateral">
-								<div class="lateral-align-vert-right">
+								<div class="lateral-align-vert">
 									<div class="lateral-align-horzt">
 
 										<!-- Container para resultados da equipe -->
@@ -780,7 +780,7 @@
 
 							<!-- Conteúdo lateral -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
-								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
+								<div class="lateral-align-vert"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
 
 										<!-- Projetos de extensão -->
@@ -892,7 +892,7 @@
 
 							<!-- Conteúdo lateral -->
 							<div class="content-lateral">
-								<div class="lateral-align-vert-right">
+								<div class="lateral-align-vert">
 									<div class="lateral-align-horzt">
 
 										<!-- Projetos de pesquisa -->
@@ -1176,7 +1176,7 @@
 
 							<!-- Conteúdo lateral -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
-								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
+								<div class="lateral-align-vert"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
 
 										<!-- Publicações -->
@@ -1705,7 +1705,7 @@
 
 							<!-- Conteúdo lateral  -->
 							<div class="content-lateral">
-								<div class="lateral-align-vert-right">
+								<div class="lateral-align-vert">
 									<div class="lateral-align-horzt">
 
 										<div class="video-container">
@@ -1801,7 +1801,7 @@
 								<div class="content-lateral-center">
 									
 									<!-- Volta a pg inicial -->
-									<div class="menu menu-logo-agenda">
+									<div class="menu">
 										<a href="inicio" class="link">
 											<div class="logo-icon"></div>
 										</a>
@@ -2043,7 +2043,7 @@
 
 							<!-- conteúdo CONTATO -->
 							<div class="content-lateral"> <!-- /* Container geral do conteúdo */ -->	
-								<div class="lateral-align-vert-left"> <!-- /* Alinha verticalmente */ -->	
+								<div class="lateral-align-vert"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
 
 										<form class="contato-container">
@@ -2051,7 +2051,9 @@
 											<input type="text" class="form-control form-contato" placeholder="Nome"/>
 											<input type="text" class="form-control form-contato" placeholder="E-mail"/>
 											<textarea class="form-control form-contato textarea-contato" placeholder="Mensagem"></textarea>
-											<button type="submit" class="button button-contato">Enviar</button>
+											<div class="text-right">
+												<button type="submit" class="button button-contato">Enviar</button>
+											</div>
 										</form>
 
 									</div>
@@ -2061,16 +2063,89 @@
 						</div><!-- /.fim da pg lateral -->
 
 
-						<!-- *** Direita agenda *** -->
+						<!-- *** direita agenda *** -->
 						<div class="lateral lateral-right">
 
 							<!-- Scroll na altura completa da pg -->
 							<div class="scroll-fake right"></div>
 
-							<!-- Conteúdo lateral ::: EVENTOS -->
+							<!-- conteúdo CALENDÁRIO -->
 							<div class="content-lateral">
-								<div class="lateral-align-vert-right">
+								<div class="lateral-align-vert">
 									<div class="lateral-align-horzt">
+
+										<!-- eventos -->
+										<div class="container-calendario">
+
+											<div class="content-calendario">
+
+												<!-- Notícia -->
+												<div class="container-evento highlight">
+													
+													<!-- Data evento -->
+													<div class="data-evento">
+														<div class="data-mes">JUN</div>
+														<div class="data-dia">10</div>
+													</div>
+													
+													<!-- Descrição evento -->
+													<div class="desc-evento">
+														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+													</div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="container-evento">
+													
+													<!-- Data evento -->
+													<div class="data-evento">
+														<div class="data-mes">JUN</div>
+														<div class="data-dia">10</div>
+													</div>
+													
+													<!-- Descrição evento -->
+													<div class="desc-evento">
+														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+													</div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="container-evento highlight">
+													
+													<!-- Data evento -->
+													<div class="data-evento">
+														<div class="data-mes">JUN</div>
+														<div class="data-dia">10</div>
+													</div>
+													
+													<!-- Descrição evento -->
+													<div class="desc-evento">
+														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+													</div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="container-evento">
+													
+													<!-- Data evento -->
+													<div class="data-evento">
+														<div class="data-mes">JUN</div>
+														<div class="data-dia">10</div>
+													</div>
+													
+													<!-- Descrição evento -->
+													<div class="desc-evento">
+														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+													</div>
+
+												</div>
+												
+											</div>
+
+										</div>
 
 									</div>
 								</div>

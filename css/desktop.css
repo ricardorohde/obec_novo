@@ -98,16 +98,22 @@
 
 /* Posição das laterais */
 .lateral-left{
+	top: 0px;
 	left: -100%;
 	z-index: 1000;
 	display: none;
+	height: 100vh;
 }
 .lateral-center{
+	top: 0px;
 	left: 0%;
+	height: 100vh;
 }
 .lateral-right{
+	top: 0px;
 	left: 100%;
 	display: none;
+	height: 100vh;
 }	
 
 
@@ -332,7 +338,7 @@
 	.content-lateral-center{
 		width: 680px;
 	}
-	.lateral-align-vert-right, .lateral-align-vert-left{
+	.lateral-align-vert{
 		margin-top: 80px;
 	}
 

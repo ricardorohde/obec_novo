@@ -8,6 +8,10 @@
     src: url('../fonts/Lato-Light.ttf');
 }
 @font-face {
+    font-family: Lato Black;
+    src: url('../fonts/Lato-Black.ttf');
+}
+@font-face {
     font-family: Adam;
     src: url(../fonts/adam/ADAM.CG_PRO.otf);
 }
@@ -234,26 +238,14 @@ body{
 }
 
 /* Alinha laterais verticalmente*/
-.lateral-align-vert-left{
+.lateral-align-vert{
 	position: absolute;
 	width: 100%;
 	height: 60vh;
 	top: 50%;
 	transform: translateY(-50%);
 	overflow-y: scroll;
-	margin-top: 50px;
 }
-.lateral-align-vert-right{
-	position: absolute;
-	width: 100%;
-	height: 60vh;
-	top: 50%;
-	transform: translateY(-50%);
-	overflow-y: scroll;
-	direction: ltr;
-	margin-top: 50px;
-}
-
 /* Alinha laterais horizontalmente */
 .lateral-align-horzt{
 	margin: auto;
@@ -275,7 +267,6 @@ body{
 	color: white;
 	margin: auto;
 }
-
 /*=== SOBRE ==========================*/
 .sobre-wrap{
 	background-image: url('../images/bg_sobre.jpg');
@@ -348,7 +339,7 @@ body{
 	width: 270px;
 	min-height: 300px;
 	display: inline-block;
-	margin: 25px;
+	margin: 0 25px 50px 25px;
 	line-height: 32px;
 }
 /* Foto */
@@ -737,7 +728,6 @@ body{
 .contato-container{
 	width: 80%;
 	margin: auto;
-	margin-top: 40px;
 }
 .form-contato{
 	margin: 10px 0px;
@@ -752,5 +742,45 @@ body{
 .button-contato{
 	font-size: 12pt;
 	padding-bottom: 5px;
-	float: right;
+}
+
+.container-calendario{
+	width: 550px;
+	margin: auto;
+	padding-left: 8px;
+}
+.container-evento{
+	margin-bottom: 25px;
+	width: 100%;
+	background-color: #de8d00;
+}
+.container-evento.highlight{
+	background-color: #f0a800;
+}
+.container-evento{
+	color: white;
+	font-size: 12pt;
+	font-family: 'Lato Regular';
+	text-align: justify;
+}
+.data-evento{
+	text-align: center;
+	font-family: 'Lato Black';
+	font-size: 25pt;
+	vertical-align: top;
+	display: inline-block;
+	width: 110px;
+	padding: 10px 15px;
+}
+.data-mes{
+	padding-left: 3px;
+}
+.data-dia{
+	font-size: 44pt;
+	margin-top: -25px;
+}
+.desc-evento{
+	padding: 15px 15px 10px 0px;
+	display: inline-block;
+	width: 425px;
 }

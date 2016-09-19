@@ -7,21 +7,29 @@
 }
 /* Idioma */
 .lang-container{
-	text-align: right;
+	text-align: center;
 	position: absolute;
-	top: 50%;
+	width: auto;
 	bottom: auto;
-	right: 0px;
-	transform: translateY(-50%);
+	left: 50%;
+	transform: translateX(-50%);
+	padding-top: 15px;
 }
 .lang-icon{
 	width: 35px;
 	height: 24px;
 	font-size: 8pt;
 	line-height: 20px;
-	padding-left: 2px;
+	padding-left: 4px;
+	margin: 1px;
 	text-align: center;
 	letter-spacing: 5px;
+}
+.button{
+	font-size: 9pt;
+	letter-spacing: 9px;
+	padding-left: 10px;
+	text-align: center;
 }
 
 
@@ -72,15 +80,9 @@
 }
 
 /* Alinha lateral verticalmente */
-.lateral-align-vert-left{
-	height: 65vh;
-	margin-top: 150px;
-	transform: none;
-	top: 0px;
-}
-.lateral-align-vert-right{
-	height: 65vh;
-	margin-top: 150px;
+.lateral-align-vert{
+	height: 75vh;
+	margin-top: 105px;
 	transform: none;
 	top: 0px;
 }
@@ -94,11 +96,6 @@
 	width: 190px;
 	top: 190px;
 }
-.right-button .titulo-lat, .left-button .titulo-lat{
-	font-size: 9pt;
-	letter-spacing: 9px;
-	padding-left: 9px;
-}
 .nav-x-left{
 	left: 50%;
 	transform: translateX(-105%);
@@ -110,7 +107,7 @@
 
 /* títulos nas pgs laterais */
 .nav-x.sub-nav-x{
-	top: 90px;
+	top: 30px;
 	width: 190px;
 }
 .nav-x-center.sub-nav-x{
@@ -127,7 +124,7 @@
 }
 .nav-x.title-nav-x{
 	transform: translateX(-50%);
-	top: 140px;
+	top: 80px;
 	width: 400px;
 }
 
@@ -194,7 +191,7 @@
 }
 /*=== PARCEIROS ==================*/
 .parceiros-content{
-	padding: 25px 0px 0px 0px;
+	padding: 0px 0px 25px 0px;
 }
 .logo-img{
 	width: 170px;
@@ -228,7 +225,7 @@
 }
 /*=== ACERVO ============*/
 .texto-acervo{
-	padding-top: 135px;
+	padding-top: 125px;
 	padding-bottom: 20px;
 }
 .video-content{
@@ -284,6 +281,25 @@
 .contato-container{
 	width: 400px;
 }
+.container-calendario{
+	width: 400px;
+}
+.container-evento{
+	font-size: 10pt;
+}
+.data-evento{
+	font-size: 18pt;
+	width: 80px;
+	padding: 15px;
+}
+.data-dia{
+	font-size: 32pt;
+	margin-top: -15px;
+}
+.desc-evento{
+	width: 300px;
+	padding-bottom: 15px;
+}
 /*=== Layout responsivo ======================*/
 /*=== min-width: 300px; ==============================*/
 @media only screen and (max-width: 479px){
@@ -294,8 +310,8 @@
 	.button{
 		font-size: 9pt;
 		letter-spacing: 4px;
-		padding-left: 14px;
-		padding-right: 10px;
+		padding-left: 4px;
+		padding-right: 4px;
 		line-height: 28px;
 		height: 30px;
 	}
@@ -366,5 +382,24 @@
 	/* agenda */
 	.contato-container{
 		width: 280px;
+	}
+	.container-calendario{
+		width: 280px;
+	}
+	.container-evento{
+		font-size: 10pt;
+	}
+	.data-evento{
+		font-size: 14pt;
+		width: 60px;
+		padding: 10px 0px;
+	}
+	.data-dia{
+		font-size: 25pt;
+		margin-top: -13px;
+	}
+	.desc-evento{
+		width: 205px;
+		padding: 10px 10px 15px 0px;
 	}
 }
