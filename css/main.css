@@ -688,7 +688,9 @@ body{
 .not-text{
 	font-family: 'Lato Regular';
 	font-size: 12pt;
-	font-weight: bold;
+}
+.not-text a{
+	color: white;
 }
 .not-text-mais{
 	overflow: hidden;

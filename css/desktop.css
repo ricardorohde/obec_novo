@@ -132,6 +132,7 @@
 	width: 665px;
 	height: auto;
 	margin: auto;
+	padding: 50px 0px;
 }
 
 
@@ -240,6 +241,9 @@
 	padding-top: 160px;
 	width: 590px;
 	margin: auto;
+}
+.content-mural{
+	height: 520px;
 }
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
@@ -490,5 +494,24 @@
 	}
 	.menu-capa{
 		bottom: 80px;
+	}
+}
+
+
+
+/* agenda */
+@media only screen and (min-height: 750px) and (max-height: 849px){
+	.content-mural{
+		height: 219px;
+	}
+}
+@media only screen and (min-height: 850px) and (max-height: 949px){
+	.content-mural{
+		height: 290px;
+	}
+}
+@media only screen and (min-height: 950px) and (max-height: 1050px){
+	.content-mural{
+		height: 390px;
 	}
 }

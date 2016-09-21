@@ -1779,12 +1779,13 @@
 					<div class="container-laterais">
 
 						<!-- *** Navegação horizontal *** -->
+						<!--
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
 								<button class="button titulo-lat">Contato</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
-						</div>
+						</div>-->
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
@@ -1792,12 +1793,13 @@
 							</a>
 						</div>
 
+						<!-- 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
 								<button class="button titulo-lat">Calendário</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
-						</div>
+						</div> -->
 
 						<!-- *** centro agenda *** -->
 						<div class="lateral lateral-center">
@@ -1824,35 +1826,58 @@
 												<!-- cabeçalho -->
 												<div class="noticia-header">
 													
-													<div class="not-tipo">Evento</div>
-													<div class="not-titulo">Título</div>
-													<div class="not-data">Data</div>
+													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">IV Conferência do Diálogos em Economia Criativa foca no setor audiovisual</div>
+													<div class="not-data">21/09/2016</div>
 
 												</div>
 
 												<!-- conteúdo -->
 												<div class="noticia-content">
-													<div class="not-img">
-														<img src="images/noticias/not2.png"/>
-													</div>
 
 													<div class="not-text">
 														
 														<div class="not-text-visivel">
 															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+																O Observatório de Economia Criativa (OBEC) vem promovendo o ciclo de debates Diálogos em Economia Criativa, durante o ano de 2016. Até o mês de dezembro, o projeto de extensão promoverá um espaço qualificado de discussões com pesquisadores e realizadores nacionais e internacionais da área.
 															</p>
 														</div>
 
 														<div class="not-text-mais">
 															
 															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+																No dia 13 de setembro, foi realizada a IV Conferência, sob o tema Economia da Música e do Audiovisual: uma visão do mercado a partir dos realizadores. Na ocasião, os professores Alfredo Bertini e Carlos Gerbase debateram sobre o panorama do setor musical e audiovisual no Brasil, bem como os principais entraves e vantagens para a produção cultural contemporânea, mediados pelo professor Leandro Valiati.
 															</p>
 
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
+															<p>
+
+																Questionados pelo professor Valiati foi sobre a conjuntura econômica do setor no Brasil e no mundo, os realizadores expuseram sobre a grande quantidade de consumo econômico gerado pelo campo das indústrias criativas de audiovisual, em um mercado já estabelecido no Brasil. No entanto, também foram tema as transformações pelas quais a área atravessa, com mudanças tecnológicas e convergência digital. 
 															</p>
+
+															<p>
+
+																Alfredo Bertili, secretário do Audiovisual do Ministério da Cultura, ex-diretor do Cine PE - Festival do Audiovisual e economista, enfatizou o papel do streaming afetando brutalmente no setor audiovisual. 
+															</p>
+
+															<p>
+
+																Carlos Gerbase, professor titular da PUCRS e diretor de cinema na Prana Filmes produtora de audiovisual, deu destaque para a necessidade de subsídios para o audiovisual ao relembrar que boa parte do cinema no Brasil não é industrial, concebida de maneira artesanal, como atividade artística por cineastas no país.
+															</p>
+
+															<p>
+
+																Assim, os gargalos apontados pelos professores estão ligados à necessidade de regulação do mercado cultural para enfrentar pressão econômica. O término da Lei do Audiovisual e a Lei Rouanet foram enfatizadas como incentivos importantes para a área da cultura, uma das grandes atividades econômicas no Brasil.
+															</p>
+
+															<p>
+																A transmissão da conferência do Diálogos em Economia Criativa está disponível no <a href="http://youtu.be/7rFuQiRZti4">Youtube</a>.
+
+															</p>
+															
+															<p>
+																No mês de outubro, a V Conferência ocorre no dia 04. Mais informações e inscrições em <a href="www.ufrgs.br/obec/dialogos">ufrgs.br/obec/diálogos</a>.
+															</p>
+
 														</div>
 
 													</div>
@@ -1868,10 +1893,9 @@
 
 											</div>
 
-											<!-- Notícia -->
+											<!-- Notícia
 											<div class="noticia-container right">
 												
-												<!-- cabeçalho -->
 												<div class="noticia-header">
 													
 													<div class="not-tipo">Evento</div>
@@ -1880,7 +1904,6 @@
 
 												</div>
 
-												<!-- conteúdo -->
 												<div class="noticia-content">
 													<div class="not-img">
 														<img src="images/noticias/not2.png"/>
@@ -1916,57 +1939,7 @@
 
 												<div class="separador"></div>
 
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">Evento</div>
-													<div class="not-titulo">Título</div>
-													<div class="not-data">Data</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-													<div class="not-img">
-														<img src="images/noticias/not2.png"/>
-													</div>
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-
-															<p> 
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. Phasellus orci enim, facilisis et ante ut, pretium elementum sapien.
-															</p>
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
+											</div> -->
 											
 										</div>
 									</div>
