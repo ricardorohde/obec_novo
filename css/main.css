@@ -217,11 +217,6 @@ body{
 	position: relative;
 	display: none;
 }
-.sombra-layer{
-	background-image: url('../images/bg_sombra.png');
-	background-size: 100% 100%;
-	position: relative;
-}
 .pagina-content{
 	top: 50%;
 	left: 50%;
@@ -786,3 +781,17 @@ body{
 	display: inline-block;
 	width: 425px;
 }
+
+/* temporário */
+ .agenda-div{
+ 	padding: 150px 0px;
+ }
+ .texto-agenda{
+ 	position: absolute;
+ 	top: 40%;
+ 	left: 50%;
+ 	transform: translate(-50%);
+ 	font-size: 18pt;
+ 	letter-spacing: 4px;
+ 	color: white;
+ }

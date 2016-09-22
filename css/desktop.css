@@ -27,11 +27,6 @@
 	transform: translate(-50%, -50%); /* centraliza horz e vert */
 }
 
-/* Layer com a sombra no final da pg */
-.sombra-layer{
-	height: 100vh;
-}
-
 /* setas */
 .arrow-nav{
 	display: inline-block;
