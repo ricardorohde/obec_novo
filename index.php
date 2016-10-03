@@ -1779,13 +1779,12 @@
 					<div class="container-laterais">
 
 						<!-- *** Navegação horizontal *** -->
-						<!--
 						<div class="nav-x nav-x-left text-center">
 							<a class="left-button">
 								<button class="button titulo-lat">Contato</button>
 								<div class="arrow-nav arrow-left"></div>
 							</a>
-						</div>-->
+						</div>
 
 						<div class="nav-x nav-x-center text-center">
 							<a class="center-button">
@@ -1793,13 +1792,12 @@
 							</a>
 						</div>
 
-						<!-- 
 						<div class="nav-x nav-x-right text-left">
 							<a class="right-button">
 								<button class="button titulo-lat">Calendário</button>
 								<div class="arrow-nav arrow-right"></div>
 							</a>
-						</div> -->
+						</div>
 
 						<!-- *** centro agenda *** -->
 						<div class="lateral lateral-center">
@@ -1822,6 +1820,315 @@
 
 											<!-- Notícia -->
 											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">EVENTO</div>
+													<div class="not-titulo">Empreendedores brasileiros participam do Micsul 2016</div>
+													<div class="not-data">03/10/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																O <a href="http://www.cultura.gov.br/micsul2016">Mercado de Indústrias Culturais do Sul (Micsul)</a>, evento que será realizado entre os dias 17 e 20 de outubro, em Bogotá, na Colômbia, é o mais importante encontro voltado a mercados culturais e criativos da América do Sul. 
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Criado com o intuito de promover intercâmbio de conhecimento, produtos e serviços culturais e criativos, o Micsul é uma iniciativa dos Ministérios da Cultura de Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Peru, Paraguai, Uruguai e Venezuela. A primeira edição foi realizada em maio de 2014, em Mar del Plata, na Argentina. Em 2018, o Brasil sediará o evento em seu terceiro encontro.
+															</p>
+
+															<p> 
+																Neste ano, o Micsul contará com a participação de 61 empreendedores brasileiros, que terão oportunidade de promover seus negócios e contribuir para o fortalecimento da cultura brasileira no exterior. 
+															</p>
+
+															<p> 
+																"O Micsul é a principal plataforma de promoção da dimensão econômica da cultura na América do Sul. Sua consolidação como evento de referência regional e internacional, já nesta segunda edição, nos inspira a intensificar esforços para ampliar mecanismos e recursos necessários ao incremento da inserção de bens e serviços culturais brasileiros no mercado global", destaca o ministro da Cultura do Brasil, Marcelo Calero.
+															</p>
+
+															<p>
+																Nesta edição, o Brasil terá uma participação expressiva contando com empreendedores dos setores de artes cênicas, audiovisual, editorial, animação e games, música e design, e moda. Os 61 empreendedores foram selecionados por meio de edital lançado em parceria pelo Ministério da Cultura (MinC) e a Agência Brasileira de Promoção de Exportações e Investimentos (Apex-Brasil).
+															</p>
+
+															<p>
+																Para o presidente da Apex-Brasil, Roberto Jaguaribe, a participação no Micsul integra a estratégia de consolidar a imagem do Brasil no exterior como um país que oferece ao mundo produtos e serviços criativos e diversificados. "A presença brasileira no evento contribui para induzir investimentos no aprimoramento da produção para novos mercados, ampliar a circulação de artistas e outros profissionais da cultura no exterior e gerar emprego e renda", avalia.
+															</p>
+
+															<p>
+																Além dos 61 empreendedores, como Anna Helena da Costa Politschuk, de São Paulo, e Romero Sousa, de João Pessoa, o Brasil também levará ao Micsul apresentações culturais de música, dança e circo. Os shows serão realizados dentro das programações oficial e paralela do evento. Irão se apresentar o cantor e compositor pernambucano Siba, o duo Nina Wirtti e Luís Barcelos, a São Paulo Companhia de Dança, o espetáculo #Passinho e o Circo Girassol, de Porto Alegre (RS).
+															</p>
+
+															<p>
+																Com informações de Alessandra de Paula, assessora de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/brasil-marca-presenca-no-micsul-com-61-empreendedores/10883">Comunicação do Ministério da Cultura</a>.
+															</p>
+
+															<img src="images/noticias/micsul.png" class="noticia-image"/>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">EVENTO</div>
+													<div class="not-titulo">Conferência no King’s College London ocorre em outubro, com Leandro Valiati</div>
+													<div class="not-data">29/09/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																No dia 25 de outubro ocorre a conferência <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">Creative Economy, Culture and Development in Brazil: an overview of the academic and public policy agenda</a>, com Leandro Valiati, coordenador do OBEC e do Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS). O evento faz parte da série de seminários do <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/Seminar-Series-201617.aspx">Brazil Institute Research</a>, da King’s College London e terá lugar no K3.11 King’s Building Strand Campus, a partir das 17h30. 
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																A conferência do professor Valiati dará uma ampla visão sobre as pesquisas acadêmicas e aplicadas produzidas mais recentemente no OBEC e no GT, enfatizando pontos teóricos centrais sob um ponto de vista do desenvolvimento. Na ocasião, também serão apresentadas as parcerias firmadas junto ao Ministério da Cultura, à Erasmus Universidade de Rotterdam, à Universidade de Valencia e à Universidade Sorbonne. Os principais bancos de dados, indicadores e análises produzidas; a descrição das principais tecnologias transferidas para os governos locais e federal; e os desafios das políticas públicas relativas ao estado da arte na Economia Criativa e da Cultura também serão tema do encontro.
+															</p>
+
+															<p> 
+																O evento é gratuito e não demanda inscrição. 
+															</p>
+
+															<p> 
+																Mais informações em <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">King’s College</a> e pelo e-mail brazil-institute@kcl.ac.uk.
+															</p>
+
+															<img src="images/noticias/ConferenciaLondres.png" class="noticia-image"/>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Conheça o aplicativo Culturi</div>
+													<div class="not-data">28/09/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																O Ministério da Cultura (MinC), em parceria com a Universidade Federal da Paraíba (UFPB), por meio do Laboratório de Aplicações de Vídeo Digital (Lavid), lançou o <a href="http://www.culturi.com.br">Culturi</a>, uma rede social que busca divulgar a cultura nacional para brasileiros e estrangeiros. 
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																O aplicativo é gratuito é já está disponível para plataformas Android e IOS. Além de mapear os principais eventos culturais e turísticos, os internautas também poderão mostrar o seu olhar e colaborar com a cobertura, ao enviar fotos, vídeos, ou registrar a experiência cultural da rua, bairro e cidade. 
+															</p>
+
+															<p> 
+																O secretário do audiovisual do Ministério da Cultura, Alfredo Bertini, elogiou a iniciativa, que aproxima ainda mais a Cultura das pessoas. "É importante o MinC estar atento às demandas da sociedade. Nós disponibilizamos esse aplicativo, que contribui para isso", disse. Thaís Gaudencio do Rêgo, coordenadora de desenvolvimento do Culturi e professora da UFPB, explica que registro e consulta são feitos por qualquer usuário e foi idealizado para acompanhamento de atividades culturais, shows e exposições de arte. “O circuito de audiovisual Brasil 2016, por exemplo, tem toda a sua programação registrada no aplicativo, inclusive sobre sessões com audiodescrição e legenda, apropriadas para pessoas com deficiência visual e auditiva", explicou. 
+															</p>
+
+															<p> 
+																Por meio da ferramenta, o próprio usuário, além de ter informações disponíveis, poderá acrescentar outros dados culturais. O interessado também poderá curtir, avaliar, compartilhar e convidar outros usuários para os eventos cadastrados. 
+															</p>
+
+															<p> 
+																Para motivar e estimular os usuários a colaborarem e avaliarem todo o seu conteúdo, a rede social usa um ranking de pessoas e cidades que mais interagem, divulgam e contribuem com a cultura no Brasil, que estará disponível no aplicativo. Além disso, artistas, produtores, organizadores de eventos culturais e empresas podem divulgar gratuitamente qualquer tipo de atividade e manifestação ligadas à cultura. O Culturi utiliza, ainda, bases de dados do Ministério da Cultura, como o Mapas Culturais, que faz parte do Sistema Nacional de Informações e Indicadores Culturais (Sniic).
+															</p>
+
+															<p> 
+																Acesse o <a href="https://youtu.be/wNpkkGpx90M">vídeo</a> para mais informações sobre o <a href="http://www.culturi.com.br">Culturi</a>.
+															</p>
+
+															<p> 
+																Com informações de <a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/programacoes-culturais-na-palma-da-mao/10883">MinC</a>.
+															</p>
+
+															<img src="images/noticias/culturi.png" class="noticia-image"/>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Financiamento à cultura no Brasil</div>
+													<div class="not-data">27/09/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Denúncias de corrupção envolvendo a Lei Rouanet somaram-se a efervescência política do país e reavivaram o debate sobre o financiamento à cultura no Brasil. No mês de maio, a operação boca-livre da Polícia Federal revelou uma fraude de R$ 180 milhões desviados da Lei Rouanet. Mas como se dá o apoio público à cultura no Brasil?
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Desde a década de 1990, a partir das reformas de enxugamento do Estado, a Lei de Incentivo à Cultura (LIC), mais conhecida como Lei Rouanet, tem sido predominante no fomento cultural público do país. Com a LIC, o Estado abdica da arrecadação de uma parcela do imposto de renda para que os contribuintes privados se engajem em mecenato, no financiamento direto aos agentes executores de atividades e bens culturais. Nessa modalidade, a captação de recursos para o fomento à cultura fica sob deliberação do mercado. O funcionamento dessa renúncia fiscal inicia-se com a seleção, por parte do Ministério da Cultura, da Comissão Nacional de Incentivo à Cultura, composta por representantes da sociedade civil. A ela cabe a seleção de projetos em que identifiquem valor cultural, para que esses possam ir a público captar recursos passíveis de dedução no imposto de renda. Quando o valor é aprovado para o proponente e a sua carta de concessão, emitida, a busca de incentivadores privados (especialmente no meio empresarial) pode ser iniciada. O valor investido pode ser abatido em até 4% do imposto de renda de pessoas jurídicas e em 6% da tributação de pessoas físicas.
+															</p>
+
+															<p>
+
+																Com esse mecanismo, a sociedade civil ganha protagonismo no processo, poupando custos administrativos e criando novos canais para a facilitação e ampliação do investimento privado. Contudo, esse mesmo benefício reside em uma lógica de sociedade como mercado, abstendo-se da função da política pública como espaço de arbítrio social. Dessa forma, em última análise, termina cabendo ao empresariado a decisão final sobre as atividades culturais subsidiadas pelo Estado. 
+															</p>
+
+															<p>
+
+																Mesmo embebida da lógica do mercado, a Lei Rouanet tem se mostrado ineficaz na dinamização e pluralização da Economia da Cultura, com pouco mais de 50% dos projetos aprovados captando apenas 20% do valor total concedido. Ademais, a concentração regional também deve ser enfatizada: no acumulado dos mais de vinte anos de Lei, 80% dos recursos foram captados por projetos na região Sudeste, em especial, do eixo Rio-São Paulo, de forma desproporcional, mesmo considerando os padrões demográficos. O poder de veto do empresariado sobre os projetos culturais efetivamente pode estar no seio dessas distorções. Nem mesmo o fortalecimento e pluralização das atividades do MinC nas últimas décadas reduziu o protagonismo da Lei Rouanet no sistema nacional de fomento. Em 2015, o MinC investiu R$ 320 milhões em projetos, enquanto abdicou de R$ 1,8 bilhão por meio da Lei Rouanet.
+															</p>
+
+															<p>
+
+																A corrupção que surge dentro desse instrumento se revela no poder adquirido pelos grandes incentivadores privados na efetivação do fomento público cultural. Em 2015, as 10 empresas que mais financiaram pela Rouanet empregaram 20% do total subsidiado pelas mais de 3 mil incentivadoras, refletindo uma assimetria de que derivam perniciosas barganhas. Dessa forma, pode-se afirmar que as contradições do sistema de fomento surgem do distanciamento das políticas da diversidade e da pluralidade, que são inerentes à cultura, subvertendo-as ao cálculo publicitário de um reduzido de mecenas. Ainda assim, o subsídio à cultura não está nem próximo de isenções fiscais como para as igrejas, para o setor automotivo ou para as Olimpíadas. Desse modo, a atenção recebida pelo tema abre uma importante janela de oportunidade para a reflexão sobre formas de aprimorar os recursos públicos investidos na área no Brasil. 
+															</p>
+
+															<p>
+																Com base na matéria “Financiamento em Debate”, de autoria de Leandro Valiati e Lucas de Oliveira Paes, publicada no Jornal da UFRGS, em agosto de 2016.
+
+															</p>
+
+															<img src="images/noticias/FinancCulturaBanner.png" class="noticia-image"/>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Coordenador Leandro Valiati participa de evento na Universidade Paris 13</div>
+													<div class="not-data">23/09/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Entre os dia 21 e 23 de setembro, ocorreu a quarta edição do evento Universidade de Verão do Laboratório de Excelência sobre Indústrias Culturais e Criação Artística da Universidade Paris 13. 
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Na ocasião, o professor Leandro Valiati, apresentou os projetos de pesquisa em andamento no Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS) e no Observatório de Economia Criativa (OBEC/UFRGS), ambos sob sua coordenação. Durante o evento, foi possível um amplo intercâmbio científico com pesquisadores internacionais da área, sobre temas como comércio internacional, indústrias criativas, fomento à cultura e Economia da Cultura.
+															</p>
+
+															<p>
+																O Labex ICCA é um laboratório de pesquisa interdisciplinar focado na prática e no mercado da cultura e da arte. Fundado em 2011, os principais objetivos do ICCA são a pesquisa sobre novos modelos de negócio e de regulação, bem como o estudo de novos usos e mercados emergentes e a transformação de estruturas legais, tanto em atividades tradicionais quanto no mundo digital.
+															</p>
+
+															<p>
+																Para mais informações sobre o evento, acesse <a href="https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/">https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/</a>.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1875,7 +2182,7 @@
 															</p>
 															
 															<p>
-																No mês de outubro, a V Conferência ocorre no dia 04. Mais informações e inscrições em <a href="www.ufrgs.br/obec/dialogos">ufrgs.br/obec/diálogos</a>.
+																No mês de outubro, a V Conferência ocorre no dia 04. Mais informações e inscrições em <a href="http://www.ufrgs.br/obec/dialogos">ufrgs.br/obec/diálogos</a>.
 															</p>
 
 														</div>
@@ -2025,6 +2332,7 @@
 								<div class="lateral-align-vert"> <!-- /* Alinha verticalmente */ -->	
 									<div class="lateral-align-horzt"> <!-- /* Alinha horizontalmente */ -->	
 
+										<!--
 										<form class="contato-container">
 
 											<input type="text" class="form-control form-contato" placeholder="Nome"/>
@@ -2034,6 +2342,12 @@
 												<button type="submit" class="button button-contato">Enviar</button>
 											</div>
 										</form>
+
+										-->
+
+										<div class="agenda-div">
+											<div class="texto-agenda">EM BREVE</div>
+										</div>
 
 									</div>
 								</div>
@@ -2060,16 +2374,30 @@
 
 												<!-- Notícia -->
 												<div class="container-evento highlight">
-													
+
 													<!-- Data evento -->
 													<div class="data-evento">
-														<div class="data-mes">JUN</div>
-														<div class="data-dia">10</div>
+														<div class="data-mes">OUT</div>
+														<div class="data-dia">17</div>
 													</div>
 													
 													<!-- Descrição evento -->
 													<div class="desc-evento">
-														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+														<p>
+															<b>Mercado de Indústrias Culturais do Sul (MICSUL 2016).</b>	
+														</p>
+														<p>
+															Local: Bogotá, Colômbia
+															<br/>
+															Horário: de 17 a 20 de outubro
+														</p> 
+
+														<p>
+															<a href="http://www.cultura.gov.br/micsul2016" target="_blank">
+																<img src="images/icons/link.png" class="link-icon" />
+																<span class="read-more-ev">Mais informações</span>
+															</a>
+														</p>
 													</div>
 
 												</div>
@@ -2079,13 +2407,27 @@
 													
 													<!-- Data evento -->
 													<div class="data-evento">
-														<div class="data-mes">JUN</div>
-														<div class="data-dia">10</div>
+														<div class="data-mes">OUT</div>
+														<div class="data-dia">25</div>
 													</div>
 													
 													<!-- Descrição evento -->
 													<div class="desc-evento">
-														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+														<p>
+															<b>Creative Economy, Culture and Development in Brazil: an overview of the academic and public policy agenda, com Leandro Valiati.</b>
+														</p>
+														<p>
+															Local: K3.11 King’s Building Strand Campus - King’s College London
+															<br/>
+															Horário: 17h30
+														</p>
+
+														<p>
+															<a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx" target="_blank">
+																<img src="images/icons/link.png" class="link-icon" />
+																<span class="read-more-ev">Mais informações</span>
+															</a>
+														</p>
 													</div>
 
 												</div>
@@ -2095,13 +2437,26 @@
 													
 													<!-- Data evento -->
 													<div class="data-evento">
-														<div class="data-mes">JUN</div>
-														<div class="data-dia">10</div>
+														<div class="data-mes">NOV</div>
+														<div class="data-dia">08</div>
 													</div>
 													
 													<!-- Descrição evento -->
 													<div class="desc-evento">
-														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+														<p>
+															<b>Diálogos: Economia Criativa, Empreendedorismo e Novas Tecnologias Sociais, com Marcos André Carvalho (Rio Criativo) e Paul Heritage (Queen Mary University of London).</b>
+														</p>
+														<p>
+															Local: Salão de Festas – Reitoria UFRGS (Av. Paulo Gama, 110)
+															<br/>
+															Horário: 19h
+														</p>
+														<p>
+															<a href="http://www.ufrgs.br/obec/dialogos/" target="_blank">
+																<img src="images/icons/link.png" class="link-icon" />
+																<span class="read-more-ev">Mais informações</span>
+															</a>
+														</p>
 													</div>
 
 												</div>
@@ -2111,13 +2466,26 @@
 													
 													<!-- Data evento -->
 													<div class="data-evento">
-														<div class="data-mes">JUN</div>
-														<div class="data-dia">10</div>
+														<div class="data-mes">DEZ</div>
+														<div class="data-dia">06</div>
 													</div>
 													
 													<!-- Descrição evento -->
 													<div class="desc-evento">
-														Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id blandit massa. In molestie sodales tincidunt. Aenean in libero tempor, fermentum lectus sit amet, ullamcorper sem. Nam a pulvinar sapien. 
+														<p>
+															<b>Seminário: Digitalização, inovação e nova economia internacional.</b>
+														</p>
+														<p>
+															Local: Salão de Festas – Reitoria UFRGS (Av. Paulo Gama, 110)
+															<br/>
+															Horário: de 06 a 07 de dezembro
+														</p>
+														<p>
+															<a href="http://www.ufrgs.br/obec/dialogos/" target="_blank">
+																<img src="images/icons/link.png" class="link-icon" />
+																<span class="read-more-ev">Mais informações</span>
+															</a>
+														</p>
 													</div>
 
 												</div>

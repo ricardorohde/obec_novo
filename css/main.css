@@ -672,6 +672,9 @@ body{
 	height: 100%;
 	min-width: 100%;
 }
+.noticia-image{
+	max-width: 100%;
+}
 .noticia-container.right .not-img{
 	float: right;
 	margin: 5px 0px 0px 10px;
@@ -685,7 +688,13 @@ body{
 	font-size: 12pt;
 }
 .not-text a{
-	color: white;
+	color: #ffc415;
+	font-weight: bold;
+	transition: .1s all ease-in-out;
+}
+.not-text a:hover{
+	text-decoration: none;
+	color: rgba(256,256,256,.5);
 }
 .not-text-mais{
 	overflow: hidden;
@@ -781,7 +790,19 @@ body{
 	display: inline-block;
 	width: 425px;
 }
-
+.desc-evento a{
+	color: white;
+	font-size: 10pt;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.read-more-ev{
+	line-height: 15px;
+}
+.link-icon{
+	height: 15px;
+	margin-top: -5px;
+}
 /* temporário */
  .agenda-div{
  	padding: 150px 0px;
