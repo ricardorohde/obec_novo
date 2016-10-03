@@ -79,10 +79,11 @@ body{
 
 /* idioma */
 .lang-container{
-	position: absolute;
+	position: fixed;
 	right: 20px;
 	bottom: 80px;
 	width: 70px;
+	z-index: 1;
 }
 .lang-icon{
 	width: 60px;
