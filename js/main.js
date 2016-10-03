@@ -360,7 +360,8 @@ $( document ).ready(function() {
 	/* fecha alguma publicacao, ao clicar na imagem ou clicar em voltar */
 	function closePub(obj){
 		
-		var projeto = $(obj).parents('.wrap-pub'),
+		var publicacoes = $(obj).parents('.wrap-pub'),
+			projeto = $(obj).parents('.projeto-content'),
 			containerPub = $(obj).parents('.container-pub'),
 			publicacao = $(obj).parents('.publicacao-content');
 
@@ -370,18 +371,24 @@ $( document ).ready(function() {
 		$(publicacao).find('.pub-content-text').css('display','none');
 
 		/* ajusta altura e largura da publicação */
-		$(projeto).removeClass('opened');
+		$(publicacoes).removeClass('opened');
 		$(publicacao).removeClass('opened');
 		$(publicacao).parents('.container-pub').removeClass('opened');
 
 		$(containerPub).height('225px');
 
+		var curHeightProj = $(projeto).height(),
+			autoHeightProj = $(projeto).css('height', 'auto').height();
+
+		$(projeto).height(curHeightProj).animate({height: autoHeightProj}, 1);
+
+
 		/* abre todas as outras publicações */
 		$(publicacao).siblings('.publicacao-content').css('width','170px').css('padding','10px');
 
 		/* setas direcionais reaparecem */	
-		$(projeto).siblings('.left-move').show();
-		$(projeto).siblings('.right-move').show();
+		$(publicacoes).siblings('.left-move').show();
+		$(publicacoes).siblings('.right-move').show();
 	}
 	$('.voltar-pub').click(function(event){
 
@@ -393,12 +400,13 @@ $( document ).ready(function() {
 	$('.pub-content-img').click(function(event){
 
 		/* define objetos */
-		var projeto = $(this).parents('.wrap-pub'),
+		var publicacoes = $(this).parents('.wrap-pub'),
+			projeto = $(this).parents('.projeto-content'),
 			containerPub = $(this).parents('.container-pub'),
 			publicacao = $(this).parents('.publicacao-content');
 		
 		/* verifica se publicação está aberta ou fechada */
-		var openFlag = $(projeto).find('.pub-content-img').hasClass('opened');
+		var openFlag = $(publicacoes).find('.pub-content-img').hasClass('opened');
 
 		/* abrir */
 		if(!openFlag){	
@@ -409,34 +417,37 @@ $( document ).ready(function() {
 			$(publicacao).find('.pub-content-text').css('display','inline-block');
 			
 			/* ajusta largura e altura da publicação */
-			$(projeto).addClass('opened');
+			$(publicacoes).addClass('opened');
 			$(publicacao).addClass('opened');
 			$(containerPub).addClass('opened');
 
+			var newHeight = $(containerPub).find('.publicacao-content.opened').outerHeight(true);
+			$(containerPub).height(newHeight);
 			
-
 			setTimeout(function()
-				{
-					var newHeight = $(containerPub).find('.publicacao-content.opened').outerHeight(true);
-					console.log(newHeight);
+			{
+				$(containerPub).height('auto');
 
-					$(containerPub).height(newHeight);
-				}, 500);
+				var curHeightProj = $(projeto).height(),
+					autoHeightProj = $(projeto).css('height', 'auto').height();
 
+		   		$(projeto).height(curHeightProj).animate({height: autoHeightProj}, 1);
+
+			}, 1);
 
 			/* fecha todos as outras publicações */
 			$(publicacao).siblings('.publicacao-content').css('width','0px').css('padding','0px');
 
 			/* volta rolagem para posição inicial */
 			$(containerPub).css('marginLeft','0px');
-			$(projeto).siblings('.left-move').css({ 'background-image': 'none', 'cursor': 'auto'});
-			if(containerPub.width()>projeto.width()){
-				$(projeto).siblings('.right-move').removeAttr('style');
+			$(publicacoes).siblings('.left-move').css({ 'background-image': 'none', 'cursor': 'auto'});
+			if(containerPub.width()>publicacoes.width()){
+				$(publicacoes).siblings('.right-move').removeAttr('style');
 			}
 			
 			/* setas direcionais desaparecem */			
-			$(projeto).siblings('.left-move').hide();
-			$(projeto).siblings('.right-move').hide();
+			$(publicacoes).siblings('.left-move').hide();
+			$(publicacoes).siblings('.right-move').hide();
 		}
 		/* fechar */
 		else{

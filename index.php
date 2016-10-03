@@ -1188,283 +1188,274 @@
 										<!-- Publicações -->
 										<div class="container-proj-pub">
 
-											<!-- Move para a esquerda  -->
-											<div class="left-move">
-											</div>
+											<div class="projeto-content">
 
-											<!-- Conteúdo das publicações -->
-											<div class="wrap-pub">
-
-												<!-- Container publicações -->
-												<div class="container-pub">
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub4.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub1.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub3.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub3.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub4.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub1.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub3.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-												
+												<div class="titulo-projeto">
+													NOVOS MODELOS DE NEGÓCIOS NAS INDÚSTRIAS CRIATIVAS: TRANSIÇÃO TECNOLÓGICA E MODELO INSTITUCIONAL 
 												</div>
-											</div>
 
-											<!-- Move para a direita -->
-											<div class="right-move">
+												<div class="descricao-projeto">
+
+													<div class="separador"></div>
+
+													<!-- Move para a esquerda  -->
+													<div class="left-move">
+													</div>
+
+													<!-- Conteúdo das publicações -->
+													<div class="wrap-pub">
+
+														<!-- Container publicações -->
+														<div class="container-pub">
+																												
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub4.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub1.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub3.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub2.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub3.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub4.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub1.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub3.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub2.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+														
+														</div>
+													</div>
+
+													<!-- Move para a direita -->
+													<div class="right-move">
+													</div>
+
+													<div class="voltar-proj">
+														<button class="button voltar-projeto">Voltar</button>
+													</div>
+
+												</div>
 											</div>
 
 										</div>
@@ -1473,227 +1464,258 @@
 
 										<!-- Publicações -->
 										<div class="container-proj-pub">
-											
-											<!-- Move para a esquerda  -->
-											<div class="left-move">
-											</div>
+											<div class="projeto-content">
 
-											<!-- Conteúdo das publicações -->
-											<div class="wrap-pub">
-
-												<!-- Container publicações -->
-												<div class="container-pub">
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub4.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub3.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub3.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-												
+												<div class="titulo-projeto">
+													NOVOS MODELOS DE NEGÓCIOS NAS INDÚSTRIAS CRIATIVAS: TRANSIÇÃO TECNOLÓGICA E MODELO INSTITUCIONAL 
 												</div>
-											</div>
 
-											<!-- Move para a direita -->
-											<div class="right-move">
-											</div>
+												<div class="descricao-projeto">
 
+													<div class="separador"></div>
+
+													<!-- Move para a esquerda  -->
+													<div class="left-move">
+													</div>
+
+													<!-- Conteúdo das publicações -->
+													<div class="wrap-pub">
+
+														<!-- Container publicações -->
+														<div class="container-pub">
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub2.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub4.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub3.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub2.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub3.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+														
+														</div>
+													</div>
+
+													<!-- Move para a direita -->
+													<div class="right-move">
+													</div>
+
+													<div class="voltar-proj">
+														<button class="button voltar-projeto">Voltar</button>
+													</div>
+
+												</div>
+
+											</div>
 										</div>
 
 										<div class="separador"></div>
 
 										<!-- Publicações -->
 										<div class="container-proj-pub">
-											
-											<!-- Move para a esquerda  -->
-											<div class="left-move">
-											</div>
+											<div class="projeto-content">
 
-											<!-- Conteúdo das publicações -->
-											<div class="wrap-pub">
-
-												<!-- Container publicações -->
-												<div class="container-pub">
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub2.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-													<!-- Publicações content -->
-													<div class="publicacao-content">
-														
-														<!-- Imagem -->
-														<div class="pub-content-img">
-															<img src="images/publicacoes/pub4.jpg"/>
-														</div>
-														
-														<div class="pub-content-text">
-														
-															<div class="pub-titulo">
-																Lorem ipsum dolor sit amet, consectetur adipiscing elit
-															</div>
-
-															<div class="pub-desc">
-																Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-															</div>
-
-															<button class="button pub-button">Download</button>
-															<button class="button pub-button voltar-pub">Voltar</button>
-
-														</div>
-
-													</div>
-
-												
+												<div class="titulo-projeto">
+													NOVOS MODELOS DE NEGÓCIOS NAS INDÚSTRIAS CRIATIVAS: TRANSIÇÃO TECNOLÓGICA E MODELO INSTITUCIONAL 
 												</div>
-											</div>
 
-											<!-- Move para a direita -->
-											<div class="right-move">
-											</div>
+												<div class="descricao-projeto">
+													<div class="separador"></div>
 
+													<!-- Move para a esquerda  -->
+													<div class="left-move">
+													</div>
+
+													<!-- Conteúdo das publicações -->
+													<div class="wrap-pub">
+
+														<!-- Container publicações -->
+														<div class="container-pub">
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub2.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+															<!-- Publicações content -->
+															<div class="publicacao-content">
+																
+																<!-- Imagem -->
+																<div class="pub-content-img">
+																	<img src="images/publicacoes/pub4.jpg"/>
+																</div>
+																
+																<div class="pub-content-text">
+																
+																	<div class="pub-titulo">
+																		Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																	</div>
+
+																	<div class="pub-desc">
+																		Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																	</div>
+
+																	<button class="button pub-button">Download</button>
+																	<button class="button pub-button voltar-pub">Voltar</button>
+
+																</div>
+
+															</div>
+
+														
+														</div>
+													</div>
+
+													<!-- Move para a direita -->
+													<div class="right-move">
+													</div>
+
+													<div class="voltar-proj">
+														<button class="button voltar-projeto">Voltar</button>
+													</div>
+
+												</div>
+
+											</div>
 										</div>
 
 									</div>
