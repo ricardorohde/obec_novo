@@ -787,50 +787,6 @@
 											<!-- Projeto de extensão -->
 											<div class="projeto-content">
 												<div class="titulo-projeto">
-													CONEXÕES CRIATIVAS I
-												</div>
-
-												<div class="separador"></div>
-												
-												<div class="descricao-projeto">
-
-													<p>
-														No ano de 2014, com o intuito de qualificar o debate sobre Economia Criativa a nível local e contribuir para a formação de estudantes e gestores da área, o Observatório de Economia Criativa da UFRGS realizou um curso de extensão sobre o tema. Por meio da explanação de conceitos teóricos, aliados a uma série de debates e apresentações de casos concretos, mostrou-se a importância que a Economia Criativa, bem como a Economia da Cultura, possui para o desenvolvimento da nossa sociedade. O evento, resultado do projeto de extensão, está inserido no aumento do debate acadêmico sobre o tema no Brasil, da mesma maneira que na construção de políticas públicas e da área.
-
-													</p>
-
-													<div class="voltar-proj">
-														<button class="button voltar-projeto">Voltar</button>
-													</div>
-
-												</div>
-											</div><!-- /.fim do projeto -->
-
-											<!-- Projeto de extensão -->
-											<div class="projeto-content">
-												<div class="titulo-projeto">
-													CONEXÕES CRIATIVAS II
-												</div>
-
-												<div class="separador"></div>
-												
-												<div class="descricao-projeto">
-
-													<p>
-														Entre os dias 16 e 19 de novembro de 2015 ocorreu o seminário Conexões Criativas 2, resultado de projeto de extensão sobre a área de Economia Criativa e Cultura. Um dos focos do evento foi o destaque da Economia Criativa em meio a um mercado em que prepondera a homogeneização de bens e serviços e a percepção da criatividade como força propulsora para diferenciação de produtos. No Brasil, percebe-se, nos últimos anos, um aumento no debate acadêmico, bem como a construção de políticas públicas e formação na área. Assim, o espaço proposto para reflexões sobre essa temática durante o evento contou com um importante intercâmbio de conhecimento entre a UFRGS e a Universidade de Valência, com a realização, ainda, de um workshop para o aprendizado de métricas para mensuração do setor criativo, voltado para os pesquisadores e atuantes no tema.
-
-													</p>
-
-													<div class="voltar-proj">
-														<button class="button voltar-projeto">Voltar</button>
-													</div>
-
-												</div>
-											</div><!-- /.fim do projeto -->
-
-											<!-- Projeto de extensão -->
-											<div class="projeto-content">
-												<div class="titulo-projeto">
 													DIÁLOGOS EM ECONOMIA CRIATIVA
 												</div>
 
@@ -866,6 +822,53 @@
 															</div>
 														</a>
 													</div>
+
+												</div>
+												
+												<div class="descricao-projeto">
+													<div class="voltar-proj">
+														<button class="button voltar-projeto">Voltar</button>
+													</div>
+												</div>
+
+											</div><!-- /.fim do projeto -->
+
+											<!-- Projeto de extensão -->
+											<div class="projeto-content">
+												<div class="titulo-projeto">
+													CONEXÕES CRIATIVAS I
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														No ano de 2014, com o intuito de qualificar o debate sobre Economia Criativa a nível local e contribuir para a formação de estudantes e gestores da área, o Observatório de Economia Criativa da UFRGS realizou um curso de extensão sobre o tema. Por meio da explanação de conceitos teóricos, aliados a uma série de debates e apresentações de casos concretos, mostrou-se a importância que a Economia Criativa, bem como a Economia da Cultura, possui para o desenvolvimento da nossa sociedade. O evento, resultado do projeto de extensão, está inserido no aumento do debate acadêmico sobre o tema no Brasil, da mesma maneira que na construção de políticas públicas e da área.
+
+													</p>
+
+													<div class="voltar-proj">
+														<button class="button voltar-projeto">Voltar</button>
+													</div>
+
+												</div>
+											</div><!-- /.fim do projeto -->
+
+											<!-- Projeto de extensão -->
+											<div class="projeto-content">
+												<div class="titulo-projeto">
+													CONEXÕES CRIATIVAS II
+												</div>
+
+												<div class="separador"></div>
+												
+												<div class="descricao-projeto">
+
+													<p>
+														Entre os dias 16 e 19 de novembro de 2015 ocorreu o seminário Conexões Criativas 2, resultado de projeto de extensão sobre a área de Economia Criativa e Cultura. Um dos focos do evento foi o destaque da Economia Criativa em meio a um mercado em que prepondera a homogeneização de bens e serviços e a percepção da criatividade como força propulsora para diferenciação de produtos. No Brasil, percebe-se, nos últimos anos, um aumento no debate acadêmico, bem como a construção de políticas públicas e formação na área. Assim, o espaço proposto para reflexões sobre essa temática durante o evento contou com um importante intercâmbio de conhecimento entre a UFRGS e a Universidade de Valência, com a realização, ainda, de um workshop para o aprendizado de métricas para mensuração do setor criativo, voltado para os pesquisadores e atuantes no tema.
+
+													</p>
 
 													<div class="voltar-proj">
 														<button class="button voltar-projeto">Voltar</button>
