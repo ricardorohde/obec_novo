@@ -238,7 +238,10 @@
 	margin: auto;
 }
 .content-mural{
+	overflow-x: hidden;
+	overflow-y: scroll;
 	height: 520px;
+	padding-right: 15px;
 }
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
@@ -495,6 +498,15 @@
 
 
 /* agenda */
+@media only screen and (min-height: 720px) and (max-height: 749px){
+	.content-mural{
+		height: 258px;
+	}
+	.menu-agenda{
+		margin: 0px;
+		padding: 30px 0px 0px 0px;
+	}
+}
 @media only screen and (min-height: 750px) and (max-height: 849px){
 	.content-mural{
 		height: 219px;

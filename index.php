@@ -1770,8 +1770,6 @@
 			<!-- === AGENDA === -->
 			<div id="pagina-agenda">
 
-				<div class="bg-agenda"></div>
-
 				<!-- Fundo da página -->
 				<div class="pagina-wrap agenda-wrap">
 
