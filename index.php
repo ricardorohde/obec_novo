@@ -192,19 +192,22 @@
 										</a>
 									</div>
 
-									<!-- Info sobre a OBEC -->
-									<div class="texto-sobre">
+									<!-- mural (notícias+eventos) -->
+									<div class="container-mural">
 
-										<!-- Texto -->
-										<p class="info-sobre">
-											O Observatório de Economia Criativa do Rio Grande do Sul desenvolve ações de pesquisa e extensão em Economia Criativa promovendo o debate e a formação de massa crítica sobre o setor no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Seu objetivo é propor, realizar e consolidar um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede nacional e internacional, universidades, centros de pesquisa e inovação, estudiosos, especialistas, agentes governamentais e representantes dos mais amplos setores ligados às Industrias Criativas.
-										</p>
+										<div class="content-mural texto-sobre">
 
-										<!-- Vídeo -->
-										<div class="video-sobre">
-											<iframe width="100%" height="100%" src="https://www.youtube.com/embed/OfbVN-NGzXo" frameborder="0" allowfullscreen=""></iframe>
+											<!-- Texto -->
+											<p class="info-sobre">
+												O Observatório de Economia Criativa do Rio Grande do Sul desenvolve ações de pesquisa e extensão em Economia Criativa promovendo o debate e a formação de massa crítica sobre o setor no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Seu objetivo é propor, realizar e consolidar um ambiente acadêmico-prático de estudos e pesquisas que envolva, em rede nacional e internacional, universidades, centros de pesquisa e inovação, estudiosos, especialistas, agentes governamentais e representantes dos mais amplos setores ligados às Industrias Criativas.
+											</p>
+
+											<!-- Vídeo -->
+											<div class="video-sobre">
+												<iframe width="100%" height="100%" src="https://www.youtube.com/embed/OfbVN-NGzXo" frameborder="0" allowfullscreen=""></iframe>
+											</div>
+
 										</div>
-
 									</div>
 
 								</div><!-- /.fim do conteúdo -->									

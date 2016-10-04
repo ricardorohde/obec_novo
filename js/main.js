@@ -1,73 +1,91 @@
 /* Jquery --> depois de carregar pg */
-$( document ).ready(function() {
-	
-	/* ao abrir a agenda */
-	function openPgs (){
+/* ao abrir as páginas */
+function openPgs (){
 
-		$('.container-site > div').each(function(index, element) {
-			
-			$(this).height($(this).find('.pagina-content-lateral').outerHeight(true));
-		});
+	$('.container-site > div').each(function(index, element) {
+		
+		$(this).height($(this).find('.pagina-content-lateral').outerHeight(true));
+	});
+}
+/*========= Navegação vertical do site ========*/
+function openPage(pagina){
+
+	/* Busca largura da tela */
+	var larguraTela = $(window).width();
+
+	/* Página que está visível é a anterior */
+	var pagina_anterior = $('.container-site > div:visible');
+	
+	/* Onde o scroll está */
+	var past = $(window).scrollTop();	
+
+	/* Se está na página que foi clicada, não precisa fazer nada */
+	if(pagina.index() == pagina_anterior.index()){
+		return false;
 	}
 
-	/*========= Navegação vertical do site ========*/
+	if(larguraTela>767){
+
+		/* Para que o conteúdo da página ocupe toda a altura da tela */
+		if (pagina.outerHeight() < $(window).height()){
+			$('<div class="espacador"></div>').height($(window).height() - pagina.outerHeight()).insertAfter(pagina);
+		}
+		if (pagina_anterior.outerHeight() < $(window).height()){
+			$('<div class="espacador"></div>').height($(window).height() - pagina_anterior.outerHeight()).insertAfter(pagina_anterior);
+		}
+
+		$('.pagina-content-lateral').css('overflow','hidden');
+
+		/* Para que todas as páginas sejam abertas e medida que vai para a escolhida */
+		$('.container-site > div').each(function(index, element) {
+			$(this).show();
+			if (pagina.index() > pagina_anterior.index() && index == pagina.index()) return false;
+			if (pagina.index() < pagina_anterior.index() && index == pagina_anterior.index()) return false;
+		});	
+		
+
+		/* Corre a página para esconder a anterior */
+		$('html, body').scrollTop(pagina_anterior.offset().top + past);
+		$('html, body').animate({ scrollTop: pagina.offset().top }, 1000, function() {
+			$('.container-site > div').not(pagina).hide();
+			$('.espacador').remove();
+			$('html, body').scrollTop(pagina.offset().top);
+		});
+		$('.pagina-content-lateral').css('overflow','visible');
+	}
+	else{
+		$(pagina).show();
+		$(pagina_anterior).hide();
+	}
+
+	$('html, body').scrollTop(0);
+	openPgs();
+}
+
+$(document).ready(function(){
+
+	/* abrir pg pelo link */
+	var $_GET={};
+	document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function (){
+		function decode(s) {
+        	return decodeURIComponent(s.split("+").join(" "));
+    	}
+    	$_GET[decode(arguments[1])] = decode(arguments[2]);
+	});
+
+	if($_GET["page"]!=undefined){
+
+		/* Página a ser aberta, de acordo com o link do menu */
+		var pagina = $('#pagina-' + $_GET["page"]);
+
+		openPage(pagina);
+	}
+
 	$('.menu a').click(function(event){
 		event.preventDefault();
-
-		/* Busca largura da tela */
-		var larguraTela = $(window).width();
-
-		/* Página que está visível é a anterior */
-		var pagina_anterior = $('.container-site > div:visible');
-		
-		/* Onde o scroll está */
-		var past = $(window).scrollTop();
-		
 		/* Página a ser aberta, de acordo com o link do menu */
 		var pagina = $('#pagina-' + $(this).attr('href'));
-		
-
-		/* Se está na página que foi clicada, não precisa fazer nada */
-		if(pagina.index() == pagina_anterior.index()){
-			return false;
-		}
-
-		if(larguraTela>767){
-
-			/* Para que o conteúdo da página ocupe toda a altura da tela */
-			if (pagina.outerHeight() < $(window).height()){
-				$('<div class="espacador"></div>').height($(window).height() - pagina.outerHeight()).insertAfter(pagina);
-			}
-			if (pagina_anterior.outerHeight() < $(window).height()){
-				$('<div class="espacador"></div>').height($(window).height() - pagina_anterior.outerHeight()).insertAfter(pagina_anterior);
-			}
-
-			$('.pagina-content-lateral').css('overflow','hidden');
-
-			/* Para que todas as páginas sejam abertas e medida que vai para a escolhida */
-			$('.container-site > div').each(function(index, element) {
-				$(this).show();
-				if (pagina.index() > pagina_anterior.index() && index == pagina.index()) return false;
-				if (pagina.index() < pagina_anterior.index() && index == pagina_anterior.index()) return false;
-			});	
-			
-
-			/* Corre a página para esconder a anterior */
-			$('html, body').scrollTop(pagina_anterior.offset().top + past);
-			$('html, body').animate({ scrollTop: pagina.offset().top }, 1000, function() {
-				$('.container-site > div').not(pagina).hide();
-				$('.espacador').remove();
-				$('html, body').scrollTop(pagina.offset().top);
-			});
-			$('.pagina-content-lateral').css('overflow','visible');
-		}
-		else{
-			$(pagina).show();
-			$(pagina_anterior).hide();
-		}
-
-		$('html, body').scrollTop(0);
-		openPgs();
+		openPage(pagina);
 	});
 
 	/*========= Navegação lateral do site ========*/

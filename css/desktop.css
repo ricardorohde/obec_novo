@@ -168,9 +168,6 @@
 	margin-top: 35px;
 }
 /* Info */
-.texto-sobre{
-	padding-top: 140px;
-}
 .video-sobre{
 	padding: 20px 0px;
 	height: 320px;
@@ -273,9 +270,6 @@
 		height: 85px;
 	}
 
-	.texto-sobre{
-		padding-top: 175px;
-	}
 }
 
 /*=== min-width: 768px; ==============================*/
@@ -352,24 +346,6 @@
 		top: 180px;
 	}
 
-	/* sobre */
-	.texto-sobre{
-		padding-top: 175px;
-		font-size: 13pt;
-	}
-	.info-sobre{
-		vertical-align: top;
-		width: 60%;
-		display: inline-block;
-	}
-	.video-sobre{
-		vertical-align: top;
-		width: 39%;
-		height: 300px;
-		display: inline-block;
-		padding: 5px 0px 5px 20px;
-	}
-
 	/* projetos */
 	.info-projetos{
 		margin-top: 20px;
@@ -400,20 +376,6 @@
 @media only screen and (min-width: 1200px) and (max-height: 1100px){
 	.content-lateral-center{
 		width: 1000px;
-	}
-
-	/* sobre */
-	.info-sobre{
-		vertical-align: top;
-		width: 48%;
-		display: inline-block;
-	}
-	.video-sobre{
-		vertical-align: top;
-		width: 48%;
-		height: 280px;
-		display: inline-block;
-		padding: 5px 20px;
 	}
 
 	/* projetos */
@@ -450,10 +412,6 @@
 		height: 360px;
 	}
 
-	.texto-sobre{
-		padding-top: 180px;
-		font-size: 12pt;
-	}
 	.video-sobre{
 		height: 225px;
 	}
@@ -471,22 +429,7 @@
 }
 
 @media only screen and (min-height: 900px) and (max-height: 1100px) and (max-width: 1199px){
-	.texto-sobre{
-		padding-top: 155px;
-	}
-	.info-sobre{
-		display: block;
-		margin: auto;
-		font-size: 13pt;
-		width: 600px;
-	}
-	.video-sobre{
-		display: block;
-		margin: auto;
-		width: 600px;
-		height: 260px;
-		padding: 20px 0px;
-	}
+	
 	.menu-inicio{
 		bottom: 0px;
 	}
@@ -500,25 +443,37 @@
 /* agenda */
 @media only screen and (min-height: 720px) and (max-height: 749px){
 	.content-mural{
-		height: 258px;
+		height: 238px;
 	}
 	.menu-agenda{
 		margin: 0px;
-		padding: 30px 0px 0px 0px;
+		padding: 50px 0px 0px 0px;
 	}
 }
 @media only screen and (min-height: 750px) and (max-height: 849px){
 	.content-mural{
-		height: 219px;
+		height: 265px;
+	}
+	.menu-agenda{
+		margin: 0px;
+		padding: 50px 0px 0px 0px;
 	}
 }
 @media only screen and (min-height: 850px) and (max-height: 949px){
 	.content-mural{
-		height: 290px;
+		height: 310px;
+	}
+	.menu-agenda{
+		margin: 0px;
+		padding: 50px 0px 0px 0px;
 	}
 }
 @media only screen and (min-height: 950px) and (max-height: 1050px){
 	.content-mural{
-		height: 390px;
+		height: 400px;
+	}
+	.menu-agenda{
+		margin: 0px;
+		padding: 50px 0px 0px 0px;
 	}
 }
