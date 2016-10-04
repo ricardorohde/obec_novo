@@ -95,7 +95,7 @@
 								
 								<!-- Sobre -->
 								<li>
-									<a href="sobre" class="link">Sobre</a>
+									<span href="sobre" class="link">Sobre</span>
 								</li>
 								
 								<!-- ícone -->
@@ -103,7 +103,7 @@
 								
 								<!-- Projetos -->
 								<li>
-									<a href="projetos" class="link">Projetos</a>
+									<span href="projetos" class="link">Projetos</span>
 								</li>
 
 								<!-- ícone -->
@@ -111,14 +111,14 @@
 
 								<!-- Acervo -->
 								<li>
-									<a href="acervo" class="link">Acervo</a>
+									<span href="acervo" class="link">Acervo</span>
 								</li>
 
 								<!-- ícone -->
 								<li><div class="menu-icon"></div></li>
 
 								<!-- Agenda -->
-								<li><a href="agenda" class="link">Agenda</a></li>
+								<li><span href="agenda" class="link">Agenda</span></li>
 
 							</ul>
 
@@ -187,15 +187,14 @@
 									
 									<!-- Volta a pg inicial -->
 									<div class="menu">
-										<a href="inicio" class="link">
+										<span href="inicio" class="link">
 											<div class="logo-icon"></div>
-										</a>
+										</span>
 									</div>
 
-									<!-- mural (notícias+eventos) -->
+									<!-- Info sobre a OBEC -->
 									<div class="container-mural">
-
-										<div class="content-mural texto-sobre">
+										<div class="texto-sobre content-mural">
 
 											<!-- Texto -->
 											<p class="info-sobre">
@@ -245,7 +244,7 @@
 
 										<!-- Sobre -->
 										<li>
-											<a href="sobre" class="link active">Sobre</a>
+											<span href="sobre" class="link active">Sobre</span>
 										</li>
 										
 										<!-- ícone -->
@@ -253,7 +252,7 @@
 										
 										<!-- Projetos -->
 										<li>
-											<a href="projetos" class="link">Projetos</a>
+											<span href="projetos" class="link">Projetos</span>
 										</li>
 
 										<!-- ícone -->
@@ -261,7 +260,7 @@
 
 										<!-- Acervo -->
 										<li>
-											<a href="acervo" class="link">Acervo</a>
+											<span href="acervo" class="link">Acervo</span>
 										</li>
 
 										<!-- ícone -->
@@ -269,7 +268,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link">Agenda</a>
+											<span href="agenda" class="link">Agenda</span>
 										</li>
 
 									</ul>
@@ -689,9 +688,9 @@
 									
 									<!-- Volta a pg inicial -->
 									<div class="menu">
-										<a href="inicio" class="link">
+										<span href="inicio" class="link">
 											<div class="logo-icon"></div>	
-										</a>
+										</span>
 									</div>
 
 									<!-- info sobre os projetos -->
@@ -739,7 +738,7 @@
 
 										<!-- Sobre -->
 										<li>
-											<a href="sobre" class="link">Sobre</a>
+											<span href="sobre" class="link">Sobre</span>
 										</li>
 										
 										<!-- ícone -->
@@ -747,7 +746,7 @@
 										
 										<!-- Projetos -->
 										<li>
-											<a href="projetos" class="link active">Projetos</a>
+											<span href="projetos" class="link active">Projetos</span>
 										</li>
 
 										<!-- ícone -->
@@ -755,7 +754,7 @@
 
 										<!-- Acervo -->
 										<li>
-											<a href="acervo" class="link">Acervo</a>
+											<span href="acervo" class="link">Acervo</span>
 										</li>
 
 										<!-- ícone -->
@@ -763,7 +762,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link">Agenda</a>
+											<span href="agenda" class="link">Agenda</span>
 										</li>
 
 									</ul>
@@ -1095,9 +1094,9 @@
 									
 									<!-- Volta a pg inicial -->
 									<div class="menu">
-										<a href="inicio" class="link">
+										<span href="inicio" class="link">
 											<div class="logo-icon"></div>
-										</a>
+										</span>
 									</div>
 
 									<!-- Info sobre o acervo -->
@@ -1145,7 +1144,7 @@
 
 										<!-- Sobre -->
 										<li>
-											<a href="sobre" class="link">Sobre</a>
+											<span href="sobre" class="link">Sobre</span>
 										</li>
 										
 										<!-- ícone -->
@@ -1153,7 +1152,7 @@
 										
 										<!-- Projetos -->
 										<li>
-											<a href="projetos" class="link">Projetos</a>
+											<span href="projetos" class="link">Projetos</span>
 										</li>
 
 										<!-- ícone -->
@@ -1161,7 +1160,7 @@
 
 										<!-- Acervo -->
 										<li>
-											<a href="acervo" class="link active">Acervo</a>
+											<span href="acervo" class="link active">Acervo</span>
 										</li>
 
 										<!-- ícone -->
@@ -1169,7 +1168,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link">Agenda</a>
+											<span href="agenda" class="link">Agenda</span>
 										</li>
 
 									</ul>
@@ -1834,9 +1833,9 @@
 									
 									<!-- Volta a pg inicial -->
 									<div class="menu">
-										<a href="inicio" class="link">
+										<span href="inicio" class="link">
 											<div class="logo-icon"></div>
-										</a>
+										</span>
 									</div>
 
 									<!-- mural (notícias+eventos) -->
@@ -2312,7 +2311,7 @@
 
 										<!-- Sobre -->
 										<li>
-											<a href="sobre" class="link">Sobre</a>
+											<span href="sobre" class="link">Sobre</span>
 										</li>
 										
 										<!-- ícone -->
@@ -2320,7 +2319,7 @@
 										
 										<!-- Projetos -->
 										<li>
-											<a href="projetos" class="link">Projetos</a>
+											<span href="projetos" class="link">Projetos</span>
 										</li>
 
 										<!-- ícone -->
@@ -2328,7 +2327,7 @@
 
 										<!-- Acervo -->
 										<li>
-											<a href="acervo" class="link">Acervo</a>
+											<span href="acervo" class="link">Acervo</span>
 										</li>
 
 										<!-- ícone -->
@@ -2336,7 +2335,7 @@
 
 										<!-- Agenda -->
 										<li>
-											<a href="agenda" class="link active">Agenda</a>
+											<span href="agenda" class="link active">Agenda</span>
 										</li>
 
 									</ul>

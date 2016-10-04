@@ -62,7 +62,7 @@ function openPage(pagina){
 	openPgs();
 }
 
-$(document).ready(function(){
+$(window).bind("load", function() { 
 
 	/* abrir pg pelo link */
 	var $_GET={};
@@ -81,13 +81,16 @@ $(document).ready(function(){
 		openPage(pagina);
 	}
 
-	$('.menu a').click(function(event){
+	$('.menu span').click(function(event){
 		event.preventDefault();
 		/* Página a ser aberta, de acordo com o link do menu */
 		var pagina = $('#pagina-' + $(this).attr('href'));
 		openPage(pagina);
 	});
 
+});
+
+$(document).ready(function(){
 	/*========= Navegação lateral do site ========*/
 	/* Move a página para a esquerda */
 	$('.nav-x .left-button').click(function(event){
