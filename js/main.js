@@ -93,7 +93,7 @@ $(window).bind("load", function() {
 $(document).ready(function(){
 	/*========= Navegação lateral do site ========*/
 	/* Move a página para a esquerda */
-	$('.nav-x .left-button').click(function(event){
+	$('.nav-x-left').click(function(event){
 		event.preventDefault();
 
 		/* Busca largura da tela */
@@ -150,7 +150,7 @@ $(document).ready(function(){
 	});
 
 	/* Move a página para o centro */
-	$('.nav-x .center-button').click(function(event){
+	$('.nav-x-center').click(function(event){
 		event.preventDefault();
 
 		/* Busca largura da tela */
@@ -184,7 +184,7 @@ $(document).ready(function(){
 	});
 
 	/* Move a página para a direita */
-	$('.nav-x .right-button').click(function(event){
+	$('.nav-x-right').click(function(event){
 		event.preventDefault();
 
 		/* Busca largura da tela */

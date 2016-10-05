@@ -81,8 +81,8 @@
 
 /* Alinha lateral verticalmente */
 .lateral-align-vert{
-	height: 75vh;
-	margin-top: 105px;
+	height: 70vh;
+	margin-top: 160px;
 	transform: none;
 	top: 0px;
 }
@@ -107,7 +107,7 @@
 
 /* títulos nas pgs laterais */
 .nav-x.sub-nav-x{
-	top: 30px;
+	top: 55px;
 	width: 190px;
 }
 .nav-x-center.sub-nav-x{
@@ -124,7 +124,7 @@
 }
 .nav-x.title-nav-x{
 	transform: translateX(-50%);
-	top: 80px;
+	top: 105px;
 	width: 400px;
 }
 
@@ -138,7 +138,7 @@
 /* Logo OBEC */
 .logo{
 	width: 300px;
-	height: auto;
+	height: 135px;
 	margin: auto;
 }
 .social-icon{
@@ -205,9 +205,8 @@
 	text-align: center;
 }
 /*=== PROJETOS ============*/
-.texto-projetos{
-	padding-top: 135px;
-	padding-bottom: 20px;
+.info-projetos{
+	margin: 135px 0px 35px 0px;
 }
 .projeto-container{
 	width: 65%;
@@ -221,8 +220,8 @@
 	letter-spacing: 0px;
 }
 /*=== ACERVO ============*/
-.texto-acervo{
-	padding-top: 125px;
+.info-acervo{
+	margin-top: 125px;
 	padding-bottom: 20px;
 }
 .video-content{
@@ -265,13 +264,9 @@
 	letter-spacing: 7px;
 }
 /*=== AGENDA ============*/
-.container-mural{
-	padding-bottom: 20px;
-}
 .content-mural{
 	min-height: 50vh;
-	margin-top: 150px;
-	margin-bottom: 50px;
+	margin: 130px 0px 50px 0px;
 	transform: none;
 	top: 0px;
 }
@@ -337,7 +332,7 @@
 		width: 140px;
 	}
 	.nav-x.title-nav-x{
-		width: 300px;
+		width: 295px;
 	}
 	.right-button .titulo-lat, .left-button .titulo-lat{
 		letter-spacing: 4px;
