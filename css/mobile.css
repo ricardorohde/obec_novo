@@ -5,6 +5,18 @@
 .desktop{
 	display: none;
 }
+
+.contato-info-container{
+	position: relative;
+	width: 100%;
+	margin-bottom: 5vh;
+}
+.login-wrap{
+	position: relative;
+	margin: 10vh auto;
+	width: 420px;
+}
+
 /* Idioma */
 .lang-container{
 	text-align: center;
@@ -307,7 +319,9 @@
 		line-height: 28px;
 		height: 30px;
 	}
-
+	.login-wrap{
+		width: 90vw;
+	}
 	/* inicio */
 	.logo{
 		width: 280px;

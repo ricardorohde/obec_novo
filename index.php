@@ -1605,6 +1605,70 @@
 												<div class="noticia-header">
 													
 													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Unisinos promove curso sobre criatividade em parceria com as Nações Unidas</div>
+													<div class="not-data">06/10/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																A Universidade do Vale do Rio dos Sinos promove, juntamente ao Instituto das Nações Unidas para Formação e Pesquisa (UNITAR) e à Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD), o curso online <a href="http://www.unitar.org/ksi/crea4dev">Creativity for Development</a>.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																O curso Crea4Dev é gratuito, está aberto ao público e pode ser concluído em qualquer dia até 23 de dezembro. As atividades terão como propósito conscientizar sobre o valor da criatividade e da cultura como pilares do desenvolvimento sustentável. 
+															</p>
+
+															<p> 
+																O Crea4Dev é em inglês, com quatro horas de duração e composto pelos módulos de conteúdo:<i> Creativity & Creative Economy; Places, Networks and Connectivity; The Characteristics of the Creative Labour Market e Creative Business</i>.
+															</p>
+
+															<p> 
+																A colaboração com a UNITAR e a UNCTAD foi iniciada pela professora Ana Maria Guimarães, quando decana da Escola da Indústria Criativa da Unisinos, e pela professora Cristiane Schnack, coordenadora do MBA em Mercados Criativos. 
+															</p>
+
+															<p>
+																O Crea4Dev também incentivará a criação de uma comunidade online, na qual os participantes poderão trocar ideias e manter contato mesmo após a conclusão das atividades. 
+															</p>
+
+															<p>
+																Mais informações no site do curso.
+															</p>
+
+															<p>
+																Com informações de <a href="http://www.unisinos.br/noticias/universidade/curso-sobre-criatividade-em-parceria-com-nacoes-unidas">Unisinos</a>.
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
 													<div class="not-titulo">UNESCO e CISAC lançam mapeamento global das indústrias culturais e criativas</div>
 													<div class="not-data">04/10/2016</div>
 
@@ -1657,7 +1721,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1727,7 +1791,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1781,7 +1845,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1847,7 +1911,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1913,7 +1977,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1965,7 +2029,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
