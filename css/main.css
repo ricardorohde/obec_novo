@@ -96,6 +96,13 @@ body{
 	outline: none;
 	overflow: hidden;
 }
+.button.small{
+	height: 31px;
+	box-shadow: none;
+	font-size: 10pt;
+	letter-spacing: 5px;
+	padding-left: 12px;
+}
 /* Para que o scroll apareça na altura completa das telas laterais */
 .scroll-fake{
 	height: 100vh;

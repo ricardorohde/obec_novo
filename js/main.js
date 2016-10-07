@@ -528,27 +528,4 @@ $(document).ready(function(){
 		setTimeout(openPgs(), 10000);
 	});
 
-
-
-	/*====================================== PG ADM ===========================================*/
-	$('.admin-menu li').click(function(event){
-
-		var el = $(this),
-			flagOpened = $(el).hasClass('active');
-
-
-		/* se não clicou na pg aberta */
-		if(!flagOpened){
-
-			/* aba a ser aberta */
-			var aba = '.'+$(el).attr('class')+'-content';
-
-			$('.admin-content.opened-content').removeClass('opened-content');
-			$(aba).addClass('opened-content');
-
-			$(el).siblings().removeClass('active');
-			$(el).addClass('active');
-		}
-
-	});
 });

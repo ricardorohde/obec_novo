@@ -1605,6 +1605,100 @@
 												<div class="noticia-header">
 													
 													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Conheça os OBEC</div>
+													<div class="not-data">07/10/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																Em junho de 2012, foi lançado o <b>Observatório Brasileiro de Economia Criativa</b> pela Secretaria de Economia Criativa do Ministério da Cultura, como instância responsável pela produção e difusão de informações quantitativas e qualitativas sobre a área no Brasil. O OBEC passou a ser, dessa forma, um instrumento eficiente e eficaz para mitigar a ausência de pesquisas, dados e informações sobre a economia criativa, desempenhando um papel estratégico nas reflexões sobre o desenvolvimento no país.
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+															
+															<p> 
+																Ao longo destes quatro anos, foram implantados seis observatórios estaduais, nas cinco regiões do país. Os observatórios estaduais de Amazonas (UFAM), Bahia (UFBA), Brasília (UnB), Goiás (UFG), Rio de Janeiro (UFF) e Rio Grande do Sul (UFRGS) respondem às demandas do MinC por subsídios necessários à formulação de um modelo de desenvolvimento baseado na criatividade, inovação, diversidade cultural e inclusão social.
+															</p>
+
+															<p> 
+																Hoje sob o escopo da <a href="http://www.cultura.gov.br/secretaria-da-economia-criativa-sec">Secretaria de Educação e Formação Artística e Cultural (SEFAC)</a>, a Economia Criativa e os OBEC congregam uma rede para mapear as diversas dimensões da economia criativa brasileira. Entre suas atribuições estão a identificação dos agentes envolvidos na economia criativa, tanto nos fluxos macro quanto microeconômicos; o subsídio ao MinC na criação e disponibilização de bancos de dados sobre a área, para integrar o Sistema Nacional de Informações e Indicadores Culturais; a formulação de indicadores para mapeamento do mercado de bens e serviços criativos; a organização e difusão de pesquisas nacionais e internacionais, por meio de debates, seminários e intercâmbios; o incentivo à participação dos estados e municípios para a construção de uma rede vinculada à dinâmica nacional e internacional sobre a área; a facilitação de fluxos de informação e o estabelecimento de espaços de troca de conhecimento sobre a economia criativa.
+															</p>
+
+															<p> 
+																<br/>
+																<b> Conheça os OBEC </b>
+															</p>
+
+															<p>
+																Em novembro de 2013, a Universidade Federal do Amazonas lançou o <a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1532-obec-am-tem-lancamento-oficial-na-ufam">OBEC AM</a>, primeiro observatório estadual de Economia Criativa do Brasil. Como objetivos principais estão a formulação, a implementação e o monitoramento de políticas públicas para o desenvolvimento local e regional, apoiando ações criativas de profissionais e de micro e pequenos empreendimentos com ênfase no estado do Amazonas.
+															</p>
+
+															<p>
+																O <a href="http://www.obecdf.org/">OBEC DF</a>, concebido em 2013, vem atuando em dois vetores: desenvolvimento e monitoramento; e empreendedorismo, gestão e inovação. Por meio de atividades ligadas aos temas de territórios criativos, articulação de artistas e empreendedores, indicadores culturais, formação e potencialização de cooperativas e redes, o OBEC DF promove pesquisas e debates sobre a economia criativa, e busca colaborar com o empoderamento social local, por meio de formação orientada.
+															</p>
+
+															<p>
+																Inaugurado em maio de 2014, o <a href="https://www.facebook.com/obecrj/">OBEC RJ</a> vem desenvolvendo pesquisas, divididas em três eixos: economia dos processos e práticas culturais; territorialidade, arranjos expressivos e práticas sociais; e direitos culturais e políticos. Carnaval de rua, festivais audiovisuais, o Porto Maravilha, turismo cultural, gastronomia, manifestações culturais tradicionais e sustentabilidade são alguns dos temas de interesse dos pesquisadores da Universidade Federal Fluminense.
+															</p>
+
+															<p>
+																Criado em 2014, no escopo da Universidade Federal da Bahia, o <a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA</a> estrutura suas ações de mapeamento e pesquisa a partir de três vetores: estudo do desenvolvimento de estratégias para a gestão da criatividade, voltadas para a solução de problemas da sociedade; análise da sustentabilidade mercadológica das iniciativas criativas; e mapeamento da capacidade de articulação de pessoas e grupos visando à atuação em rede dos setores criativos no estado da Bahia.
+															</p>
+
+															<p>
+																Ao longo dos últimos anos, o <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO</a> definiu metodologias, desenhou as cadeias produtivas locais, realizou levantamento de dados e lançou seus resultados com a <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">Coleção Dimensões</a>, na qual foram pesquisados 19 setores criativos regionais. No estado, o OBEC tem sede no Laboratório de Pesquisa, Desenvolvimento e Inovação em Mídias Alternativas (Media Lab) da Universidade Federal de Goiás.
+															</p>
+
+															<p>
+																Na Universidade Federal do Rio Grande do Sul, em agosto de 2014, foi lançado o <a href="http://www.ufrgs.br/obec/?page=sobre">OBEC RS</a>, na busca de um espaço para o debate e a formação de massa crítica sobre a Economia Criativa no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Os <a href="http://www.ufrgs.br/obec/?page=projetos">projetos</a> realizados pelo OBEC RS estão divididos em iniciativas de extensão e de pesquisa. Comércio internacional, indústrias criativas, economia da cultura, fomento à cultura brasileira, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos.
+															</p>
+
+															<p>
+																Fontes:
+																<ul>
+																	<li><a href="http://www.brasil.gov.br/cultura/2012/06/obec-tera-r-12-4-milhoes-para-investimento-em-politicas-publicas-do-minc">Portal Brasil</a></li>
+																	<li><a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1506-ufam-faz-lancamento-de-observatorio-de-economia-criativa">OBEC AM - Universidade Federal do Amazonas</a></li>
+																	<li><a href="http://www.obecdf.org/index.php/observatorio/eixos-e-estrategias-de-trabalho">OBEC DF</a></li>
+																	<li><a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO - Media Lab/UFG</a></li>
+																	<li><a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/observatorio-da-economia-criativa-no-rj-desenvolve-oito-projetos-de-pesquisa/10883">OBEC RJ - Ministério da Cultura</a></li>
+																	<li><a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA - Rede de Economia da Cultura e Criativa</a></li>
+																</ul>
+																<br/>
+															</p>
+
+															<p class="text-center">
+																<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image"/>
+															</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container right">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
 													<div class="not-titulo">Unisinos promove curso sobre criatividade em parceria com as Nações Unidas</div>
 													<div class="not-data">06/10/2016</div>
 
@@ -1647,6 +1741,17 @@
 																Com informações de <a href="http://www.unisinos.br/noticias/universidade/curso-sobre-criatividade-em-parceria-com-nacoes-unidas">Unisinos</a>.
 															</p>
 
+															<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image" usemap="#Map"/>
+															<map name="Map" id="Map">
+															    <area alt="" title="" href="#" shape="poly" coords="24,18,23,62,153,64,152,17" />
+															    <area alt="" title="" href="#" shape="poly" coords="242,17,242,59,375,62,376,16" />
+															    <area alt="" title="" href="#" shape="poly" coords="17,201,20,247,165,240,169,204" />
+															    <area alt="" title="" href="#" shape="poly" coords="16,257,17,300,142,297,146,258" />
+															    <area alt="" title="" href="#" shape="poly" coords="279,288,285,323,396,325,394,288" />
+															    <area alt="" title="" href="#" shape="poly" coords="235,347,240,385,320,383,321,345" />
+															</map>
+
+
 														</div>
 
 													</div>
@@ -1663,7 +1768,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1721,7 +1826,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1791,7 +1896,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1845,7 +1950,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1911,7 +2016,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -1977,7 +2082,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="noticia-container right">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
@@ -2029,7 +2134,7 @@
 											</div>
 
 											<!-- Notícia -->
-											<div class="noticia-container right">
+											<div class="noticia-container left">
 												
 												<!-- cabeçalho -->
 												<div class="noticia-header">
