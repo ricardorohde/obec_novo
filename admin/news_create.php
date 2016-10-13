@@ -92,7 +92,7 @@
 						
 					<!-- view! -->
 					<a href="/obec_new" class="link" target="_blank">
-						<div class="headerAdm-button">Visualizar site</div>
+						<div class="headerAdm-button"><span class="hidden-xs">Visualizar </span>site</div>
 					</a>
 
 					<!-- user! -->
@@ -121,21 +121,30 @@
 					<div class="row">
 						<div class="admin-sidebar">
 							<ul class="sidebarAdm-menu">
-								<a href="news.php" class="link">
-									<li class="partner">
-										<div class="sidebarAdmMenu-icons news"></div>
-										Notícias
-									</li>
-								</a>
-								<li class="subMenu-li active">
-									Nova notícia
+
+								<li class="open-menuMobile visible-xs">	
+									<div class="sidebarAdmMenu-icons menu"></div>
+									Menu
 									<div class="sidebarAdmLeft-arrow"></div>
 								</li>
-								<a href="event_create.php" class="link">
-									<li class="subMenu-li">
-										Novo evento
+
+								<div class="mobileMenuAdm-container">
+									<a href="news.php" class="link">
+										<li class="partner">
+											<div class="sidebarAdmMenu-icons news"></div>
+											Notícias
+										</li>
+									</a>
+									<li class="subMenu-li active">
+										Nova notícia
+										<div class="sidebarAdmLeft-arrow"></div>
 									</li>
-								</a>
+									<a href="event_create.php" class="link">
+										<li class="subMenu-li">
+											Novo evento
+										</li>
+									</a>
+								</div>
 							</ul>
 						</div>
 					</div>

@@ -92,7 +92,7 @@
 						
 					<!-- view! -->
 					<a href="/obec_new" class="link" target="_blank">
-						<div class="headerAdm-button">Visualizar site</div>
+						<div class="headerAdm-button"><span class="hidden-xs">Visualizar </span>site</div>
 					</a>
 
 					<!-- user! -->
@@ -121,26 +121,38 @@
 					<div class="row">
 						<div class="admin-sidebar">
 							<ul class="sidebarAdm-menu">
-								<a href="projects.php" class="link">
-									<li class="partner">
-										<div class="sidebarAdmMenu-icons project"></div>
-										Projetos
-									</li>
-								</a>
-								<li class="subMenu-li active">
-									Novo projeto
+
+								<li class="open-menuMobile visible-xs">	
+									<div class="sidebarAdmMenu-icons menu"></div>
+									Menu
 									<div class="sidebarAdmLeft-arrow"></div>
 								</li>
-								<a href="pub_create.php" class="link">
-									<li class="subMenu-li">
-										Nova publicação
+
+								<div class="mobileMenuAdm-container">
+
+									<a href="projects.php" class="link">
+										<li class="partner">
+											<div class="sidebarAdmMenu-icons project"></div>
+											Projetos
+										</li>
+									</a>
+									<li class="subMenu-li active">
+										Novo projeto
+										<div class="sidebarAdmLeft-arrow"></div>
 									</li>
-								</a>
-								<a href="video_create.php" class="link">
-									<li class="subMenu-li">
-										Novo vídeo
-									</li>
-								</a>
+									<a href="pub_create.php" class="link">
+										<li class="subMenu-li">
+											Nova publicação
+										</li>
+									</a>
+									<a href="video_create.php" class="link">
+										<li class="subMenu-li">
+											Novo vídeo
+										</li>
+									</a>
+								
+								</div>
+
 							</ul>
 						</div>
 					</div>

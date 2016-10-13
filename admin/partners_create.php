@@ -40,7 +40,7 @@
 						
 					<!-- view! -->
 					<a href="/obec_new" class="link" target="_blank">
-						<div class="headerAdm-button">Visualizar site</div>
+						<div class="headerAdm-button"><span class="hidden-xs">Visualizar </span>site</div>
 					</a>
 
 					<!-- user! -->
@@ -69,16 +69,25 @@
 					<div class="row">
 						<div class="admin-sidebar">
 							<ul class="sidebarAdm-menu">
-								<a href="partners.php" class="link">
-									<li class="partner">
-										<div class="sidebarAdmMenu-icons partner"></div>
-										Parceiros
-									</li>
-								</a>
-								<li class="subMenu-li active">
-									Novo parceiro
+								<li class="open-menuMobile visible-xs">	
+									<div class="sidebarAdmMenu-icons menu"></div>
+									Menu
 									<div class="sidebarAdmLeft-arrow"></div>
 								</li>
+
+								<div class="mobileMenuAdm-container">
+
+									<a href="partners.php" class="link">
+										<li class="partner">
+											<div class="sidebarAdmMenu-icons partner"></div>
+											Parceiros
+										</li>
+									</a>
+									<li class="subMenu-li active">
+										Novo parceiro
+										<div class="sidebarAdmLeft-arrow"></div>
+									</li>
+								</div>
 							</ul>
 						</div>
 					</div>

@@ -29,7 +29,7 @@
 						
 					<!-- view! -->
 					<a href="/obec_new" class="link" target="_blank">
-						<div class="headerAdm-button">Visualizar site</div>
+						<div class="headerAdm-button"><span class="hidden-xs">Visualizar </span>site</div>
 					</a>
 
 					<!-- user! -->

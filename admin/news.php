@@ -40,7 +40,7 @@
 						
 					<!-- view! -->
 					<a href="/obec_new" class="link" target="_blank">
-						<div class="headerAdm-button">Visualizar site</div>
+						<div class="headerAdm-button"><span class="hidden-xs">Visualizar </span>site</div>
 					</a>
 
 					<!-- user! -->
@@ -69,32 +69,41 @@
 					<div class="row">
 						<div class="admin-sidebar">
 							<ul class="sidebarAdm-menu">
-								<li class="news active">	
-									<div class="sidebarAdmMenu-icons news"></div>
-									Notícias
+								
+								<li class="open-menuMobile visible-xs">	
+									<div class="sidebarAdmMenu-icons menu"></div>
+									Menu
 									<div class="sidebarAdmLeft-arrow"></div>
 								</li>
 
-								<a href="projects.php" class="link">
-									<li class="project">
-										<div class="sidebarAdmMenu-icons project"></div>
-										Projetos
+								<div class="mobileMenuAdm-container">
+									<li class="news active">	
+										<div class="sidebarAdmMenu-icons news"></div>
+										Notícias
+										<div class="sidebarAdmLeft-arrow"></div>
 									</li>
-								</a>
-							 
-								<a href="partners.php" class="link">
-									<li class="partner">
-										<div class="sidebarAdmMenu-icons partner"></div>
-										Parceiros
-									</li>
-								</a>
-							
-								<a href="team.php" class="link">	
-									<li class="team">
-										<div class="sidebarAdmMenu-icons team"></div>
-										Equipe
-									</li>
-								</a>
+
+									<a href="projects.php" class="link">
+										<li class="project">
+											<div class="sidebarAdmMenu-icons project"></div>
+											Projetos
+										</li>
+									</a>
+								 
+									<a href="partners.php" class="link">
+										<li class="partner">
+											<div class="sidebarAdmMenu-icons partner"></div>
+											Parceiros
+										</li>
+									</a>
+								
+									<a href="team.php" class="link">	
+										<li class="team">
+											<div class="sidebarAdmMenu-icons team"></div>
+											Equipe
+										</li>
+									</a>
+								</div>
 							</ul>
 						</div>
 					</div>
