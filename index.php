@@ -1605,6 +1605,140 @@
 												<div class="noticia-header">
 													
 													<div class="not-tipo">NOTÍCIA</div>
+													<div class="not-titulo">Confira a entrevista com Cláudio Lins de Vasconcelos, secretário da Economia da Cultura do MinC</div>
+													<div class="not-data">11/10/2016</div>
+
+												</div>
+
+												<!-- conteúdo -->
+												<div class="noticia-content">
+
+													<div class="not-text">
+														
+														<div class="not-text-visivel">
+															<p> 
+																<p>No in&iacute;cio do m&ecirc;s de outubro, a Assessoria de Comunica&ccedil;&atilde;o do Minist&eacute;rio da Cultura entrevistou Cl&aacute;udio Lins de Vasconcelos, rec&eacute;m-nomeado secret&aacute;rio da Economia da Cultura. Vasconcelos &eacute; graduado pela Universidade Federal da Bahia (UFBA), mestre pela Universidade de Notre Dame (EUA) e doutor pela Universidade do Estado do Rio de Janeiro (Uerj). Em um de seus maiores desafios profissionais, o advogado mineiro tem a miss&atilde;o de contribuir para o desenvolvimento de um setor cultural forte, coeso, capaz de levar o produto cultural brasileiro aos principais mercados do mundo.&nbsp;</p>
+															</p>
+														</div>
+
+														<div class="not-text-mais">
+
+															<p align="justify">&quot;Este &eacute; um cargo que me honra bastante. Qualquer um que trabalhe com economia da cultura, como &eacute; o meu caso, gostaria de estar nesse lugar. Em um pa&iacute;s do tamanho do Brasil, com todo esse potencial cultural, &eacute; uma possibilidade de fazer um trabalho hist&oacute;rico, de ajudar no desenvolvimento desse setor que eu amo tanto&quot;, afirma Vasconcelos &ndash; que &eacute; f&atilde; de filosofia e MPB. Em entrevista ao portal do MinC durante evento de capacita&ccedil;&atilde;o de empreendedores para o Mercado de Ind&uacute;strias Culturais do Sul (Micsul), o secret&aacute;rio fala sobre os principais projetos que ser&atilde;o realizados pela Secretaria da Economia da Cultura. &quot;Estou muito animado. Estamos com um projeto redondinho, pronto pra ser implementado. Um projeto que faz sentido, que respeita a dimens&atilde;o econ&ocirc;mica da cultura, sem perder a dimens&atilde;o simb&oacute;lica, e a ind&uacute;stria de alta performance,sem perder as ra&iacute;zes&quot;, destaca.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify">Confira a entrevista:</p>
+
+															<p align="justify"><em>[Assessoria de Imprensa MinC] Entre os dias 17 e 20 de outubro, ser&aacute; realizada em Bogot&aacute;, na Col&ocirc;mbia, a segunda edi&ccedil;&atilde;o do Mercado de Ind&uacute;strias Culturais do Sul (Micsul). O Brasil estar&aacute; presente com 60 empreendedores selecionados, via edital, pelo MinC e pela Apex-Brasil. Qual &eacute; a import&acirc;ncia da participa&ccedil;&atilde;o brasileira nesse evento?</em></p>
+
+															<p align="justify">[Cl&aacute;udio Lins de Vasconcelos] O Micsul &eacute; muito importante porque nos abre um mercado para o qual n&atilde;o demos muita aten&ccedil;&atilde;o ao longo da nossa hist&oacute;ria, que &eacute; o mercado sul-americano. S&atilde;o nossos vizinhos, temos tanta coisa em comum, tanto conte&uacute;do pra trocar, e muitas vezes ficamos voltados apenas aos mercados norte-americano e europeu. O evento na Col&ocirc;mbia &eacute; uma oportunidade n&atilde;o apenas para os 60 empreendedores selecionados, que v&atilde;o mostrar seus produtos e buscar novos neg&oacute;cios, mas para toda a economia da cultura brasileira, porque abre novos horizontes.&nbsp;</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] O que o senhor achou do workshop de capacita&ccedil;&atilde;o para empreendedores?&nbsp;</em></p>
+
+															<p align="justify">[Vasconcelos] Foi um encontro produtivo, com foco nos resultados que esses empreendedores poder&atilde;o alcan&ccedil;ar no Micsul. Houve grande concentra&ccedil;&atilde;o de pessoas (palestrantes) com conhecimento pr&aacute;tico. Foi muito positivo como troca de experi&ecirc;ncia, de como transformar os contratos em neg&oacute;cios.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify"><em>[MinC] O mercado sul-americano &eacute; consumidor de nossos produtos. O Micsul abrir&aacute; mercado?&nbsp;</em></p>
+
+															<p align="justify">[Vasconcelos] O Micsul soma v&aacute;rias linguagens, isso &eacute; importante para a converg&ecirc;ncia das l&iacute;nguas. Os nossos vizinhos sul-americanos gostam do nosso produto cultural, consomem a m&uacute;sica brasileira com muito vigor. J&aacute; n&oacute;s consumimos pouco a cultura deles, tem espa&ccedil;o para crescer. Por isso, acho que o Micsul &eacute; importante pra abrir uma nova fronteira para esse mercado, tanto para exportar como para importar, internacionalizar a produ&ccedil;&atilde;o cultural brasileira, para que possamos finalmente atingir todo nosso potencial de mercado.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify"><em>[MinC] O fomento &agrave; economia da cultura &eacute; uma das prioridades da gest&atilde;o do ministro Marcelo Calero. Por isso, foi criada a Secretaria da Economia da Cultura, que est&aacute; sob seu comando. Qual &eacute; o objetivo inicial da secretaria?</em></p>
+
+															<p align="justify">[Vasconcelos] Nossa secretaria tem como objetivo principal contribuir para o desenvolvimento de uma economia da cultura forte, coesa, solid&aacute;ria,internacionalizada, de vanguarda, capaz de levar o produto cultural brasileiro, a mensagem dos produtores culturais brasileiros, aos principais mercados do mundo. A economia da cultura &eacute; um dos setores em que o Brasil &eacute; mais competitivo. &Eacute; um setor em que temos efetivamente condi&ccedil;&otilde;es de atingir os patamares mais altos dos mercados internacionais. Al&eacute;m de ser a cara do Brasil, &eacute; um setor que n&atilde;o polui, emprega muita gente, depende muito do trabalho humano, &eacute; pouco sujeito &agrave; substitui&ccedil;&atilde;o de pessoas por m&aacute;quinas,porque o principal produto, o principal insumo &eacute; o c&eacute;rebro humano,o pensamento humano, a criatividade humana. Ent&atilde;o, independentemente do est&aacute;gio tecnol&oacute;gico em que estivermos, sempre haver&aacute; necessidade da criatividade humana. Um roteiro bem feito, uma obra de artes visuais agrad&aacute;vel visualmente, uma composi&ccedil;&atilde;o agrad&aacute;vel aos ouvidos, tudo &eacute; trabalho exclusivo do c&eacute;rebro humano, ent&atilde;o, &eacute; uma ind&uacute;stria que tem crescido em capital intelectual, que n&atilde;o depende dos ciclos de altos e baixos das commodities, enfim, uma ind&uacute;stria que n&oacute;s temos que desenvolver. Essa voca&ccedil;&atilde;o para a economia da cultura &eacute; um dos grandes ativos do Brasil.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] Como ser&aacute;, inicialmente, o trabalho da secretaria?</em></p>
+
+															<p align="justify">[Vasconcelos] Nosso trabalho se desenvolver&aacute; em quatro grandes &aacute;reas: seguran&ccedil;a jur&iacute;dica; pesquisa e desenvolvimento; qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda; e direitos intelectuais.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify"><em>[MinC] E o que ser&aacute; feito em cada uma dessas &aacute;reas?</em></p>
+
+															<p align="justify">[Vasconcelos] Na &aacute;rea de seguran&ccedil;a jur&iacute;dica, n&oacute;s teremos a Coordena&ccedil;&atilde;o-Geral dos Marcos Legais da Cultura. O objetivo ser&aacute; fazer propostas de altera&ccedil;&otilde;es legislativas, de aperfei&ccedil;oamento do ordenamento jur&iacute;dico, de forma a dar ao setor cultural um ambiente mais favor&aacute;vel, mais atraente pra investimentos, tanto nacionais como internacionais.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify"><em>[MinC] E como est&aacute; a cria&ccedil;&atilde;o deste marco regulat&oacute;rio?</em></p>
+
+															<p align="justify">[Vasconcelos] Ainda estamos come&ccedil;ando o trabalho. Iremos inicialmente ouvir o setor cultural, para mapear as demandas regulat&oacute;rias. Precisamos ouvir todos os pontos das cadeias produtivas, ver o que est&aacute; atravancando processos, saber como podemos contribuir pra fazer com que o setor tenha mais investimento, mais qualidade, mais for&ccedil;a. Um exemplo claro na quest&atilde;o do marco legal da cultura &eacute; a estrutura tribut&aacute;ria. Nosso setor &eacute; formado, em grande parte, por pequenas e m&eacute;dias empresas e, a cada transa&ccedil;&atilde;o entre essas empresas, incide tributos espec&iacute;ficos, que v&atilde;o incidindo em cascata um ap&oacute;s o outro, at&eacute; que, ao final do processo, h&aacute; um ac&uacute;mulo de tributa&ccedil;&atilde;o que pode comprometer, em longo prazo, a competitividade do produto cultural brasileiro em um mercado muito competitivo. Porque o mercado cultural, ainda mais na era da internet, da distribui&ccedil;&atilde;o digital, &eacute; efetivamente global. As barreiras &agrave; entrada de produtos estrangeiros s&atilde;o muito pequenas, ent&atilde;o, n&oacute;s temos que ser competitivos e, para isso, a estrutura de custos &eacute; importante. &Eacute; claro que precisa haver qualidade e outras coisas mais, mas a estrutura de custos tamb&eacute;m &eacute; importante. Ent&atilde;o, esse marco legal da cultura ser&aacute; resultado de v&aacute;rias conversas com o setor e de um mapeamento de demandas, para que, ent&atilde;o, possamos fazer algo que, de fato, fa&ccedil;a sentido e atenda &agrave;s leg&iacute;timas expectativas de todos os grupos das cadeias produtivas.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] Essas conversas com o setor cultural come&ccedil;am quando?</em></p>
+
+															<p align="justify">[Vasconcelos] Na verdade, elas j&aacute; come&ccedil;aram. Estamos ouvindo algumas pessoas e as associa&ccedil;&otilde;es representativas de diversos setores ir&atilde;o agendar conversas no minist&eacute;rio e fazer suas propostas formalmente. Todas ser&atilde;o analisadas de forma republicana, honesta, transparente. Todos poder&atilde;o dizer se concordam ou n&atilde;o. Vamos buscar pontos de converg&ecirc;ncia. Em qualquer cadeia produtiva, de qualquer setor econ&ocirc;mico, h&aacute; diverg&ecirc;ncia de interesses. Mesmo na agricultura,quem planta soja tem interesse divergente de quem coloca soja no caminh&atilde;o, que tem interesse divergente de quem coloca soja no navio,mas, no fundo, todo mundo entende que faz parte da mesma cadeia produtiva. Ent&atilde;o, se temos uma ambi&ccedil;&atilde;o com o Marco Legal da Cultura, &eacute; construir essa consci&ecirc;ncia de setor. Apesar de diverg&ecirc;ncias de interesses, o setor cultural tem objetivos compartilhados, ent&atilde;o acho que esta &eacute; a chave.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] E na &aacute;rea de pesquisa e desenvolvimento, como ser&aacute; o trabalho?</em></p>
+
+															<p align="justify">[Vasconcelos] Temos nesta &aacute;rea a quest&atilde;o do fomento &agrave;s atividades culturais debase e de vanguarda, &agrave;s novas linguagens, tudo que precisa do apoio mais forte do Estado para decolar. Na &aacute;rea de pesquisa, iremos desenvolver o Atlas Econ&ocirc;mico da Cultura Brasileira. Ele permitir&aacute;, finalmente, vermos o tamanho desse setor. Vamos mape&aacute;-lo no Brasil inteiro, ver o impacto no PIB local e nacional, quantos empregos gera, em que &aacute;reas, como &eacute; que flui em outras cadeias produtivas,saber para onde exporta e importa, mapear as for&ccedil;as e as oportunidades, para sabermos para onde estamos navegando. Afinal, sen&atilde;o tivermos um mapa de navega&ccedil;&atilde;o, n&atilde;o temos como saber para onde estamos indo.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] E em qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda, o que ser&aacute; feito inicialmente?</em></p>
+
+															<p align="justify">[Vasconcelos] Hoje, o controle dos meios de difus&atilde;o cultural est&aacute; cada vez mais dif&iacute;cil. Em portais e aplicativos de streaming de m&uacute;sica e v&iacute;deo,por exemplo, n&atilde;o h&aacute; qualquer inger&ecirc;ncia ou imposi&ccedil;&atilde;o de cotas para garantir o espa&ccedil;o do produto cultural brasileiro, ao contr&aacute;rio de salas de exibi&ccedil;&atilde;o e canais de TV, em que h&aacute; certo controle.Muitas dessas empresas est&atilde;o totalmente fora da nossa jurisdi&ccedil;&atilde;o.O produto cultural brasileiro precisa ser objeto de desejo do mundo todo e n&oacute;s temos condi&ccedil;&otilde;es para isso. Na &aacute;rea da m&uacute;sica, por exemplo, podemos dizer tranquilamente que a MPB, em termos de m&uacute;sica popular, &eacute; a mais importante do &uacute;ltimo s&eacute;culo depois da m&uacute;sica americana e da brit&acirc;nica, que s&atilde;o os donos da l&iacute;ngua franca. Isso n&atilde;o &eacute; pouca coisa, tanto em termos de cultura, de mercado cultural,quanto em termos simb&oacute;licos. E isso tamb&eacute;m vale para a moda, o design, o audiovisual, as artes visuais, o mercado editorial. Eu acredito de fato no potencial que o produto cultural brasileiro tem de ganhar os mercados do mundo. Ent&atilde;o, precisamos qualificar a oferta, identificar e resolver os gargalos de produ&ccedil;&atilde;o ou pelo menos contribuir para que o impacto deles seja o menor poss&iacute;vel.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify"><em>[MinC] E na &aacute;rea de direitos intelectuais, que tamb&eacute;m ficar&aacute; a cargo da Secretaria da Economia da Cultura?</em></p>
+
+															<p align="justify">[Vasconcelos] A &aacute;rea de direitos intelectuais &eacute; absolutamente essencial para a economia da cultura. O valor econ&ocirc;mico de um bem cultural nada mais &eacute; do que a soma do valor econ&ocirc;mico dos direitos adquiridos ao longo da sua cadeia de produ&ccedil;&atilde;o e &eacute; o direito intelectual que preserva o elemento humano dessa cadeia cada vez mais tecnol&oacute;gica. O criador &eacute; a base de tudo, sem ele n&atilde;o temos cultura. S&atilde;o os criadores,roteiristas, diretores, atores, compositores, produtores culturais que est&atilde;o com a m&atilde;o na massa, criando, desenvolvendo, investindo seu talento, seu tempo, seus recursos. A preserva&ccedil;&atilde;o dos direitos intelectuais &eacute; absolutamente fundamental e ser&aacute; tratada com muito respeito, porque disso depende a sustentabilidade, em longo prazo, de toda essa cadeia produtiva. &Eacute; essencial para a constru&ccedil;&atilde;o de um setor econ&ocirc;mico forte, coeso, solid&aacute;rio, internacionalizado e de vanguarda.</p>
+
+															<p align="justify">
+																<br>
+															</p>
+
+															<p align="justify"><em>[MinC] Em rela&ccedil;&atilde;o &agrave;s ind&uacute;strias culturais de alta performance, qual vai ser o trabalho da secretaria?</em></p>
+
+															<p align="justify">[Vasconcelos] Esta &eacute; uma ind&uacute;stria que, historicamente, tinha pouca rela&ccedil;&atilde;o como Minist&eacute;rio da Cultura, mas que agora estamos trazendo porque precisamos construir um setor unificado, precisamos que todo mundo participe da cadeia produtiva se compreenda como parte do mesmo setor. Sabemos que existem diverg&ecirc;ncias de interesses, mas isso n&atilde;o &eacute; uma exclusividade do setor cultural, acontece em qualquer setor econ&ocirc;mico e nosso trabalho &eacute; equilibrar o jogo e fazer com que todo mundo entenda que, apesar das diverg&ecirc;ncias, h&aacute; interesses convergentes que precisam ser trabalhados. Essas ind&uacute;strias de alta performance tamb&eacute;m sofrem com gargalos: &agrave;s vezes falta, por exemplo, m&atilde;o de obra especializada. O audiovisual &eacute; um caso cl&aacute;ssico, sempre tem demanda de profissionais qualificados e nem sempre encontra. Ent&atilde;o, n&oacute;s teremos programas de capacita&ccedil;&atilde;o voltados &agrave;s demandas do mercado em parceria com outras institui&ccedil;&otilde;es,como Sesc (Servi&ccedil;o Social do Com&eacute;rcio), Sesi (Servi&ccedil;o Social da Ind&uacute;stria), Sebrae (Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas), Senac (Servi&ccedil;o Nacional de Aprendizagem Comercial) e MEC (Minist&eacute;rio da Educa&ccedil;&atilde;o). Tamb&eacute;m &eacute; preciso investir na forma&ccedil;&atilde;o de gestores culturais, no fortalecimento e reconhecimento dessa categoria profissional. &Eacute; isso que vai dar o salto de qualidade para o nosso produto, porque talento a gente tem,o que falta &agrave;s vezes &eacute; um pouco de organiza&ccedil;&atilde;o e m&eacute;todo, e &eacute; a&iacute; que a secretaria vai atuar.</p>
+
+															<p align="justify">&nbsp;</p>
+
+															<p align="justify">Fonte: <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/%E2%80%9Cvocacao-para-economia-da-cultura-e-um-dos-ativos-do-brasil%E2%80%9D/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoriade Comunica&ccedil;&atilde;o</a> do Minist&eacute;rio da Cultura</p>
+
+														</div>
+
+													</div>
+
+													<div class="not-mais">
+														<div class="closed">Leia mais</div>
+														<div class="opened">Leia menos</div>
+													</div>
+												
+												</div>
+
+												<div class="separador"></div>
+
+											</div>
+
+											<!-- Notícia -->
+											<div class="noticia-container left">
+												
+												<!-- cabeçalho -->
+												<div class="noticia-header">
+													
+													<div class="not-tipo">NOTÍCIA</div>
 													<div class="not-titulo">Conheça os OBEC</div>
 													<div class="not-data">07/10/2016</div>
 

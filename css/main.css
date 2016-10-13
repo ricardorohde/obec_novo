@@ -98,10 +98,13 @@ body{
 }
 .button.small{
 	height: 31px;
-	box-shadow: none;
+	box-shadow: 1px 1px 1px #2c2c2c;
 	font-size: 10pt;
 	letter-spacing: 5px;
 	padding-left: 12px;
+}
+.button.right{
+	float: right;
 }
 /* Para que o scroll apareça na altura completa das telas laterais */
 .scroll-fake{

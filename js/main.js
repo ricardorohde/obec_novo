@@ -528,4 +528,26 @@ $(document).ready(function(){
 		setTimeout(openPgs(), 10000);
 	});
 
+
+	/*=========================  ADM ============================*/
+
+	$('.subSection-title').click(function(event){
+
+		var subSection = $(this).parents('.contentAdm-subSection'),
+			conteudo = $(subSection).find('.subSection-content'),
+			openFlag = $(subSection).hasClass('opened');
+
+		if(!openFlag){
+
+			var autoHeight = $(conteudo).css('height', 'auto').height();
+
+			$(conteudo).height(0).animate({height: autoHeight}, 500);
+			$(subSection).addClass('opened');
+		}
+		else{
+			$(conteudo).animate({height: 0}, 500);
+			$(subSection).removeClass('opened');
+		}	
+	});
+
 });
