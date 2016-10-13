@@ -287,7 +287,7 @@
 	}
 	.logo{
 		width: 400px;
-		height: 280px;
+		height: 210px;
 		margin: 0px auto;
 	}
 
@@ -444,6 +444,27 @@
 
 
 /* agenda */
+@media only screen and (max-height: 699px){
+	.content-mural{
+		height: 180px;
+	}
+	.menu-agenda{
+		margin: 0px;
+		padding: 50px 0px 0px 0px;
+	}
+	.logo{
+		margin: 0px auto 10px auto;
+		height: 230px;
+		width: 535px;
+	}
+}
+@media only screen and (max-height: 699px) and (min-width: 992px){
+	.logo{
+		margin: 80px auto 10px auto;
+		height: 230px;
+		width: 535px;
+	}
+}
 @media only screen and (min-height: 700px) and (max-height: 749px){
 	.content-mural{
 		height: 238px;

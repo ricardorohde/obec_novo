@@ -509,9 +509,23 @@ $(document).ready(function(){
 			$(textoCompleto).animate({height: '0px'}, 500);
 		}
 	});
+
+	/*====== Paginação ======*/
+	$('.news-page span').click(function(event){
+		var id = $(this).attr('href');
+		
+		$(this).parents('li').siblings().removeClass('active');
+		$(this).parents('li').addClass('active');
+
+		$('.new-page').removeClass('opened');
+		$('.new-page#'+id).addClass('opened');
+
+		$(this).parents('.content-mural').scrollTop(0);
+
+	});
+
 	/*========= Fim Agenda ========*/
 
-	
 
 	/* Quando a tela é redimencionada, os valores de css voltam ao default */
 	$(window).resize(function() {

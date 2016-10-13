@@ -562,28 +562,6 @@ input[type="file"]::-webkit-file-upload-button {
     background: #7b7b7b;
 }
 
-/*=== Paginãção ==============================*/
-.pagination > li > a, .pagination > li > span{
-	color: #dfdcdc;
-	border: 1px solid #dfdcdc;
-	background-color: #434343;
-
-}
-.pagination > .active > a, 
-.pagination > .active > span, 
-.pagination > .active > a:hover, 
-.pagination > .active > span:hover, 
-.pagination > .active > a:focus, 
-.pagination > .active > span:focus,
-.pagination > li > a:hover, 
-.pagination > li > span:hover, 
-.pagination > li > a:focus, 
-.pagination > li > span:focus{
-	background-color: #fbbf04;
-	border-color: #fbbf04;
-	color: #fff;
-	font-weight: bold;
-}
 /*=== Layout responsivo ======================*/
 @media only screen and (max-width: 1199px){
 	.admin-sidebar{;

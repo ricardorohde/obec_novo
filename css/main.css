@@ -261,6 +261,61 @@ body{
 	background-image: url('../images/icons/youtube.png');
 }
 
+/*=== Paginãção ==============================*/
+.pagination > li > a, .pagination > li > span{
+	color: white;
+	border: 2px solid white;
+	border-radius: 0px !important;
+	background-color: transparent;
+	cursor: pointer;
+	margin: 0px 2px;
+	font-weight: bold;
+
+}
+.pagination.dark > li > a, .pagination.dark > li > span{
+	color: #434343;
+	border: 2px solid #434343;
+	border-radius: 0px !important;
+	background-color: transparent;
+	cursor: pointer;
+	margin: 0px 2px;
+	font-weight: bold;
+
+}
+.pagination > .active > a, 
+.pagination > .active > span, 
+.pagination > .active > a:hover, 
+.pagination > .active > span:hover, 
+.pagination > .active > a:focus, 
+.pagination > .active > span:focus,
+.pagination > li > a:hover, 
+.pagination > li > span:hover, 
+.pagination > li > a:focus, 
+.pagination > li > span:focus{
+	background-color: #fbbf04;
+	border-color: transparent;
+	color: #fff;
+}
+.pagination.dark > .active > a, 
+.pagination.dark > .active > span, 
+.pagination.dark > .active > a:hover, 
+.pagination.dark > .active > span:hover, 
+.pagination.dark > .active > a:focus, 
+.pagination.dark > .active > span:focus,
+.pagination.dark > li > a:hover, 
+.pagination.dark > li > span:hover, 
+.pagination.dark > li > a:focus, 
+.pagination.dark > li > span:focus{
+	background-color: #fbbf04;
+	border-color: transparent;
+	color: #fff;
+}
+.new-page{
+	display: none;
+}
+.new-page.opened{
+	display: block;
+}
 /*=== Conteúdo das páginas =============================*/
 #pagina-sobre, #pagina-projetos, #pagina-acervo, #pagina-agenda{
 	position: relative;

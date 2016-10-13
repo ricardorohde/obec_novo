@@ -5,9 +5,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/desktop.css" media="screen and (min-width:768px) and (min-height: 700px)">
+		<link rel="stylesheet" type="text/css" href="css/desktop.css" media="screen and (min-width:768px) and (min-height: 650px)">
 		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width:767px)">
-		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-height:699px)">
+		<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-height:649px)">
 		
 		<title>OBEC RS</title>
 
@@ -1598,745 +1598,810 @@
 									<div class="container-mural">
 										<div class="content-mural">
 
-											<!-- Notícia -->
-											<div class="noticia-container left">
+											<div class="new-page opened" id="1">
 												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
+												<!-- Notícia -->
+												<div class="noticia-container left">
 													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Confira a entrevista com Cláudio Lins de Vasconcelos, secretário da Economia da Cultura do MinC</div>
-													<div class="not-data">11/10/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
+													<!-- cabeçalho -->
+													<div class="noticia-header">
 														
-														<div class="not-text-visivel">
-															<p> 
-																<p>No in&iacute;cio do m&ecirc;s de outubro, a Assessoria de Comunica&ccedil;&atilde;o do Minist&eacute;rio da Cultura entrevistou Cl&aacute;udio Lins de Vasconcelos, rec&eacute;m-nomeado secret&aacute;rio da Economia da Cultura. Vasconcelos &eacute; graduado pela Universidade Federal da Bahia (UFBA), mestre pela Universidade de Notre Dame (EUA) e doutor pela Universidade do Estado do Rio de Janeiro (Uerj). Em um de seus maiores desafios profissionais, o advogado mineiro tem a miss&atilde;o de contribuir para o desenvolvimento de um setor cultural forte, coeso, capaz de levar o produto cultural brasileiro aos principais mercados do mundo.&nbsp;</p>
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-
-															<p align="justify">&quot;Este &eacute; um cargo que me honra bastante. Qualquer um que trabalhe com economia da cultura, como &eacute; o meu caso, gostaria de estar nesse lugar. Em um pa&iacute;s do tamanho do Brasil, com todo esse potencial cultural, &eacute; uma possibilidade de fazer um trabalho hist&oacute;rico, de ajudar no desenvolvimento desse setor que eu amo tanto&quot;, afirma Vasconcelos &ndash; que &eacute; f&atilde; de filosofia e MPB. Em entrevista ao portal do MinC durante evento de capacita&ccedil;&atilde;o de empreendedores para o Mercado de Ind&uacute;strias Culturais do Sul (Micsul), o secret&aacute;rio fala sobre os principais projetos que ser&atilde;o realizados pela Secretaria da Economia da Cultura. &quot;Estou muito animado. Estamos com um projeto redondinho, pronto pra ser implementado. Um projeto que faz sentido, que respeita a dimens&atilde;o econ&ocirc;mica da cultura, sem perder a dimens&atilde;o simb&oacute;lica, e a ind&uacute;stria de alta performance,sem perder as ra&iacute;zes&quot;, destaca.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify">Confira a entrevista:</p>
-
-															<p align="justify"><em>[Assessoria de Imprensa MinC] Entre os dias 17 e 20 de outubro, ser&aacute; realizada em Bogot&aacute;, na Col&ocirc;mbia, a segunda edi&ccedil;&atilde;o do Mercado de Ind&uacute;strias Culturais do Sul (Micsul). O Brasil estar&aacute; presente com 60 empreendedores selecionados, via edital, pelo MinC e pela Apex-Brasil. Qual &eacute; a import&acirc;ncia da participa&ccedil;&atilde;o brasileira nesse evento?</em></p>
-
-															<p align="justify">[Cl&aacute;udio Lins de Vasconcelos] O Micsul &eacute; muito importante porque nos abre um mercado para o qual n&atilde;o demos muita aten&ccedil;&atilde;o ao longo da nossa hist&oacute;ria, que &eacute; o mercado sul-americano. S&atilde;o nossos vizinhos, temos tanta coisa em comum, tanto conte&uacute;do pra trocar, e muitas vezes ficamos voltados apenas aos mercados norte-americano e europeu. O evento na Col&ocirc;mbia &eacute; uma oportunidade n&atilde;o apenas para os 60 empreendedores selecionados, que v&atilde;o mostrar seus produtos e buscar novos neg&oacute;cios, mas para toda a economia da cultura brasileira, porque abre novos horizontes.&nbsp;</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] O que o senhor achou do workshop de capacita&ccedil;&atilde;o para empreendedores?&nbsp;</em></p>
-
-															<p align="justify">[Vasconcelos] Foi um encontro produtivo, com foco nos resultados que esses empreendedores poder&atilde;o alcan&ccedil;ar no Micsul. Houve grande concentra&ccedil;&atilde;o de pessoas (palestrantes) com conhecimento pr&aacute;tico. Foi muito positivo como troca de experi&ecirc;ncia, de como transformar os contratos em neg&oacute;cios.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify"><em>[MinC] O mercado sul-americano &eacute; consumidor de nossos produtos. O Micsul abrir&aacute; mercado?&nbsp;</em></p>
-
-															<p align="justify">[Vasconcelos] O Micsul soma v&aacute;rias linguagens, isso &eacute; importante para a converg&ecirc;ncia das l&iacute;nguas. Os nossos vizinhos sul-americanos gostam do nosso produto cultural, consomem a m&uacute;sica brasileira com muito vigor. J&aacute; n&oacute;s consumimos pouco a cultura deles, tem espa&ccedil;o para crescer. Por isso, acho que o Micsul &eacute; importante pra abrir uma nova fronteira para esse mercado, tanto para exportar como para importar, internacionalizar a produ&ccedil;&atilde;o cultural brasileira, para que possamos finalmente atingir todo nosso potencial de mercado.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify"><em>[MinC] O fomento &agrave; economia da cultura &eacute; uma das prioridades da gest&atilde;o do ministro Marcelo Calero. Por isso, foi criada a Secretaria da Economia da Cultura, que est&aacute; sob seu comando. Qual &eacute; o objetivo inicial da secretaria?</em></p>
-
-															<p align="justify">[Vasconcelos] Nossa secretaria tem como objetivo principal contribuir para o desenvolvimento de uma economia da cultura forte, coesa, solid&aacute;ria,internacionalizada, de vanguarda, capaz de levar o produto cultural brasileiro, a mensagem dos produtores culturais brasileiros, aos principais mercados do mundo. A economia da cultura &eacute; um dos setores em que o Brasil &eacute; mais competitivo. &Eacute; um setor em que temos efetivamente condi&ccedil;&otilde;es de atingir os patamares mais altos dos mercados internacionais. Al&eacute;m de ser a cara do Brasil, &eacute; um setor que n&atilde;o polui, emprega muita gente, depende muito do trabalho humano, &eacute; pouco sujeito &agrave; substitui&ccedil;&atilde;o de pessoas por m&aacute;quinas,porque o principal produto, o principal insumo &eacute; o c&eacute;rebro humano,o pensamento humano, a criatividade humana. Ent&atilde;o, independentemente do est&aacute;gio tecnol&oacute;gico em que estivermos, sempre haver&aacute; necessidade da criatividade humana. Um roteiro bem feito, uma obra de artes visuais agrad&aacute;vel visualmente, uma composi&ccedil;&atilde;o agrad&aacute;vel aos ouvidos, tudo &eacute; trabalho exclusivo do c&eacute;rebro humano, ent&atilde;o, &eacute; uma ind&uacute;stria que tem crescido em capital intelectual, que n&atilde;o depende dos ciclos de altos e baixos das commodities, enfim, uma ind&uacute;stria que n&oacute;s temos que desenvolver. Essa voca&ccedil;&atilde;o para a economia da cultura &eacute; um dos grandes ativos do Brasil.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] Como ser&aacute;, inicialmente, o trabalho da secretaria?</em></p>
-
-															<p align="justify">[Vasconcelos] Nosso trabalho se desenvolver&aacute; em quatro grandes &aacute;reas: seguran&ccedil;a jur&iacute;dica; pesquisa e desenvolvimento; qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda; e direitos intelectuais.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify"><em>[MinC] E o que ser&aacute; feito em cada uma dessas &aacute;reas?</em></p>
-
-															<p align="justify">[Vasconcelos] Na &aacute;rea de seguran&ccedil;a jur&iacute;dica, n&oacute;s teremos a Coordena&ccedil;&atilde;o-Geral dos Marcos Legais da Cultura. O objetivo ser&aacute; fazer propostas de altera&ccedil;&otilde;es legislativas, de aperfei&ccedil;oamento do ordenamento jur&iacute;dico, de forma a dar ao setor cultural um ambiente mais favor&aacute;vel, mais atraente pra investimentos, tanto nacionais como internacionais.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify"><em>[MinC] E como est&aacute; a cria&ccedil;&atilde;o deste marco regulat&oacute;rio?</em></p>
-
-															<p align="justify">[Vasconcelos] Ainda estamos come&ccedil;ando o trabalho. Iremos inicialmente ouvir o setor cultural, para mapear as demandas regulat&oacute;rias. Precisamos ouvir todos os pontos das cadeias produtivas, ver o que est&aacute; atravancando processos, saber como podemos contribuir pra fazer com que o setor tenha mais investimento, mais qualidade, mais for&ccedil;a. Um exemplo claro na quest&atilde;o do marco legal da cultura &eacute; a estrutura tribut&aacute;ria. Nosso setor &eacute; formado, em grande parte, por pequenas e m&eacute;dias empresas e, a cada transa&ccedil;&atilde;o entre essas empresas, incide tributos espec&iacute;ficos, que v&atilde;o incidindo em cascata um ap&oacute;s o outro, at&eacute; que, ao final do processo, h&aacute; um ac&uacute;mulo de tributa&ccedil;&atilde;o que pode comprometer, em longo prazo, a competitividade do produto cultural brasileiro em um mercado muito competitivo. Porque o mercado cultural, ainda mais na era da internet, da distribui&ccedil;&atilde;o digital, &eacute; efetivamente global. As barreiras &agrave; entrada de produtos estrangeiros s&atilde;o muito pequenas, ent&atilde;o, n&oacute;s temos que ser competitivos e, para isso, a estrutura de custos &eacute; importante. &Eacute; claro que precisa haver qualidade e outras coisas mais, mas a estrutura de custos tamb&eacute;m &eacute; importante. Ent&atilde;o, esse marco legal da cultura ser&aacute; resultado de v&aacute;rias conversas com o setor e de um mapeamento de demandas, para que, ent&atilde;o, possamos fazer algo que, de fato, fa&ccedil;a sentido e atenda &agrave;s leg&iacute;timas expectativas de todos os grupos das cadeias produtivas.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] Essas conversas com o setor cultural come&ccedil;am quando?</em></p>
-
-															<p align="justify">[Vasconcelos] Na verdade, elas j&aacute; come&ccedil;aram. Estamos ouvindo algumas pessoas e as associa&ccedil;&otilde;es representativas de diversos setores ir&atilde;o agendar conversas no minist&eacute;rio e fazer suas propostas formalmente. Todas ser&atilde;o analisadas de forma republicana, honesta, transparente. Todos poder&atilde;o dizer se concordam ou n&atilde;o. Vamos buscar pontos de converg&ecirc;ncia. Em qualquer cadeia produtiva, de qualquer setor econ&ocirc;mico, h&aacute; diverg&ecirc;ncia de interesses. Mesmo na agricultura,quem planta soja tem interesse divergente de quem coloca soja no caminh&atilde;o, que tem interesse divergente de quem coloca soja no navio,mas, no fundo, todo mundo entende que faz parte da mesma cadeia produtiva. Ent&atilde;o, se temos uma ambi&ccedil;&atilde;o com o Marco Legal da Cultura, &eacute; construir essa consci&ecirc;ncia de setor. Apesar de diverg&ecirc;ncias de interesses, o setor cultural tem objetivos compartilhados, ent&atilde;o acho que esta &eacute; a chave.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] E na &aacute;rea de pesquisa e desenvolvimento, como ser&aacute; o trabalho?</em></p>
-
-															<p align="justify">[Vasconcelos] Temos nesta &aacute;rea a quest&atilde;o do fomento &agrave;s atividades culturais debase e de vanguarda, &agrave;s novas linguagens, tudo que precisa do apoio mais forte do Estado para decolar. Na &aacute;rea de pesquisa, iremos desenvolver o Atlas Econ&ocirc;mico da Cultura Brasileira. Ele permitir&aacute;, finalmente, vermos o tamanho desse setor. Vamos mape&aacute;-lo no Brasil inteiro, ver o impacto no PIB local e nacional, quantos empregos gera, em que &aacute;reas, como &eacute; que flui em outras cadeias produtivas,saber para onde exporta e importa, mapear as for&ccedil;as e as oportunidades, para sabermos para onde estamos navegando. Afinal, sen&atilde;o tivermos um mapa de navega&ccedil;&atilde;o, n&atilde;o temos como saber para onde estamos indo.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] E em qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda, o que ser&aacute; feito inicialmente?</em></p>
-
-															<p align="justify">[Vasconcelos] Hoje, o controle dos meios de difus&atilde;o cultural est&aacute; cada vez mais dif&iacute;cil. Em portais e aplicativos de streaming de m&uacute;sica e v&iacute;deo,por exemplo, n&atilde;o h&aacute; qualquer inger&ecirc;ncia ou imposi&ccedil;&atilde;o de cotas para garantir o espa&ccedil;o do produto cultural brasileiro, ao contr&aacute;rio de salas de exibi&ccedil;&atilde;o e canais de TV, em que h&aacute; certo controle.Muitas dessas empresas est&atilde;o totalmente fora da nossa jurisdi&ccedil;&atilde;o.O produto cultural brasileiro precisa ser objeto de desejo do mundo todo e n&oacute;s temos condi&ccedil;&otilde;es para isso. Na &aacute;rea da m&uacute;sica, por exemplo, podemos dizer tranquilamente que a MPB, em termos de m&uacute;sica popular, &eacute; a mais importante do &uacute;ltimo s&eacute;culo depois da m&uacute;sica americana e da brit&acirc;nica, que s&atilde;o os donos da l&iacute;ngua franca. Isso n&atilde;o &eacute; pouca coisa, tanto em termos de cultura, de mercado cultural,quanto em termos simb&oacute;licos. E isso tamb&eacute;m vale para a moda, o design, o audiovisual, as artes visuais, o mercado editorial. Eu acredito de fato no potencial que o produto cultural brasileiro tem de ganhar os mercados do mundo. Ent&atilde;o, precisamos qualificar a oferta, identificar e resolver os gargalos de produ&ccedil;&atilde;o ou pelo menos contribuir para que o impacto deles seja o menor poss&iacute;vel.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify"><em>[MinC] E na &aacute;rea de direitos intelectuais, que tamb&eacute;m ficar&aacute; a cargo da Secretaria da Economia da Cultura?</em></p>
-
-															<p align="justify">[Vasconcelos] A &aacute;rea de direitos intelectuais &eacute; absolutamente essencial para a economia da cultura. O valor econ&ocirc;mico de um bem cultural nada mais &eacute; do que a soma do valor econ&ocirc;mico dos direitos adquiridos ao longo da sua cadeia de produ&ccedil;&atilde;o e &eacute; o direito intelectual que preserva o elemento humano dessa cadeia cada vez mais tecnol&oacute;gica. O criador &eacute; a base de tudo, sem ele n&atilde;o temos cultura. S&atilde;o os criadores,roteiristas, diretores, atores, compositores, produtores culturais que est&atilde;o com a m&atilde;o na massa, criando, desenvolvendo, investindo seu talento, seu tempo, seus recursos. A preserva&ccedil;&atilde;o dos direitos intelectuais &eacute; absolutamente fundamental e ser&aacute; tratada com muito respeito, porque disso depende a sustentabilidade, em longo prazo, de toda essa cadeia produtiva. &Eacute; essencial para a constru&ccedil;&atilde;o de um setor econ&ocirc;mico forte, coeso, solid&aacute;rio, internacionalizado e de vanguarda.</p>
-
-															<p align="justify">
-																<br>
-															</p>
-
-															<p align="justify"><em>[MinC] Em rela&ccedil;&atilde;o &agrave;s ind&uacute;strias culturais de alta performance, qual vai ser o trabalho da secretaria?</em></p>
-
-															<p align="justify">[Vasconcelos] Esta &eacute; uma ind&uacute;stria que, historicamente, tinha pouca rela&ccedil;&atilde;o como Minist&eacute;rio da Cultura, mas que agora estamos trazendo porque precisamos construir um setor unificado, precisamos que todo mundo participe da cadeia produtiva se compreenda como parte do mesmo setor. Sabemos que existem diverg&ecirc;ncias de interesses, mas isso n&atilde;o &eacute; uma exclusividade do setor cultural, acontece em qualquer setor econ&ocirc;mico e nosso trabalho &eacute; equilibrar o jogo e fazer com que todo mundo entenda que, apesar das diverg&ecirc;ncias, h&aacute; interesses convergentes que precisam ser trabalhados. Essas ind&uacute;strias de alta performance tamb&eacute;m sofrem com gargalos: &agrave;s vezes falta, por exemplo, m&atilde;o de obra especializada. O audiovisual &eacute; um caso cl&aacute;ssico, sempre tem demanda de profissionais qualificados e nem sempre encontra. Ent&atilde;o, n&oacute;s teremos programas de capacita&ccedil;&atilde;o voltados &agrave;s demandas do mercado em parceria com outras institui&ccedil;&otilde;es,como Sesc (Servi&ccedil;o Social do Com&eacute;rcio), Sesi (Servi&ccedil;o Social da Ind&uacute;stria), Sebrae (Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas), Senac (Servi&ccedil;o Nacional de Aprendizagem Comercial) e MEC (Minist&eacute;rio da Educa&ccedil;&atilde;o). Tamb&eacute;m &eacute; preciso investir na forma&ccedil;&atilde;o de gestores culturais, no fortalecimento e reconhecimento dessa categoria profissional. &Eacute; isso que vai dar o salto de qualidade para o nosso produto, porque talento a gente tem,o que falta &agrave;s vezes &eacute; um pouco de organiza&ccedil;&atilde;o e m&eacute;todo, e &eacute; a&iacute; que a secretaria vai atuar.</p>
-
-															<p align="justify">&nbsp;</p>
-
-															<p align="justify">Fonte: <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/%E2%80%9Cvocacao-para-economia-da-cultura-e-um-dos-ativos-do-brasil%E2%80%9D/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoriade Comunica&ccedil;&atilde;o</a> do Minist&eacute;rio da Cultura</p>
-
-														</div>
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Como funciona o financiamento à cultura no Brasil: o Vale-Cultura</div>
+														<div class="not-data">13/10/2016</div>
 
 													</div>
 
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p align="justify">Em 2012, por meio da Lei 12.761, foi institu&iacute;do o <a href="http://vale.cultura.gov.br/">Vale-Cultura</a>, um benef&iacute;cio de R$ 50 mensais concedido pelo empregador para seus funcion&aacute;rios, garantindo o acesso dos trabalhadores &agrave; cultura e benef&iacute;cios fiscais para a empresa.</p>
+															</div>
+
+															<div class="not-text-mais">
+
+																<p align="justify">O Vale-Cultura &eacute; um benef&iacute;cio trabalhista e n&atilde;o tem car&aacute;ter obrigat&oacute;rio (como ocorre com o Vale-Alimenta&ccedil;&atilde;o, por exemplo). As empresas que aderem ao programa refor&ccedil;am o compromisso com o bem-estar de seus trabalhadores, agregando valor ao sal&aacute;rio, sem incid&ecirc;ncia de encargos sociais e trabalhistas. Com o Vale-Cultura, as empresas tributadas em lucro real podem deduzir &ndash; a t&iacute;tulo de investimento no programa &ndash; at&eacute; 1% do imposto de renda.</p>
+
+																<p align="justify">O valor &eacute; cumulativo, sem prazo de validade e &eacute; utilizado exclusivamente na compra de produtos ou servi&ccedil;os culturais. A ideia do Vale-Cultura &eacute; permitir maior usufruto de produtos ou servi&ccedil;os culturais por trabalhadores registrados, com remunera&ccedil;&atilde;o de at&eacute; cinco sal&aacute;rios m&iacute;nimos. Os recursos podem ser gastos com produtos e servi&ccedil;os ligados &agrave; cultura em geral, como ingressos para teatro, cinema, museus, shows, circo, compra de CDs, DVDs, livros, revistas e jornais, compra de instrumentos musicais e mensalidades de cursos de artes.</p>
+
+																<p align="justify">Atualmente, 41.017 estabelecimentos aceitam o benef&iacute;cio, usado por 504.663 trabalhadores de 1.351 empresas. Apenas nos primeiros nove meses deste ano, os trabalhadores brasileiros consumiram mais de R$ 330 milh&otilde;es com o Vale-Cultura.&nbsp;</p>
+
+																<p align="justify">Previsto para terminar em 31 de dezembro deste ano, o Programa de Cultura do Trabalhador (Vale-Cultura) pode ser prorrogado at&eacute; 2021. O projeto de lei sobre o tema est&aacute; atualmente em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados.</p>
+
+																<p align="justify">De acordo com a deputada federal Mara Gabrilli (PSDB-SP), que apresentou o proejto, &quot;os benef&iacute;cios do Vale-Cultura s&atilde;o evidentes na promo&ccedil;&atilde;o da inclus&atilde;o social e da cidadania (...). Apesar dos n&uacute;meros, a democratiza&ccedil;&atilde;o do acesso &agrave; produ&ccedil;&atilde;o e frui&ccedil;&atilde;o dos bens e servi&ccedil;os culturais ainda n&atilde;o foi concretizada. Garanti-lo por mais tempo vai possibilitar a continuidade do processo de democratiza&ccedil;&atilde;o do acesso a bens e servi&ccedil;os culturais pelos brasileiros&quot;, avaliou a parlamentar. &nbsp;</p>
+
+																<p align="justify">No <a href="http://www.cultura.gov.br/valecultura">site do Minist&eacute;rio da Cultura</a>, est&atilde;o dispon&iacute;veis mais informa&ccedil;&otilde;es sobre o Programa.</p>
+
+																<p align="justify">Com informa&ccedil;&otilde;es de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/beneficio-fiscal-do-vale-cultura-pode-ser-ampliado-ate-2021/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Minist&eacute;rio da Cultura</a>.</p>
+
+																<img src="images/noticias/valeCultura.png" class="noticia-image"/>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
 													</div>
-												
+
+													<div class="separador"></div>
+
 												</div>
 
-												<div class="separador"></div>
+												<!-- Notícia -->
+												<div class="noticia-container right">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Confira a entrevista com Cláudio Lins de Vasconcelos, secretário da Economia da Cultura do MinC</div>
+														<div class="not-data">11/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	<p>No in&iacute;cio do m&ecirc;s de outubro, a Assessoria de Comunica&ccedil;&atilde;o do Minist&eacute;rio da Cultura entrevistou Cl&aacute;udio Lins de Vasconcelos, rec&eacute;m-nomeado secret&aacute;rio da Economia da Cultura. Vasconcelos &eacute; graduado pela Universidade Federal da Bahia (UFBA), mestre pela Universidade de Notre Dame (EUA) e doutor pela Universidade do Estado do Rio de Janeiro (Uerj). Em um de seus maiores desafios profissionais, o advogado mineiro tem a miss&atilde;o de contribuir para o desenvolvimento de um setor cultural forte, coeso, capaz de levar o produto cultural brasileiro aos principais mercados do mundo.&nbsp;</p>
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+
+																<p align="justify">&quot;Este &eacute; um cargo que me honra bastante. Qualquer um que trabalhe com economia da cultura, como &eacute; o meu caso, gostaria de estar nesse lugar. Em um pa&iacute;s do tamanho do Brasil, com todo esse potencial cultural, &eacute; uma possibilidade de fazer um trabalho hist&oacute;rico, de ajudar no desenvolvimento desse setor que eu amo tanto&quot;, afirma Vasconcelos &ndash; que &eacute; f&atilde; de filosofia e MPB. Em entrevista ao portal do MinC durante evento de capacita&ccedil;&atilde;o de empreendedores para o Mercado de Ind&uacute;strias Culturais do Sul (Micsul), o secret&aacute;rio fala sobre os principais projetos que ser&atilde;o realizados pela Secretaria da Economia da Cultura. &quot;Estou muito animado. Estamos com um projeto redondinho, pronto pra ser implementado. Um projeto que faz sentido, que respeita a dimens&atilde;o econ&ocirc;mica da cultura, sem perder a dimens&atilde;o simb&oacute;lica, e a ind&uacute;stria de alta performance,sem perder as ra&iacute;zes&quot;, destaca.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify">Confira a entrevista:</p>
+
+																<p align="justify"><em>[Assessoria de Imprensa MinC] Entre os dias 17 e 20 de outubro, ser&aacute; realizada em Bogot&aacute;, na Col&ocirc;mbia, a segunda edi&ccedil;&atilde;o do Mercado de Ind&uacute;strias Culturais do Sul (Micsul). O Brasil estar&aacute; presente com 60 empreendedores selecionados, via edital, pelo MinC e pela Apex-Brasil. Qual &eacute; a import&acirc;ncia da participa&ccedil;&atilde;o brasileira nesse evento?</em></p>
+
+																<p align="justify">[Cl&aacute;udio Lins de Vasconcelos] O Micsul &eacute; muito importante porque nos abre um mercado para o qual n&atilde;o demos muita aten&ccedil;&atilde;o ao longo da nossa hist&oacute;ria, que &eacute; o mercado sul-americano. S&atilde;o nossos vizinhos, temos tanta coisa em comum, tanto conte&uacute;do pra trocar, e muitas vezes ficamos voltados apenas aos mercados norte-americano e europeu. O evento na Col&ocirc;mbia &eacute; uma oportunidade n&atilde;o apenas para os 60 empreendedores selecionados, que v&atilde;o mostrar seus produtos e buscar novos neg&oacute;cios, mas para toda a economia da cultura brasileira, porque abre novos horizontes.&nbsp;</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] O que o senhor achou do workshop de capacita&ccedil;&atilde;o para empreendedores?&nbsp;</em></p>
+
+																<p align="justify">[Vasconcelos] Foi um encontro produtivo, com foco nos resultados que esses empreendedores poder&atilde;o alcan&ccedil;ar no Micsul. Houve grande concentra&ccedil;&atilde;o de pessoas (palestrantes) com conhecimento pr&aacute;tico. Foi muito positivo como troca de experi&ecirc;ncia, de como transformar os contratos em neg&oacute;cios.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify"><em>[MinC] O mercado sul-americano &eacute; consumidor de nossos produtos. O Micsul abrir&aacute; mercado?&nbsp;</em></p>
+
+																<p align="justify">[Vasconcelos] O Micsul soma v&aacute;rias linguagens, isso &eacute; importante para a converg&ecirc;ncia das l&iacute;nguas. Os nossos vizinhos sul-americanos gostam do nosso produto cultural, consomem a m&uacute;sica brasileira com muito vigor. J&aacute; n&oacute;s consumimos pouco a cultura deles, tem espa&ccedil;o para crescer. Por isso, acho que o Micsul &eacute; importante pra abrir uma nova fronteira para esse mercado, tanto para exportar como para importar, internacionalizar a produ&ccedil;&atilde;o cultural brasileira, para que possamos finalmente atingir todo nosso potencial de mercado.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify"><em>[MinC] O fomento &agrave; economia da cultura &eacute; uma das prioridades da gest&atilde;o do ministro Marcelo Calero. Por isso, foi criada a Secretaria da Economia da Cultura, que est&aacute; sob seu comando. Qual &eacute; o objetivo inicial da secretaria?</em></p>
+
+																<p align="justify">[Vasconcelos] Nossa secretaria tem como objetivo principal contribuir para o desenvolvimento de uma economia da cultura forte, coesa, solid&aacute;ria,internacionalizada, de vanguarda, capaz de levar o produto cultural brasileiro, a mensagem dos produtores culturais brasileiros, aos principais mercados do mundo. A economia da cultura &eacute; um dos setores em que o Brasil &eacute; mais competitivo. &Eacute; um setor em que temos efetivamente condi&ccedil;&otilde;es de atingir os patamares mais altos dos mercados internacionais. Al&eacute;m de ser a cara do Brasil, &eacute; um setor que n&atilde;o polui, emprega muita gente, depende muito do trabalho humano, &eacute; pouco sujeito &agrave; substitui&ccedil;&atilde;o de pessoas por m&aacute;quinas,porque o principal produto, o principal insumo &eacute; o c&eacute;rebro humano,o pensamento humano, a criatividade humana. Ent&atilde;o, independentemente do est&aacute;gio tecnol&oacute;gico em que estivermos, sempre haver&aacute; necessidade da criatividade humana. Um roteiro bem feito, uma obra de artes visuais agrad&aacute;vel visualmente, uma composi&ccedil;&atilde;o agrad&aacute;vel aos ouvidos, tudo &eacute; trabalho exclusivo do c&eacute;rebro humano, ent&atilde;o, &eacute; uma ind&uacute;stria que tem crescido em capital intelectual, que n&atilde;o depende dos ciclos de altos e baixos das commodities, enfim, uma ind&uacute;stria que n&oacute;s temos que desenvolver. Essa voca&ccedil;&atilde;o para a economia da cultura &eacute; um dos grandes ativos do Brasil.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] Como ser&aacute;, inicialmente, o trabalho da secretaria?</em></p>
+
+																<p align="justify">[Vasconcelos] Nosso trabalho se desenvolver&aacute; em quatro grandes &aacute;reas: seguran&ccedil;a jur&iacute;dica; pesquisa e desenvolvimento; qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda; e direitos intelectuais.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify"><em>[MinC] E o que ser&aacute; feito em cada uma dessas &aacute;reas?</em></p>
+
+																<p align="justify">[Vasconcelos] Na &aacute;rea de seguran&ccedil;a jur&iacute;dica, n&oacute;s teremos a Coordena&ccedil;&atilde;o-Geral dos Marcos Legais da Cultura. O objetivo ser&aacute; fazer propostas de altera&ccedil;&otilde;es legislativas, de aperfei&ccedil;oamento do ordenamento jur&iacute;dico, de forma a dar ao setor cultural um ambiente mais favor&aacute;vel, mais atraente pra investimentos, tanto nacionais como internacionais.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify"><em>[MinC] E como est&aacute; a cria&ccedil;&atilde;o deste marco regulat&oacute;rio?</em></p>
+
+																<p align="justify">[Vasconcelos] Ainda estamos come&ccedil;ando o trabalho. Iremos inicialmente ouvir o setor cultural, para mapear as demandas regulat&oacute;rias. Precisamos ouvir todos os pontos das cadeias produtivas, ver o que est&aacute; atravancando processos, saber como podemos contribuir pra fazer com que o setor tenha mais investimento, mais qualidade, mais for&ccedil;a. Um exemplo claro na quest&atilde;o do marco legal da cultura &eacute; a estrutura tribut&aacute;ria. Nosso setor &eacute; formado, em grande parte, por pequenas e m&eacute;dias empresas e, a cada transa&ccedil;&atilde;o entre essas empresas, incide tributos espec&iacute;ficos, que v&atilde;o incidindo em cascata um ap&oacute;s o outro, at&eacute; que, ao final do processo, h&aacute; um ac&uacute;mulo de tributa&ccedil;&atilde;o que pode comprometer, em longo prazo, a competitividade do produto cultural brasileiro em um mercado muito competitivo. Porque o mercado cultural, ainda mais na era da internet, da distribui&ccedil;&atilde;o digital, &eacute; efetivamente global. As barreiras &agrave; entrada de produtos estrangeiros s&atilde;o muito pequenas, ent&atilde;o, n&oacute;s temos que ser competitivos e, para isso, a estrutura de custos &eacute; importante. &Eacute; claro que precisa haver qualidade e outras coisas mais, mas a estrutura de custos tamb&eacute;m &eacute; importante. Ent&atilde;o, esse marco legal da cultura ser&aacute; resultado de v&aacute;rias conversas com o setor e de um mapeamento de demandas, para que, ent&atilde;o, possamos fazer algo que, de fato, fa&ccedil;a sentido e atenda &agrave;s leg&iacute;timas expectativas de todos os grupos das cadeias produtivas.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] Essas conversas com o setor cultural come&ccedil;am quando?</em></p>
+
+																<p align="justify">[Vasconcelos] Na verdade, elas j&aacute; come&ccedil;aram. Estamos ouvindo algumas pessoas e as associa&ccedil;&otilde;es representativas de diversos setores ir&atilde;o agendar conversas no minist&eacute;rio e fazer suas propostas formalmente. Todas ser&atilde;o analisadas de forma republicana, honesta, transparente. Todos poder&atilde;o dizer se concordam ou n&atilde;o. Vamos buscar pontos de converg&ecirc;ncia. Em qualquer cadeia produtiva, de qualquer setor econ&ocirc;mico, h&aacute; diverg&ecirc;ncia de interesses. Mesmo na agricultura,quem planta soja tem interesse divergente de quem coloca soja no caminh&atilde;o, que tem interesse divergente de quem coloca soja no navio,mas, no fundo, todo mundo entende que faz parte da mesma cadeia produtiva. Ent&atilde;o, se temos uma ambi&ccedil;&atilde;o com o Marco Legal da Cultura, &eacute; construir essa consci&ecirc;ncia de setor. Apesar de diverg&ecirc;ncias de interesses, o setor cultural tem objetivos compartilhados, ent&atilde;o acho que esta &eacute; a chave.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] E na &aacute;rea de pesquisa e desenvolvimento, como ser&aacute; o trabalho?</em></p>
+
+																<p align="justify">[Vasconcelos] Temos nesta &aacute;rea a quest&atilde;o do fomento &agrave;s atividades culturais debase e de vanguarda, &agrave;s novas linguagens, tudo que precisa do apoio mais forte do Estado para decolar. Na &aacute;rea de pesquisa, iremos desenvolver o Atlas Econ&ocirc;mico da Cultura Brasileira. Ele permitir&aacute;, finalmente, vermos o tamanho desse setor. Vamos mape&aacute;-lo no Brasil inteiro, ver o impacto no PIB local e nacional, quantos empregos gera, em que &aacute;reas, como &eacute; que flui em outras cadeias produtivas,saber para onde exporta e importa, mapear as for&ccedil;as e as oportunidades, para sabermos para onde estamos navegando. Afinal, sen&atilde;o tivermos um mapa de navega&ccedil;&atilde;o, n&atilde;o temos como saber para onde estamos indo.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] E em qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda, o que ser&aacute; feito inicialmente?</em></p>
+
+																<p align="justify">[Vasconcelos] Hoje, o controle dos meios de difus&atilde;o cultural est&aacute; cada vez mais dif&iacute;cil. Em portais e aplicativos de streaming de m&uacute;sica e v&iacute;deo,por exemplo, n&atilde;o h&aacute; qualquer inger&ecirc;ncia ou imposi&ccedil;&atilde;o de cotas para garantir o espa&ccedil;o do produto cultural brasileiro, ao contr&aacute;rio de salas de exibi&ccedil;&atilde;o e canais de TV, em que h&aacute; certo controle.Muitas dessas empresas est&atilde;o totalmente fora da nossa jurisdi&ccedil;&atilde;o.O produto cultural brasileiro precisa ser objeto de desejo do mundo todo e n&oacute;s temos condi&ccedil;&otilde;es para isso. Na &aacute;rea da m&uacute;sica, por exemplo, podemos dizer tranquilamente que a MPB, em termos de m&uacute;sica popular, &eacute; a mais importante do &uacute;ltimo s&eacute;culo depois da m&uacute;sica americana e da brit&acirc;nica, que s&atilde;o os donos da l&iacute;ngua franca. Isso n&atilde;o &eacute; pouca coisa, tanto em termos de cultura, de mercado cultural,quanto em termos simb&oacute;licos. E isso tamb&eacute;m vale para a moda, o design, o audiovisual, as artes visuais, o mercado editorial. Eu acredito de fato no potencial que o produto cultural brasileiro tem de ganhar os mercados do mundo. Ent&atilde;o, precisamos qualificar a oferta, identificar e resolver os gargalos de produ&ccedil;&atilde;o ou pelo menos contribuir para que o impacto deles seja o menor poss&iacute;vel.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify"><em>[MinC] E na &aacute;rea de direitos intelectuais, que tamb&eacute;m ficar&aacute; a cargo da Secretaria da Economia da Cultura?</em></p>
+
+																<p align="justify">[Vasconcelos] A &aacute;rea de direitos intelectuais &eacute; absolutamente essencial para a economia da cultura. O valor econ&ocirc;mico de um bem cultural nada mais &eacute; do que a soma do valor econ&ocirc;mico dos direitos adquiridos ao longo da sua cadeia de produ&ccedil;&atilde;o e &eacute; o direito intelectual que preserva o elemento humano dessa cadeia cada vez mais tecnol&oacute;gica. O criador &eacute; a base de tudo, sem ele n&atilde;o temos cultura. S&atilde;o os criadores,roteiristas, diretores, atores, compositores, produtores culturais que est&atilde;o com a m&atilde;o na massa, criando, desenvolvendo, investindo seu talento, seu tempo, seus recursos. A preserva&ccedil;&atilde;o dos direitos intelectuais &eacute; absolutamente fundamental e ser&aacute; tratada com muito respeito, porque disso depende a sustentabilidade, em longo prazo, de toda essa cadeia produtiva. &Eacute; essencial para a constru&ccedil;&atilde;o de um setor econ&ocirc;mico forte, coeso, solid&aacute;rio, internacionalizado e de vanguarda.</p>
+
+																<p align="justify">
+																	<br>
+																</p>
+
+																<p align="justify"><em>[MinC] Em rela&ccedil;&atilde;o &agrave;s ind&uacute;strias culturais de alta performance, qual vai ser o trabalho da secretaria?</em></p>
+
+																<p align="justify">[Vasconcelos] Esta &eacute; uma ind&uacute;stria que, historicamente, tinha pouca rela&ccedil;&atilde;o como Minist&eacute;rio da Cultura, mas que agora estamos trazendo porque precisamos construir um setor unificado, precisamos que todo mundo participe da cadeia produtiva se compreenda como parte do mesmo setor. Sabemos que existem diverg&ecirc;ncias de interesses, mas isso n&atilde;o &eacute; uma exclusividade do setor cultural, acontece em qualquer setor econ&ocirc;mico e nosso trabalho &eacute; equilibrar o jogo e fazer com que todo mundo entenda que, apesar das diverg&ecirc;ncias, h&aacute; interesses convergentes que precisam ser trabalhados. Essas ind&uacute;strias de alta performance tamb&eacute;m sofrem com gargalos: &agrave;s vezes falta, por exemplo, m&atilde;o de obra especializada. O audiovisual &eacute; um caso cl&aacute;ssico, sempre tem demanda de profissionais qualificados e nem sempre encontra. Ent&atilde;o, n&oacute;s teremos programas de capacita&ccedil;&atilde;o voltados &agrave;s demandas do mercado em parceria com outras institui&ccedil;&otilde;es,como Sesc (Servi&ccedil;o Social do Com&eacute;rcio), Sesi (Servi&ccedil;o Social da Ind&uacute;stria), Sebrae (Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas), Senac (Servi&ccedil;o Nacional de Aprendizagem Comercial) e MEC (Minist&eacute;rio da Educa&ccedil;&atilde;o). Tamb&eacute;m &eacute; preciso investir na forma&ccedil;&atilde;o de gestores culturais, no fortalecimento e reconhecimento dessa categoria profissional. &Eacute; isso que vai dar o salto de qualidade para o nosso produto, porque talento a gente tem,o que falta &agrave;s vezes &eacute; um pouco de organiza&ccedil;&atilde;o e m&eacute;todo, e &eacute; a&iacute; que a secretaria vai atuar.</p>
+
+																<p align="justify">&nbsp;</p>
+
+																<p align="justify">Fonte: <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/%E2%80%9Cvocacao-para-economia-da-cultura-e-um-dos-ativos-do-brasil%E2%80%9D/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoriade Comunica&ccedil;&atilde;o</a> do Minist&eacute;rio da Cultura</p>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container left">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Conheça os OBEC</div>
+														<div class="not-data">07/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	Em junho de 2012, foi lançado o <b>Observatório Brasileiro de Economia Criativa</b> pela Secretaria de Economia Criativa do Ministério da Cultura, como instância responsável pela produção e difusão de informações quantitativas e qualitativas sobre a área no Brasil. O OBEC passou a ser, dessa forma, um instrumento eficiente e eficaz para mitigar a ausência de pesquisas, dados e informações sobre a economia criativa, desempenhando um papel estratégico nas reflexões sobre o desenvolvimento no país.
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	Ao longo destes quatro anos, foram implantados seis observatórios estaduais, nas cinco regiões do país. Os observatórios estaduais de Amazonas (UFAM), Bahia (UFBA), Brasília (UnB), Goiás (UFG), Rio de Janeiro (UFF) e Rio Grande do Sul (UFRGS) respondem às demandas do MinC por subsídios necessários à formulação de um modelo de desenvolvimento baseado na criatividade, inovação, diversidade cultural e inclusão social.
+																</p>
+
+																<p> 
+																	Hoje sob o escopo da <a href="http://www.cultura.gov.br/secretaria-da-economia-criativa-sec">Secretaria de Educação e Formação Artística e Cultural (SEFAC)</a>, a Economia Criativa e os OBEC congregam uma rede para mapear as diversas dimensões da economia criativa brasileira. Entre suas atribuições estão a identificação dos agentes envolvidos na economia criativa, tanto nos fluxos macro quanto microeconômicos; o subsídio ao MinC na criação e disponibilização de bancos de dados sobre a área, para integrar o Sistema Nacional de Informações e Indicadores Culturais; a formulação de indicadores para mapeamento do mercado de bens e serviços criativos; a organização e difusão de pesquisas nacionais e internacionais, por meio de debates, seminários e intercâmbios; o incentivo à participação dos estados e municípios para a construção de uma rede vinculada à dinâmica nacional e internacional sobre a área; a facilitação de fluxos de informação e o estabelecimento de espaços de troca de conhecimento sobre a economia criativa.
+																</p>
+
+																<p> 
+																	<br/>
+																	<b> Conheça os OBEC </b>
+																</p>
+
+																<p>
+																	Em novembro de 2013, a Universidade Federal do Amazonas lançou o <a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1532-obec-am-tem-lancamento-oficial-na-ufam">OBEC AM</a>, primeiro observatório estadual de Economia Criativa do Brasil. Como objetivos principais estão a formulação, a implementação e o monitoramento de políticas públicas para o desenvolvimento local e regional, apoiando ações criativas de profissionais e de micro e pequenos empreendimentos com ênfase no estado do Amazonas.
+																</p>
+
+																<p>
+																	O <a href="http://www.obecdf.org/">OBEC DF</a>, concebido em 2013, vem atuando em dois vetores: desenvolvimento e monitoramento; e empreendedorismo, gestão e inovação. Por meio de atividades ligadas aos temas de territórios criativos, articulação de artistas e empreendedores, indicadores culturais, formação e potencialização de cooperativas e redes, o OBEC DF promove pesquisas e debates sobre a economia criativa, e busca colaborar com o empoderamento social local, por meio de formação orientada.
+																</p>
+
+																<p>
+																	Inaugurado em maio de 2014, o <a href="https://www.facebook.com/obecrj/">OBEC RJ</a> vem desenvolvendo pesquisas, divididas em três eixos: economia dos processos e práticas culturais; territorialidade, arranjos expressivos e práticas sociais; e direitos culturais e políticos. Carnaval de rua, festivais audiovisuais, o Porto Maravilha, turismo cultural, gastronomia, manifestações culturais tradicionais e sustentabilidade são alguns dos temas de interesse dos pesquisadores da Universidade Federal Fluminense.
+																</p>
+
+																<p>
+																	Criado em 2014, no escopo da Universidade Federal da Bahia, o <a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA</a> estrutura suas ações de mapeamento e pesquisa a partir de três vetores: estudo do desenvolvimento de estratégias para a gestão da criatividade, voltadas para a solução de problemas da sociedade; análise da sustentabilidade mercadológica das iniciativas criativas; e mapeamento da capacidade de articulação de pessoas e grupos visando à atuação em rede dos setores criativos no estado da Bahia.
+																</p>
+
+																<p>
+																	Ao longo dos últimos anos, o <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO</a> definiu metodologias, desenhou as cadeias produtivas locais, realizou levantamento de dados e lançou seus resultados com a <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">Coleção Dimensões</a>, na qual foram pesquisados 19 setores criativos regionais. No estado, o OBEC tem sede no Laboratório de Pesquisa, Desenvolvimento e Inovação em Mídias Alternativas (Media Lab) da Universidade Federal de Goiás.
+																</p>
+
+																<p>
+																	Na Universidade Federal do Rio Grande do Sul, em agosto de 2014, foi lançado o <a href="http://www.ufrgs.br/obec/?page=sobre">OBEC RS</a>, na busca de um espaço para o debate e a formação de massa crítica sobre a Economia Criativa no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Os <a href="http://www.ufrgs.br/obec/?page=projetos">projetos</a> realizados pelo OBEC RS estão divididos em iniciativas de extensão e de pesquisa. Comércio internacional, indústrias criativas, economia da cultura, fomento à cultura brasileira, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos.
+																</p>
+
+																<p>
+																	Fontes:
+																	<ul>
+																		<li><a href="http://www.brasil.gov.br/cultura/2012/06/obec-tera-r-12-4-milhoes-para-investimento-em-politicas-publicas-do-minc">Portal Brasil</a></li>
+																		<li><a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1506-ufam-faz-lancamento-de-observatorio-de-economia-criativa">OBEC AM - Universidade Federal do Amazonas</a></li>
+																		<li><a href="http://www.obecdf.org/index.php/observatorio/eixos-e-estrategias-de-trabalho">OBEC DF</a></li>
+																		<li><a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO - Media Lab/UFG</a></li>
+																		<li><a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/observatorio-da-economia-criativa-no-rj-desenvolve-oito-projetos-de-pesquisa/10883">OBEC RJ - Ministério da Cultura</a></li>
+																		<li><a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA - Rede de Economia da Cultura e Criativa</a></li>
+																	</ul>
+																	<br/>
+																</p>
+
+																<p class="text-center">
+																	<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image"/>
+																</p>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container right">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Unisinos promove curso sobre criatividade em parceria com as Nações Unidas</div>
+														<div class="not-data">06/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	A Universidade do Vale do Rio dos Sinos promove, juntamente ao Instituto das Nações Unidas para Formação e Pesquisa (UNITAR) e à Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD), o curso online <a href="http://www.unitar.org/ksi/crea4dev">Creativity for Development</a>.
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	O curso Crea4Dev é gratuito, está aberto ao público e pode ser concluído em qualquer dia até 23 de dezembro. As atividades terão como propósito conscientizar sobre o valor da criatividade e da cultura como pilares do desenvolvimento sustentável. 
+																</p>
+
+																<p> 
+																	O Crea4Dev é em inglês, com quatro horas de duração e composto pelos módulos de conteúdo:<i> Creativity & Creative Economy; Places, Networks and Connectivity; The Characteristics of the Creative Labour Market e Creative Business</i>.
+																</p>
+
+																<p> 
+																	A colaboração com a UNITAR e a UNCTAD foi iniciada pela professora Ana Maria Guimarães, quando decana da Escola da Indústria Criativa da Unisinos, e pela professora Cristiane Schnack, coordenadora do MBA em Mercados Criativos. 
+																</p>
+
+																<p>
+																	O Crea4Dev também incentivará a criação de uma comunidade online, na qual os participantes poderão trocar ideias e manter contato mesmo após a conclusão das atividades. 
+																</p>
+
+																<p>
+																	Mais informações no site do curso.
+																</p>
+
+																<p>
+																	Com informações de <a href="http://www.unisinos.br/noticias/universidade/curso-sobre-criatividade-em-parceria-com-nacoes-unidas">Unisinos</a>.
+																</p>
+
+																<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image" usemap="#Map"/>
+																<map name="Map" id="Map">
+																    <area alt="" title="" href="#" shape="poly" coords="24,18,23,62,153,64,152,17" />
+																    <area alt="" title="" href="#" shape="poly" coords="242,17,242,59,375,62,376,16" />
+																    <area alt="" title="" href="#" shape="poly" coords="17,201,20,247,165,240,169,204" />
+																    <area alt="" title="" href="#" shape="poly" coords="16,257,17,300,142,297,146,258" />
+																    <area alt="" title="" href="#" shape="poly" coords="279,288,285,323,396,325,394,288" />
+																    <area alt="" title="" href="#" shape="poly" coords="235,347,240,385,320,383,321,345" />
+																</map>
+
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container left">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">UNESCO e CISAC lançam mapeamento global das indústrias culturais e criativas</div>
+														<div class="not-data">04/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	Em dezembro de 2015, a Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e a Confederação Internacional de Sociedades de Autores e Compositores (CISAC) lançaram o estudo intitulado <a href="http://www.worldcreative.org/wp-content/uploads/2015/12/EYCulturalTimes2015_Download.pdf">“Cultural Times – O Primeiro Mapeamento Global das Indústrias Culturais e Criativas”</a>. 
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	Por meio de survey, foi possível quantificar a contribuição econômica e social global desse importante setor. O estudo analisa onze setores de Indústrias Culturais e Criativas (CCI): publicidade, arquitetura, livros, games, filmes, música, jornais e revistas, artes cênicas, rádio, televisão e artes visuais.
+																</p>
+
+																<p> 
+																	Alguns dos achados do estudo revelam que as CCI têm uma receita de US$ 2,250 bilhões por ano, contabilizando 3% do PIB global. Esse mercado garante ainda um total de 29,5 milhões de empregos, 1% da população economicamente ativa, sendo as artes visuais, música e livros os três principais empregadores.
+																</p>
+
+																<p> 
+																	Como primeiro mapa de abrangência global, o objetivo da publicação, realizada pela EY, é o de destacar e valorizar o estudo da economia nessa área, considerando a comunidade criativa como um motor de inovação para um desenvolvimento mais sustentável.
+																</p>
+
+																<p>
+																	É possível realizar o download do estudo no <a href="http://www.worldcreative.org/">site</a>, onde estão disponíveis mais informações sobre a iniciativa.
+																</p>
+
+																<img src="images/noticias/UNESCOMapa.png" class="noticia-image"/>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
 
 											</div>
 
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
+											<div class="new-page" id="2">
+
+												<!-- Notícia -->
+												<div class="noticia-container right">
 													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Conheça os OBEC</div>
-													<div class="not-data">07/10/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
+													<!-- cabeçalho -->
+													<div class="noticia-header">
 														
-														<div class="not-text-visivel">
-															<p> 
-																Em junho de 2012, foi lançado o <b>Observatório Brasileiro de Economia Criativa</b> pela Secretaria de Economia Criativa do Ministério da Cultura, como instância responsável pela produção e difusão de informações quantitativas e qualitativas sobre a área no Brasil. O OBEC passou a ser, dessa forma, um instrumento eficiente e eficaz para mitigar a ausência de pesquisas, dados e informações sobre a economia criativa, desempenhando um papel estratégico nas reflexões sobre o desenvolvimento no país.
-															</p>
-														</div>
+														<div class="not-tipo">EVENTO</div>
+														<div class="not-titulo">Empreendedores brasileiros participam do Micsul 2016</div>
+														<div class="not-data">03/10/2016</div>
 
-														<div class="not-text-mais">
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
 															
-															<p> 
-																Ao longo destes quatro anos, foram implantados seis observatórios estaduais, nas cinco regiões do país. Os observatórios estaduais de Amazonas (UFAM), Bahia (UFBA), Brasília (UnB), Goiás (UFG), Rio de Janeiro (UFF) e Rio Grande do Sul (UFRGS) respondem às demandas do MinC por subsídios necessários à formulação de um modelo de desenvolvimento baseado na criatividade, inovação, diversidade cultural e inclusão social.
-															</p>
+															<div class="not-text-visivel">
+																<p> 
+																	O <a href="http://www.cultura.gov.br/micsul2016">Mercado de Indústrias Culturais do Sul (Micsul)</a>, evento que será realizado entre os dias 17 e 20 de outubro, em Bogotá, na Colômbia, é o mais importante encontro voltado a mercados culturais e criativos da América do Sul. 
+																</p>
+															</div>
 
-															<p> 
-																Hoje sob o escopo da <a href="http://www.cultura.gov.br/secretaria-da-economia-criativa-sec">Secretaria de Educação e Formação Artística e Cultural (SEFAC)</a>, a Economia Criativa e os OBEC congregam uma rede para mapear as diversas dimensões da economia criativa brasileira. Entre suas atribuições estão a identificação dos agentes envolvidos na economia criativa, tanto nos fluxos macro quanto microeconômicos; o subsídio ao MinC na criação e disponibilização de bancos de dados sobre a área, para integrar o Sistema Nacional de Informações e Indicadores Culturais; a formulação de indicadores para mapeamento do mercado de bens e serviços criativos; a organização e difusão de pesquisas nacionais e internacionais, por meio de debates, seminários e intercâmbios; o incentivo à participação dos estados e municípios para a construção de uma rede vinculada à dinâmica nacional e internacional sobre a área; a facilitação de fluxos de informação e o estabelecimento de espaços de troca de conhecimento sobre a economia criativa.
-															</p>
+															<div class="not-text-mais">
+																
+																<p> 
+																	Criado com o intuito de promover intercâmbio de conhecimento, produtos e serviços culturais e criativos, o Micsul é uma iniciativa dos Ministérios da Cultura de Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Peru, Paraguai, Uruguai e Venezuela. A primeira edição foi realizada em maio de 2014, em Mar del Plata, na Argentina. Em 2018, o Brasil sediará o evento em seu terceiro encontro.
+																</p>
 
-															<p> 
-																<br/>
-																<b> Conheça os OBEC </b>
-															</p>
+																<p> 
+																	Neste ano, o Micsul contará com a participação de 61 empreendedores brasileiros, que terão oportunidade de promover seus negócios e contribuir para o fortalecimento da cultura brasileira no exterior. 
+																</p>
 
-															<p>
-																Em novembro de 2013, a Universidade Federal do Amazonas lançou o <a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1532-obec-am-tem-lancamento-oficial-na-ufam">OBEC AM</a>, primeiro observatório estadual de Economia Criativa do Brasil. Como objetivos principais estão a formulação, a implementação e o monitoramento de políticas públicas para o desenvolvimento local e regional, apoiando ações criativas de profissionais e de micro e pequenos empreendimentos com ênfase no estado do Amazonas.
-															</p>
+																<p> 
+																	"O Micsul é a principal plataforma de promoção da dimensão econômica da cultura na América do Sul. Sua consolidação como evento de referência regional e internacional, já nesta segunda edição, nos inspira a intensificar esforços para ampliar mecanismos e recursos necessários ao incremento da inserção de bens e serviços culturais brasileiros no mercado global", destaca o ministro da Cultura do Brasil, Marcelo Calero.
+																</p>
 
-															<p>
-																O <a href="http://www.obecdf.org/">OBEC DF</a>, concebido em 2013, vem atuando em dois vetores: desenvolvimento e monitoramento; e empreendedorismo, gestão e inovação. Por meio de atividades ligadas aos temas de territórios criativos, articulação de artistas e empreendedores, indicadores culturais, formação e potencialização de cooperativas e redes, o OBEC DF promove pesquisas e debates sobre a economia criativa, e busca colaborar com o empoderamento social local, por meio de formação orientada.
-															</p>
+																<p>
+																	Nesta edição, o Brasil terá uma participação expressiva contando com empreendedores dos setores de artes cênicas, audiovisual, editorial, animação e games, música e design, e moda. Os 61 empreendedores foram selecionados por meio de edital lançado em parceria pelo Ministério da Cultura (MinC) e a Agência Brasileira de Promoção de Exportações e Investimentos (Apex-Brasil).
+																</p>
 
-															<p>
-																Inaugurado em maio de 2014, o <a href="https://www.facebook.com/obecrj/">OBEC RJ</a> vem desenvolvendo pesquisas, divididas em três eixos: economia dos processos e práticas culturais; territorialidade, arranjos expressivos e práticas sociais; e direitos culturais e políticos. Carnaval de rua, festivais audiovisuais, o Porto Maravilha, turismo cultural, gastronomia, manifestações culturais tradicionais e sustentabilidade são alguns dos temas de interesse dos pesquisadores da Universidade Federal Fluminense.
-															</p>
+																<p>
+																	Para o presidente da Apex-Brasil, Roberto Jaguaribe, a participação no Micsul integra a estratégia de consolidar a imagem do Brasil no exterior como um país que oferece ao mundo produtos e serviços criativos e diversificados. "A presença brasileira no evento contribui para induzir investimentos no aprimoramento da produção para novos mercados, ampliar a circulação de artistas e outros profissionais da cultura no exterior e gerar emprego e renda", avalia.
+																</p>
 
-															<p>
-																Criado em 2014, no escopo da Universidade Federal da Bahia, o <a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA</a> estrutura suas ações de mapeamento e pesquisa a partir de três vetores: estudo do desenvolvimento de estratégias para a gestão da criatividade, voltadas para a solução de problemas da sociedade; análise da sustentabilidade mercadológica das iniciativas criativas; e mapeamento da capacidade de articulação de pessoas e grupos visando à atuação em rede dos setores criativos no estado da Bahia.
-															</p>
+																<p>
+																	Além dos 61 empreendedores, como Anna Helena da Costa Politschuk, de São Paulo, e Romero Sousa, de João Pessoa, o Brasil também levará ao Micsul apresentações culturais de música, dança e circo. Os shows serão realizados dentro das programações oficial e paralela do evento. Irão se apresentar o cantor e compositor pernambucano Siba, o duo Nina Wirtti e Luís Barcelos, a São Paulo Companhia de Dança, o espetáculo #Passinho e o Circo Girassol, de Porto Alegre (RS).
+																</p>
 
-															<p>
-																Ao longo dos últimos anos, o <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO</a> definiu metodologias, desenhou as cadeias produtivas locais, realizou levantamento de dados e lançou seus resultados com a <a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">Coleção Dimensões</a>, na qual foram pesquisados 19 setores criativos regionais. No estado, o OBEC tem sede no Laboratório de Pesquisa, Desenvolvimento e Inovação em Mídias Alternativas (Media Lab) da Universidade Federal de Goiás.
-															</p>
+																<p>
+																	Com informações de Alessandra de Paula, assessora de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/brasil-marca-presenca-no-micsul-com-61-empreendedores/10883">Comunicação do Ministério da Cultura</a>.
+																</p>
 
-															<p>
-																Na Universidade Federal do Rio Grande do Sul, em agosto de 2014, foi lançado o <a href="http://www.ufrgs.br/obec/?page=sobre">OBEC RS</a>, na busca de um espaço para o debate e a formação de massa crítica sobre a Economia Criativa no Brasil, levando em conta seu impacto na dinâmica social e econômica do país. Os <a href="http://www.ufrgs.br/obec/?page=projetos">projetos</a> realizados pelo OBEC RS estão divididos em iniciativas de extensão e de pesquisa. Comércio internacional, indústrias criativas, economia da cultura, fomento à cultura brasileira, fluxos internacionais e globalização de bens criativos, mercados tradicionais de cultura, gestão pública e privada na área e a Economia Criativa são foco desses estudos desenvolvidos.
-															</p>
+																<img src="images/noticias/micsul.png" class="noticia-image"/>
 
-															<p>
-																Fontes:
-																<ul>
-																	<li><a href="http://www.brasil.gov.br/cultura/2012/06/obec-tera-r-12-4-milhoes-para-investimento-em-politicas-publicas-do-minc">Portal Brasil</a></li>
-																	<li><a href="http://www.ufam.edu.br/2013-04-29-19-37-05/arquivo-de-noticias/1506-ufam-faz-lancamento-de-observatorio-de-economia-criativa">OBEC AM - Universidade Federal do Amazonas</a></li>
-																	<li><a href="http://www.obecdf.org/index.php/observatorio/eixos-e-estrategias-de-trabalho">OBEC DF</a></li>
-																	<li><a href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">OBEC GO - Media Lab/UFG</a></li>
-																	<li><a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/observatorio-da-economia-criativa-no-rj-desenvolve-oito-projetos-de-pesquisa/10883">OBEC RJ - Ministério da Cultura</a></li>
-																	<li><a href="http://recria.ihac.ufba.br/sobre/economia-criativa/">OBEC BA - Rede de Economia da Cultura e Criativa</a></li>
-																</ul>
-																<br/>
-															</p>
-
-															<p class="text-center">
-																<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image"/>
-															</p>
+															</div>
 
 														</div>
 
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
 													</div>
 
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
+													<div class="separador"></div>
+
+												</div>
 												
+												<!-- Notícia -->
+												<div class="noticia-container left">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">EVENTO</div>
+														<div class="not-titulo">Conferência no King’s College London ocorre em outubro, com Leandro Valiati</div>
+														<div class="not-data">29/09/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	No dia 25 de outubro ocorre a conferência <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">Creative Economy, Culture and Development in Brazil: an overview of the academic and public policy agenda</a>, com Leandro Valiati, coordenador do OBEC e do Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS). O evento faz parte da série de seminários do <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/Seminar-Series-201617.aspx">Brazil Institute Research</a>, da King’s College London e terá lugar no K3.11 King’s Building Strand Campus, a partir das 17h30. 
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	A conferência do professor Valiati dará uma ampla visão sobre as pesquisas acadêmicas e aplicadas produzidas mais recentemente no OBEC e no GT, enfatizando pontos teóricos centrais sob um ponto de vista do desenvolvimento. Na ocasião, também serão apresentadas as parcerias firmadas junto ao Ministério da Cultura, à Erasmus Universidade de Rotterdam, à Universidade de Valencia e à Universidade Sorbonne. Os principais bancos de dados, indicadores e análises produzidas; a descrição das principais tecnologias transferidas para os governos locais e federal; e os desafios das políticas públicas relativas ao estado da arte na Economia Criativa e da Cultura também serão tema do encontro.
+																</p>
+
+																<p> 
+																	O evento é gratuito e não demanda inscrição. 
+																</p>
+
+																<p> 
+																	Mais informações em <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">King’s College</a> e pelo e-mail brazil-institute@kcl.ac.uk.
+																</p>
+
+																<img src="images/noticias/ConferenciaLondres.png" class="noticia-image"/>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
 												</div>
 
-												<div class="separador"></div>
+												<!-- Notícia -->
+												<div class="noticia-container right">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Conheça o aplicativo Culturi</div>
+														<div class="not-data">28/09/2016</div>
 
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	O Ministério da Cultura (MinC), em parceria com a Universidade Federal da Paraíba (UFPB), por meio do Laboratório de Aplicações de Vídeo Digital (Lavid), lançou o <a href="http://www.culturi.com.br">Culturi</a>, uma rede social que busca divulgar a cultura nacional para brasileiros e estrangeiros. 
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	O aplicativo é gratuito é já está disponível para plataformas Android e IOS. Além de mapear os principais eventos culturais e turísticos, os internautas também poderão mostrar o seu olhar e colaborar com a cobertura, ao enviar fotos, vídeos, ou registrar a experiência cultural da rua, bairro e cidade. 
+																</p>
+
+																<p> 
+																	O secretário do audiovisual do Ministério da Cultura, Alfredo Bertini, elogiou a iniciativa, que aproxima ainda mais a Cultura das pessoas. "É importante o MinC estar atento às demandas da sociedade. Nós disponibilizamos esse aplicativo, que contribui para isso", disse. Thaís Gaudencio do Rêgo, coordenadora de desenvolvimento do Culturi e professora da UFPB, explica que registro e consulta são feitos por qualquer usuário e foi idealizado para acompanhamento de atividades culturais, shows e exposições de arte. “O circuito de audiovisual Brasil 2016, por exemplo, tem toda a sua programação registrada no aplicativo, inclusive sobre sessões com audiodescrição e legenda, apropriadas para pessoas com deficiência visual e auditiva", explicou. 
+																</p>
+
+																<p> 
+																	Por meio da ferramenta, o próprio usuário, além de ter informações disponíveis, poderá acrescentar outros dados culturais. O interessado também poderá curtir, avaliar, compartilhar e convidar outros usuários para os eventos cadastrados. 
+																</p>
+
+																<p> 
+																	Para motivar e estimular os usuários a colaborarem e avaliarem todo o seu conteúdo, a rede social usa um ranking de pessoas e cidades que mais interagem, divulgam e contribuem com a cultura no Brasil, que estará disponível no aplicativo. Além disso, artistas, produtores, organizadores de eventos culturais e empresas podem divulgar gratuitamente qualquer tipo de atividade e manifestação ligadas à cultura. O Culturi utiliza, ainda, bases de dados do Ministério da Cultura, como o Mapas Culturais, que faz parte do Sistema Nacional de Informações e Indicadores Culturais (Sniic).
+																</p>
+
+																<p> 
+																	Acesse o <a href="https://youtu.be/wNpkkGpx90M">vídeo</a> para mais informações sobre o <a href="http://www.culturi.com.br">Culturi</a>.
+																</p>
+
+																<p> 
+																	Com informações de <a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/programacoes-culturais-na-palma-da-mao/10883">MinC</a>.
+																</p>
+
+																<img src="images/noticias/culturi.png" class="noticia-image"/>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container left">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Financiamento à cultura no Brasil</div>
+														<div class="not-data">27/09/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	Denúncias de corrupção envolvendo a Lei Rouanet somaram-se a efervescência política do país e reavivaram o debate sobre o financiamento à cultura no Brasil. No mês de maio, a operação boca-livre da Polícia Federal revelou uma fraude de R$ 180 milhões desviados da Lei Rouanet. Mas como se dá o apoio público à cultura no Brasil?
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	Desde a década de 1990, a partir das reformas de enxugamento do Estado, a Lei de Incentivo à Cultura (LIC), mais conhecida como Lei Rouanet, tem sido predominante no fomento cultural público do país. Com a LIC, o Estado abdica da arrecadação de uma parcela do imposto de renda para que os contribuintes privados se engajem em mecenato, no financiamento direto aos agentes executores de atividades e bens culturais. Nessa modalidade, a captação de recursos para o fomento à cultura fica sob deliberação do mercado. O funcionamento dessa renúncia fiscal inicia-se com a seleção, por parte do Ministério da Cultura, da Comissão Nacional de Incentivo à Cultura, composta por representantes da sociedade civil. A ela cabe a seleção de projetos em que identifiquem valor cultural, para que esses possam ir a público captar recursos passíveis de dedução no imposto de renda. Quando o valor é aprovado para o proponente e a sua carta de concessão, emitida, a busca de incentivadores privados (especialmente no meio empresarial) pode ser iniciada. O valor investido pode ser abatido em até 4% do imposto de renda de pessoas jurídicas e em 6% da tributação de pessoas físicas.
+																</p>
+
+																<p>
+
+																	Com esse mecanismo, a sociedade civil ganha protagonismo no processo, poupando custos administrativos e criando novos canais para a facilitação e ampliação do investimento privado. Contudo, esse mesmo benefício reside em uma lógica de sociedade como mercado, abstendo-se da função da política pública como espaço de arbítrio social. Dessa forma, em última análise, termina cabendo ao empresariado a decisão final sobre as atividades culturais subsidiadas pelo Estado. 
+																</p>
+
+																<p>
+
+																	Mesmo embebida da lógica do mercado, a Lei Rouanet tem se mostrado ineficaz na dinamização e pluralização da Economia da Cultura, com pouco mais de 50% dos projetos aprovados captando apenas 20% do valor total concedido. Ademais, a concentração regional também deve ser enfatizada: no acumulado dos mais de vinte anos de Lei, 80% dos recursos foram captados por projetos na região Sudeste, em especial, do eixo Rio-São Paulo, de forma desproporcional, mesmo considerando os padrões demográficos. O poder de veto do empresariado sobre os projetos culturais efetivamente pode estar no seio dessas distorções. Nem mesmo o fortalecimento e pluralização das atividades do MinC nas últimas décadas reduziu o protagonismo da Lei Rouanet no sistema nacional de fomento. Em 2015, o MinC investiu R$ 320 milhões em projetos, enquanto abdicou de R$ 1,8 bilhão por meio da Lei Rouanet.
+																</p>
+
+																<p>
+
+																	A corrupção que surge dentro desse instrumento se revela no poder adquirido pelos grandes incentivadores privados na efetivação do fomento público cultural. Em 2015, as 10 empresas que mais financiaram pela Rouanet empregaram 20% do total subsidiado pelas mais de 3 mil incentivadoras, refletindo uma assimetria de que derivam perniciosas barganhas. Dessa forma, pode-se afirmar que as contradições do sistema de fomento surgem do distanciamento das políticas da diversidade e da pluralidade, que são inerentes à cultura, subvertendo-as ao cálculo publicitário de um reduzido de mecenas. Ainda assim, o subsídio à cultura não está nem próximo de isenções fiscais como para as igrejas, para o setor automotivo ou para as Olimpíadas. Desse modo, a atenção recebida pelo tema abre uma importante janela de oportunidade para a reflexão sobre formas de aprimorar os recursos públicos investidos na área no Brasil. 
+																</p>
+
+																<p>
+																	Com base na matéria “Financiamento em Debate”, de autoria de Leandro Valiati e Lucas de Oliveira Paes, publicada no Jornal da UFRGS, em agosto de 2016.
+
+																</p>
+
+																<img src="images/noticias/FinancCulturaBanner.png" class="noticia-image"/>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container right">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Coordenador Leandro Valiati participa de evento na Universidade Paris 13</div>
+														<div class="not-data">23/09/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p> 
+																	Entre os dia 21 e 23 de setembro, ocorreu a quarta edição do evento Universidade de Verão do Laboratório de Excelência sobre Indústrias Culturais e Criação Artística da Universidade Paris 13. 
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																
+																<p> 
+																	Na ocasião, o professor Leandro Valiati, apresentou os projetos de pesquisa em andamento no Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS) e no Observatório de Economia Criativa (OBEC/UFRGS), ambos sob sua coordenação. Durante o evento, foi possível um amplo intercâmbio científico com pesquisadores internacionais da área, sobre temas como comércio internacional, indústrias criativas, fomento à cultura e Economia da Cultura.
+																</p>
+
+																<p>
+																	O Labex ICCA é um laboratório de pesquisa interdisciplinar focado na prática e no mercado da cultura e da arte. Fundado em 2011, os principais objetivos do ICCA são a pesquisa sobre novos modelos de negócio e de regulação, bem como o estudo de novos usos e mercados emergentes e a transformação de estruturas legais, tanto em atividades tradicionais quanto no mundo digital.
+																</p>
+
+																<p>
+																	Para mais informações sobre o evento, acesse <a href="https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/">https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/</a>.
+																</p>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
 											</div>
 
-											<!-- Notícia -->
-											<div class="noticia-container right">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
+											<div class="new-page" id="3">
+
+												<!-- Notícia -->
+												<div class="noticia-container left">
 													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Unisinos promove curso sobre criatividade em parceria com as Nações Unidas</div>
-													<div class="not-data">06/10/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
+													<!-- cabeçalho -->
+													<div class="noticia-header">
 														
-														<div class="not-text-visivel">
-															<p> 
-																A Universidade do Vale do Rio dos Sinos promove, juntamente ao Instituto das Nações Unidas para Formação e Pesquisa (UNITAR) e à Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD), o curso online <a href="http://www.unitar.org/ksi/crea4dev">Creativity for Development</a>.
-															</p>
-														</div>
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">IV Conferência do Diálogos em Economia Criativa foca no setor audiovisual</div>
+														<div class="not-data">21/09/2016</div>
 
-														<div class="not-text-mais">
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
 															
-															<p> 
-																O curso Crea4Dev é gratuito, está aberto ao público e pode ser concluído em qualquer dia até 23 de dezembro. As atividades terão como propósito conscientizar sobre o valor da criatividade e da cultura como pilares do desenvolvimento sustentável. 
-															</p>
+															<div class="not-text-visivel">
+																<p> 
+																	O Observatório de Economia Criativa (OBEC) vem promovendo o ciclo de debates Diálogos em Economia Criativa, durante o ano de 2016. Até o mês de dezembro, o projeto de extensão promoverá um espaço qualificado de discussões com pesquisadores e realizadores nacionais e internacionais da área.
+																</p>
+															</div>
 
-															<p> 
-																O Crea4Dev é em inglês, com quatro horas de duração e composto pelos módulos de conteúdo:<i> Creativity & Creative Economy; Places, Networks and Connectivity; The Characteristics of the Creative Labour Market e Creative Business</i>.
-															</p>
+															<div class="not-text-mais">
+																
+																<p> 
+																	No dia 13 de setembro, foi realizada a IV Conferência, sob o tema Economia da Música e do Audiovisual: uma visão do mercado a partir dos realizadores. Na ocasião, os professores Alfredo Bertini e Carlos Gerbase debateram sobre o panorama do setor musical e audiovisual no Brasil, bem como os principais entraves e vantagens para a produção cultural contemporânea, mediados pelo professor Leandro Valiati.
+																</p>
 
-															<p> 
-																A colaboração com a UNITAR e a UNCTAD foi iniciada pela professora Ana Maria Guimarães, quando decana da Escola da Indústria Criativa da Unisinos, e pela professora Cristiane Schnack, coordenadora do MBA em Mercados Criativos. 
-															</p>
+																<p>
 
-															<p>
-																O Crea4Dev também incentivará a criação de uma comunidade online, na qual os participantes poderão trocar ideias e manter contato mesmo após a conclusão das atividades. 
-															</p>
+																	Questionados pelo professor Valiati foi sobre a conjuntura econômica do setor no Brasil e no mundo, os realizadores expuseram sobre a grande quantidade de consumo econômico gerado pelo campo das indústrias criativas de audiovisual, em um mercado já estabelecido no Brasil. No entanto, também foram tema as transformações pelas quais a área atravessa, com mudanças tecnológicas e convergência digital. 
+																</p>
 
-															<p>
-																Mais informações no site do curso.
-															</p>
+																<p>
 
-															<p>
-																Com informações de <a href="http://www.unisinos.br/noticias/universidade/curso-sobre-criatividade-em-parceria-com-nacoes-unidas">Unisinos</a>.
-															</p>
+																	Alfredo Bertili, secretário do Audiovisual do Ministério da Cultura, ex-diretor do Cine PE - Festival do Audiovisual e economista, enfatizou o papel do streaming afetando brutalmente no setor audiovisual. 
+																</p>
 
-															<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image" usemap="#Map"/>
-															<map name="Map" id="Map">
-															    <area alt="" title="" href="#" shape="poly" coords="24,18,23,62,153,64,152,17" />
-															    <area alt="" title="" href="#" shape="poly" coords="242,17,242,59,375,62,376,16" />
-															    <area alt="" title="" href="#" shape="poly" coords="17,201,20,247,165,240,169,204" />
-															    <area alt="" title="" href="#" shape="poly" coords="16,257,17,300,142,297,146,258" />
-															    <area alt="" title="" href="#" shape="poly" coords="279,288,285,323,396,325,394,288" />
-															    <area alt="" title="" href="#" shape="poly" coords="235,347,240,385,320,383,321,345" />
-															</map>
+																<p>
 
+																	Carlos Gerbase, professor titular da PUCRS e diretor de cinema na Prana Filmes produtora de audiovisual, deu destaque para a necessidade de subsídios para o audiovisual ao relembrar que boa parte do cinema no Brasil não é industrial, concebida de maneira artesanal, como atividade artística por cineastas no país.
+																</p>
+
+																<p>
+
+																	Assim, os gargalos apontados pelos professores estão ligados à necessidade de regulação do mercado cultural para enfrentar pressão econômica. O término da Lei do Audiovisual e a Lei Rouanet foram enfatizadas como incentivos importantes para a área da cultura, uma das grandes atividades econômicas no Brasil.
+																</p>
+
+																<p>
+																	A transmissão da conferência do Diálogos em Economia Criativa está disponível no <a href="http://youtu.be/7rFuQiRZti4">Youtube</a>.
+
+																</p>
+																
+																<p>
+																	No mês de outubro, a V Conferência ocorre no dia 04. Mais informações e inscrições em <a href="http://www.ufrgs.br/obec/dialogos">ufrgs.br/obec/diálogos</a>.
+																</p>
+
+															</div>
 
 														</div>
 
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
 													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">UNESCO e CISAC lançam mapeamento global das indústrias culturais e criativas</div>
-													<div class="not-data">04/10/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Em dezembro de 2015, a Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e a Confederação Internacional de Sociedades de Autores e Compositores (CISAC) lançaram o estudo intitulado <a href="http://www.worldcreative.org/wp-content/uploads/2015/12/EYCulturalTimes2015_Download.pdf">“Cultural Times – O Primeiro Mapeamento Global das Indústrias Culturais e Criativas”</a>. 
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Por meio de survey, foi possível quantificar a contribuição econômica e social global desse importante setor. O estudo analisa onze setores de Indústrias Culturais e Criativas (CCI): publicidade, arquitetura, livros, games, filmes, música, jornais e revistas, artes cênicas, rádio, televisão e artes visuais.
-															</p>
-
-															<p> 
-																Alguns dos achados do estudo revelam que as CCI têm uma receita de US$ 2,250 bilhões por ano, contabilizando 3% do PIB global. Esse mercado garante ainda um total de 29,5 milhões de empregos, 1% da população economicamente ativa, sendo as artes visuais, música e livros os três principais empregadores.
-															</p>
-
-															<p> 
-																Como primeiro mapa de abrangência global, o objetivo da publicação, realizada pela EY, é o de destacar e valorizar o estudo da economia nessa área, considerando a comunidade criativa como um motor de inovação para um desenvolvimento mais sustentável.
-															</p>
-
-															<p>
-																É possível realizar o download do estudo no <a href="http://www.worldcreative.org/">site</a>, onde estão disponíveis mais informações sobre a iniciativa.
-															</p>
-
-															<img src="images/noticias/UNESCOMapa.png" class="noticia-image"/>
-
-														</div>
-
 													</div>
 
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container right">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">EVENTO</div>
-													<div class="not-titulo">Empreendedores brasileiros participam do Micsul 2016</div>
-													<div class="not-data">03/10/2016</div>
+													<div class="separador"></div>
 
 												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																O <a href="http://www.cultura.gov.br/micsul2016">Mercado de Indústrias Culturais do Sul (Micsul)</a>, evento que será realizado entre os dias 17 e 20 de outubro, em Bogotá, na Colômbia, é o mais importante encontro voltado a mercados culturais e criativos da América do Sul. 
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Criado com o intuito de promover intercâmbio de conhecimento, produtos e serviços culturais e criativos, o Micsul é uma iniciativa dos Ministérios da Cultura de Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Peru, Paraguai, Uruguai e Venezuela. A primeira edição foi realizada em maio de 2014, em Mar del Plata, na Argentina. Em 2018, o Brasil sediará o evento em seu terceiro encontro.
-															</p>
-
-															<p> 
-																Neste ano, o Micsul contará com a participação de 61 empreendedores brasileiros, que terão oportunidade de promover seus negócios e contribuir para o fortalecimento da cultura brasileira no exterior. 
-															</p>
-
-															<p> 
-																"O Micsul é a principal plataforma de promoção da dimensão econômica da cultura na América do Sul. Sua consolidação como evento de referência regional e internacional, já nesta segunda edição, nos inspira a intensificar esforços para ampliar mecanismos e recursos necessários ao incremento da inserção de bens e serviços culturais brasileiros no mercado global", destaca o ministro da Cultura do Brasil, Marcelo Calero.
-															</p>
-
-															<p>
-																Nesta edição, o Brasil terá uma participação expressiva contando com empreendedores dos setores de artes cênicas, audiovisual, editorial, animação e games, música e design, e moda. Os 61 empreendedores foram selecionados por meio de edital lançado em parceria pelo Ministério da Cultura (MinC) e a Agência Brasileira de Promoção de Exportações e Investimentos (Apex-Brasil).
-															</p>
-
-															<p>
-																Para o presidente da Apex-Brasil, Roberto Jaguaribe, a participação no Micsul integra a estratégia de consolidar a imagem do Brasil no exterior como um país que oferece ao mundo produtos e serviços criativos e diversificados. "A presença brasileira no evento contribui para induzir investimentos no aprimoramento da produção para novos mercados, ampliar a circulação de artistas e outros profissionais da cultura no exterior e gerar emprego e renda", avalia.
-															</p>
-
-															<p>
-																Além dos 61 empreendedores, como Anna Helena da Costa Politschuk, de São Paulo, e Romero Sousa, de João Pessoa, o Brasil também levará ao Micsul apresentações culturais de música, dança e circo. Os shows serão realizados dentro das programações oficial e paralela do evento. Irão se apresentar o cantor e compositor pernambucano Siba, o duo Nina Wirtti e Luís Barcelos, a São Paulo Companhia de Dança, o espetáculo #Passinho e o Circo Girassol, de Porto Alegre (RS).
-															</p>
-
-															<p>
-																Com informações de Alessandra de Paula, assessora de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/brasil-marca-presenca-no-micsul-com-61-empreendedores/10883">Comunicação do Ministério da Cultura</a>.
-															</p>
-
-															<img src="images/noticias/micsul.png" class="noticia-image"/>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">EVENTO</div>
-													<div class="not-titulo">Conferência no King’s College London ocorre em outubro, com Leandro Valiati</div>
-													<div class="not-data">29/09/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																No dia 25 de outubro ocorre a conferência <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">Creative Economy, Culture and Development in Brazil: an overview of the academic and public policy agenda</a>, com Leandro Valiati, coordenador do OBEC e do Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS). O evento faz parte da série de seminários do <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/Seminar-Series-201617.aspx">Brazil Institute Research</a>, da King’s College London e terá lugar no K3.11 King’s Building Strand Campus, a partir das 17h30. 
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																A conferência do professor Valiati dará uma ampla visão sobre as pesquisas acadêmicas e aplicadas produzidas mais recentemente no OBEC e no GT, enfatizando pontos teóricos centrais sob um ponto de vista do desenvolvimento. Na ocasião, também serão apresentadas as parcerias firmadas junto ao Ministério da Cultura, à Erasmus Universidade de Rotterdam, à Universidade de Valencia e à Universidade Sorbonne. Os principais bancos de dados, indicadores e análises produzidas; a descrição das principais tecnologias transferidas para os governos locais e federal; e os desafios das políticas públicas relativas ao estado da arte na Economia Criativa e da Cultura também serão tema do encontro.
-															</p>
-
-															<p> 
-																O evento é gratuito e não demanda inscrição. 
-															</p>
-
-															<p> 
-																Mais informações em <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">King’s College</a> e pelo e-mail brazil-institute@kcl.ac.uk.
-															</p>
-
-															<img src="images/noticias/ConferenciaLondres.png" class="noticia-image"/>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container right">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Conheça o aplicativo Culturi</div>
-													<div class="not-data">28/09/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																O Ministério da Cultura (MinC), em parceria com a Universidade Federal da Paraíba (UFPB), por meio do Laboratório de Aplicações de Vídeo Digital (Lavid), lançou o <a href="http://www.culturi.com.br">Culturi</a>, uma rede social que busca divulgar a cultura nacional para brasileiros e estrangeiros. 
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																O aplicativo é gratuito é já está disponível para plataformas Android e IOS. Além de mapear os principais eventos culturais e turísticos, os internautas também poderão mostrar o seu olhar e colaborar com a cobertura, ao enviar fotos, vídeos, ou registrar a experiência cultural da rua, bairro e cidade. 
-															</p>
-
-															<p> 
-																O secretário do audiovisual do Ministério da Cultura, Alfredo Bertini, elogiou a iniciativa, que aproxima ainda mais a Cultura das pessoas. "É importante o MinC estar atento às demandas da sociedade. Nós disponibilizamos esse aplicativo, que contribui para isso", disse. Thaís Gaudencio do Rêgo, coordenadora de desenvolvimento do Culturi e professora da UFPB, explica que registro e consulta são feitos por qualquer usuário e foi idealizado para acompanhamento de atividades culturais, shows e exposições de arte. “O circuito de audiovisual Brasil 2016, por exemplo, tem toda a sua programação registrada no aplicativo, inclusive sobre sessões com audiodescrição e legenda, apropriadas para pessoas com deficiência visual e auditiva", explicou. 
-															</p>
-
-															<p> 
-																Por meio da ferramenta, o próprio usuário, além de ter informações disponíveis, poderá acrescentar outros dados culturais. O interessado também poderá curtir, avaliar, compartilhar e convidar outros usuários para os eventos cadastrados. 
-															</p>
-
-															<p> 
-																Para motivar e estimular os usuários a colaborarem e avaliarem todo o seu conteúdo, a rede social usa um ranking de pessoas e cidades que mais interagem, divulgam e contribuem com a cultura no Brasil, que estará disponível no aplicativo. Além disso, artistas, produtores, organizadores de eventos culturais e empresas podem divulgar gratuitamente qualquer tipo de atividade e manifestação ligadas à cultura. O Culturi utiliza, ainda, bases de dados do Ministério da Cultura, como o Mapas Culturais, que faz parte do Sistema Nacional de Informações e Indicadores Culturais (Sniic).
-															</p>
-
-															<p> 
-																Acesse o <a href="https://youtu.be/wNpkkGpx90M">vídeo</a> para mais informações sobre o <a href="http://www.culturi.com.br">Culturi</a>.
-															</p>
-
-															<p> 
-																Com informações de <a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/programacoes-culturais-na-palma-da-mao/10883">MinC</a>.
-															</p>
-
-															<img src="images/noticias/culturi.png" class="noticia-image"/>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Financiamento à cultura no Brasil</div>
-													<div class="not-data">27/09/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Denúncias de corrupção envolvendo a Lei Rouanet somaram-se a efervescência política do país e reavivaram o debate sobre o financiamento à cultura no Brasil. No mês de maio, a operação boca-livre da Polícia Federal revelou uma fraude de R$ 180 milhões desviados da Lei Rouanet. Mas como se dá o apoio público à cultura no Brasil?
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Desde a década de 1990, a partir das reformas de enxugamento do Estado, a Lei de Incentivo à Cultura (LIC), mais conhecida como Lei Rouanet, tem sido predominante no fomento cultural público do país. Com a LIC, o Estado abdica da arrecadação de uma parcela do imposto de renda para que os contribuintes privados se engajem em mecenato, no financiamento direto aos agentes executores de atividades e bens culturais. Nessa modalidade, a captação de recursos para o fomento à cultura fica sob deliberação do mercado. O funcionamento dessa renúncia fiscal inicia-se com a seleção, por parte do Ministério da Cultura, da Comissão Nacional de Incentivo à Cultura, composta por representantes da sociedade civil. A ela cabe a seleção de projetos em que identifiquem valor cultural, para que esses possam ir a público captar recursos passíveis de dedução no imposto de renda. Quando o valor é aprovado para o proponente e a sua carta de concessão, emitida, a busca de incentivadores privados (especialmente no meio empresarial) pode ser iniciada. O valor investido pode ser abatido em até 4% do imposto de renda de pessoas jurídicas e em 6% da tributação de pessoas físicas.
-															</p>
-
-															<p>
-
-																Com esse mecanismo, a sociedade civil ganha protagonismo no processo, poupando custos administrativos e criando novos canais para a facilitação e ampliação do investimento privado. Contudo, esse mesmo benefício reside em uma lógica de sociedade como mercado, abstendo-se da função da política pública como espaço de arbítrio social. Dessa forma, em última análise, termina cabendo ao empresariado a decisão final sobre as atividades culturais subsidiadas pelo Estado. 
-															</p>
-
-															<p>
-
-																Mesmo embebida da lógica do mercado, a Lei Rouanet tem se mostrado ineficaz na dinamização e pluralização da Economia da Cultura, com pouco mais de 50% dos projetos aprovados captando apenas 20% do valor total concedido. Ademais, a concentração regional também deve ser enfatizada: no acumulado dos mais de vinte anos de Lei, 80% dos recursos foram captados por projetos na região Sudeste, em especial, do eixo Rio-São Paulo, de forma desproporcional, mesmo considerando os padrões demográficos. O poder de veto do empresariado sobre os projetos culturais efetivamente pode estar no seio dessas distorções. Nem mesmo o fortalecimento e pluralização das atividades do MinC nas últimas décadas reduziu o protagonismo da Lei Rouanet no sistema nacional de fomento. Em 2015, o MinC investiu R$ 320 milhões em projetos, enquanto abdicou de R$ 1,8 bilhão por meio da Lei Rouanet.
-															</p>
-
-															<p>
-
-																A corrupção que surge dentro desse instrumento se revela no poder adquirido pelos grandes incentivadores privados na efetivação do fomento público cultural. Em 2015, as 10 empresas que mais financiaram pela Rouanet empregaram 20% do total subsidiado pelas mais de 3 mil incentivadoras, refletindo uma assimetria de que derivam perniciosas barganhas. Dessa forma, pode-se afirmar que as contradições do sistema de fomento surgem do distanciamento das políticas da diversidade e da pluralidade, que são inerentes à cultura, subvertendo-as ao cálculo publicitário de um reduzido de mecenas. Ainda assim, o subsídio à cultura não está nem próximo de isenções fiscais como para as igrejas, para o setor automotivo ou para as Olimpíadas. Desse modo, a atenção recebida pelo tema abre uma importante janela de oportunidade para a reflexão sobre formas de aprimorar os recursos públicos investidos na área no Brasil. 
-															</p>
-
-															<p>
-																Com base na matéria “Financiamento em Debate”, de autoria de Leandro Valiati e Lucas de Oliveira Paes, publicada no Jornal da UFRGS, em agosto de 2016.
-
-															</p>
-
-															<img src="images/noticias/FinancCulturaBanner.png" class="noticia-image"/>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container right">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">Coordenador Leandro Valiati participa de evento na Universidade Paris 13</div>
-													<div class="not-data">23/09/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																Entre os dia 21 e 23 de setembro, ocorreu a quarta edição do evento Universidade de Verão do Laboratório de Excelência sobre Indústrias Culturais e Criação Artística da Universidade Paris 13. 
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																Na ocasião, o professor Leandro Valiati, apresentou os projetos de pesquisa em andamento no Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS) e no Observatório de Economia Criativa (OBEC/UFRGS), ambos sob sua coordenação. Durante o evento, foi possível um amplo intercâmbio científico com pesquisadores internacionais da área, sobre temas como comércio internacional, indústrias criativas, fomento à cultura e Economia da Cultura.
-															</p>
-
-															<p>
-																O Labex ICCA é um laboratório de pesquisa interdisciplinar focado na prática e no mercado da cultura e da arte. Fundado em 2011, os principais objetivos do ICCA são a pesquisa sobre novos modelos de negócio e de regulação, bem como o estudo de novos usos e mercados emergentes e a transformação de estruturas legais, tanto em atividades tradicionais quanto no mundo digital.
-															</p>
-
-															<p>
-																Para mais informações sobre o evento, acesse <a href="https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/">https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription/</a>.
-															</p>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
-
-											</div>
-
-											<!-- Notícia -->
-											<div class="noticia-container left">
-												
-												<!-- cabeçalho -->
-												<div class="noticia-header">
-													
-													<div class="not-tipo">NOTÍCIA</div>
-													<div class="not-titulo">IV Conferência do Diálogos em Economia Criativa foca no setor audiovisual</div>
-													<div class="not-data">21/09/2016</div>
-
-												</div>
-
-												<!-- conteúdo -->
-												<div class="noticia-content">
-
-													<div class="not-text">
-														
-														<div class="not-text-visivel">
-															<p> 
-																O Observatório de Economia Criativa (OBEC) vem promovendo o ciclo de debates Diálogos em Economia Criativa, durante o ano de 2016. Até o mês de dezembro, o projeto de extensão promoverá um espaço qualificado de discussões com pesquisadores e realizadores nacionais e internacionais da área.
-															</p>
-														</div>
-
-														<div class="not-text-mais">
-															
-															<p> 
-																No dia 13 de setembro, foi realizada a IV Conferência, sob o tema Economia da Música e do Audiovisual: uma visão do mercado a partir dos realizadores. Na ocasião, os professores Alfredo Bertini e Carlos Gerbase debateram sobre o panorama do setor musical e audiovisual no Brasil, bem como os principais entraves e vantagens para a produção cultural contemporânea, mediados pelo professor Leandro Valiati.
-															</p>
-
-															<p>
-
-																Questionados pelo professor Valiati foi sobre a conjuntura econômica do setor no Brasil e no mundo, os realizadores expuseram sobre a grande quantidade de consumo econômico gerado pelo campo das indústrias criativas de audiovisual, em um mercado já estabelecido no Brasil. No entanto, também foram tema as transformações pelas quais a área atravessa, com mudanças tecnológicas e convergência digital. 
-															</p>
-
-															<p>
-
-																Alfredo Bertili, secretário do Audiovisual do Ministério da Cultura, ex-diretor do Cine PE - Festival do Audiovisual e economista, enfatizou o papel do streaming afetando brutalmente no setor audiovisual. 
-															</p>
-
-															<p>
-
-																Carlos Gerbase, professor titular da PUCRS e diretor de cinema na Prana Filmes produtora de audiovisual, deu destaque para a necessidade de subsídios para o audiovisual ao relembrar que boa parte do cinema no Brasil não é industrial, concebida de maneira artesanal, como atividade artística por cineastas no país.
-															</p>
-
-															<p>
-
-																Assim, os gargalos apontados pelos professores estão ligados à necessidade de regulação do mercado cultural para enfrentar pressão econômica. O término da Lei do Audiovisual e a Lei Rouanet foram enfatizadas como incentivos importantes para a área da cultura, uma das grandes atividades econômicas no Brasil.
-															</p>
-
-															<p>
-																A transmissão da conferência do Diálogos em Economia Criativa está disponível no <a href="http://youtu.be/7rFuQiRZti4">Youtube</a>.
-
-															</p>
-															
-															<p>
-																No mês de outubro, a V Conferência ocorre no dia 04. Mais informações e inscrições em <a href="http://www.ufrgs.br/obec/dialogos">ufrgs.br/obec/diálogos</a>.
-															</p>
-
-														</div>
-
-													</div>
-
-													<div class="not-mais">
-														<div class="closed">Leia mais</div>
-														<div class="opened">Leia menos</div>
-													</div>
-												
-												</div>
-
-												<div class="separador"></div>
 
 											</div>
 
@@ -2388,6 +2453,13 @@
 
 											</div> -->
 											
+											<!-- paginação! -->
+						  					<ul class="pagination news-page">
+												<li class="active"><span href="1">1</span></li>
+												<li><span href="2">2</span></li>
+												<li><span href="3">3</span></li>
+											</ul>
+
 										</div>
 									</div>
 
