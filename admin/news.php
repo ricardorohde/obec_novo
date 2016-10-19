@@ -5,10 +5,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="../css/main.css">
-		<link rel="stylesheet" type="text/css" href="../css/desktop.css" media="screen and (min-width:768px) and (min-height: 700px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-width:767px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-height:699px)">
-
 		<link rel="stylesheet" type="text/css" href="../css/admin.css">
 
 		<title>Notícias ::: Painel ADM | OBEC RS</title>
@@ -56,9 +52,7 @@
   						</ul>
 
 					</div>
-
 				</div>
-
 			</div>
 			
 			<!-- resto do site! -->
@@ -113,7 +107,6 @@
 				<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
 					<div class="admin-container">
 						<div class="admin-content project-content">
-							
 							<div class="contentAdm-section">
 
 								<!-- */\/* título *\/\* -->

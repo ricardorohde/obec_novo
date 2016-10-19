@@ -2,21 +2,17 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="../css/main.css">
-		<link rel="stylesheet" type="text/css" href="../css/desktop.css" media="screen and (min-width:768px) and (min-height: 700px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-width:767px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-height:699px)">
-
 		<link rel="stylesheet" type="text/css" href="../css/admin.css">
-
-		<title>Adicionar Evento ::: Painel ADM | OBEC RS</title>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 		<script type="text/javascript" src="../js/bootstrap.js"></script>
 		<script type="text/javascript" src="../js/main.js"></script>
 
+		<title>Adicionar Evento ::: Painel ADM | OBEC RS</title>
 	</head>
 
 	<body class="admin">
@@ -36,6 +32,7 @@
 					</div>
 				</a>
 
+				<!-- === direita do header === -->
 				<div class="headerAdm-right">
 						
 					<!-- view! -->
@@ -46,19 +43,19 @@
 					<!-- user! -->
 					<div class="headerAdm-user">
 
+						<!-- ícone -->
 						<button class="transparent-button dropdown-toggle" type="button" data-toggle="dropdown">
 							<div class="tableAdm-icon user"></div>
 						</button>
   					
+  						<!-- opções -->
   						<ul class="dropdown-menu">
   							<div class="upArrow-icon"></div>
 					    	<li><a href="#" class="text">Logout</a></li>
   						</ul>
 
 					</div>
-
 				</div>
-
 			</div>
 			
 			<!-- resto do site! -->
@@ -101,7 +98,6 @@
 				<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
 					<div class="admin-container">
 						<div class="admin-content project-content">
-							
 							<div class="contentAdm-section">
 
 								<!-- */\/* título *\/\* -->
@@ -143,12 +139,10 @@
 
 								</form>
 							</div>
-
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-
 	</body>
 </html>

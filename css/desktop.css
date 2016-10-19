@@ -240,6 +240,11 @@
 	height: 520px;
 	padding-right: 15px;
 }
+.modal-img .modal-dialog{
+	width: 65%;
+	margin-left: auto;
+	margin-right: auto;
+}
 /*=== Layout responsivo  ======================*/
 /*=== min-width: 992px; ==============================*/
 @media only screen and (max-width: 1199px){

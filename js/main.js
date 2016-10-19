@@ -88,6 +88,16 @@ $(window).bind("load", function() {
 		openPage(pagina);
 	});
 
+	$('.new-page').each(function(index){
+		$('.noticia-container').each(function(index){
+			if(index%2==0){
+				$(this).addClass('left');
+			}else{
+				$(this).addClass('right');
+			}
+		});
+	});
+
 });
 
 $(document).ready(function(){

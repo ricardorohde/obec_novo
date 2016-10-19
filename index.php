@@ -232,22 +232,22 @@
 									<div class="parceiros-content parceiros-obec">
 
 										<a class="logo-img" target="_blank" title="OBEC Bahia" href="http://obec.ihac.ufba.br/">
-											<img src="images/logos/bahia.png"/>
+											<img src="images/logos/bahia.png" alt="OBEC Bahia"/>
 										</a>
 								
 										<a class="logo-img" target="_blank" title="OBEC Distrito Federal" href="http://www.obecdf.org/">
-											<img src="images/logos/df.png"/>
+											<img src="images/logos/df.png"  alt="OBEC Distrito Federal"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="OBEC Rio de Janeiro" href="https://www.facebook.com/obecrj">
-											<img src="images/logos/rj.png"/>
+											<img src="images/logos/rj.png" alt="OBEC Rio de Janeiro"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="OBEC Goiás" href="https://medialab.ufg.br/n/71540-observatorio-da-economia-criativa-de-goias">
-											<img src="images/logos/go.png"/>
+											<img src="images/logos/go.png" alt="OBEC Goiás"/>
 										</a>
 
-										<a class="logo-img" target="_blank" title="OBEC Amazonas" href="http://www.ufam.edu.br/">
+										<a class="logo-img" target="_blank" title="OBEC Amazonas" alt="OBEC Amazonas" href="http://www.ufam.edu.br/">
 											<img src="images/logos/amazonas.png"/>
 										</a>
 
@@ -257,27 +257,27 @@
 									<div class="parceiros-content parceiros-univ">
 										
 										<a class="logo-img" target="_blank" title="Queen Mary University of London" href="http://www.qmul.ac.uk/">
-											<img src="images/logos/qmary.png"/>
+											<img src="images/logos/qmary.png" alt="Queen Mary University of London"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="UNISINOS" href="http://www.unisinos.br/">
-											<img src="images/logos/unisinos.png"/>
+											<img src="images/logos/unisinos.png" alt="UNISINOS"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Universidade FEEVALE" href="http://www.feevale.br/">
-											<img src="images/logos/feevale.png"/>
+											<img src="images/logos/feevale.png" alt="Universidade FEEVALE"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Universitat de València" href="http://www.uv.es/">
-											<img src="images/logos/valencia.png"/>
+											<img src="images/logos/valencia.png" alt="Universitat de València"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Erasmus University Rotterdam" href="http://www.eur.nl/english/prospective/">
-											<img src="images/logos/erasmus.png"/>
+											<img src="images/logos/erasmus.png" alt="Erasmus University Rotterdam"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="UFBA - Universidade Federal da Bahia" href="https://www.ufba.br/">
-											<img src="images/logos/ufba.png"/>
+											<img src="images/logos/ufba.png" alt="UFBA - Universidade Federal da Bahia"/>
 										</a>
 
 									</div>
@@ -286,19 +286,19 @@
 									<div class="parceiros-content parceiros-gov">
 
 										<a class="logo-img" target="_blank" title="Secretaria da Cultura do Rio Grande do Sul" href="http://www.cultura.rs.gov.br/v2/">
-											<img src="images/logos/scultura.png"/>
+											<img src="images/logos/scultura.png" alt="Secretaria da Cultura do Rio Grande do Sul"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="INOVAPOA" href="http://www2.portoalegre.rs.gov.br/inovapoa/">
-											<img src="images/logos/inovapoa.png"/>
+											<img src="images/logos/inovapoa.png" alt="INOVAPOA"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="AGDI" href="http://www.agdi.rs.gov.br/">
-											<img src="images/logos/agdi.png"/>
+											<img src="images/logos/agdi.png" alt="AGDI"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Ministério da Cultura" href="http://www.cultura.gov.br/">
-											<img src="images/logos/minc.png"/>
+											<img src="images/logos/minc.png" alt="Ministério da Cultura" />
 										</a>
 
 									</div>	
@@ -307,67 +307,67 @@
 									<div class="parceiros-content parceiros-ufrgs">
 
 										<a class="logo-img" target="_blank" title="CEGOV - Centro de Estudos Internacionais Sobre o Governo" href="https://www.ufrgs.br/cegov/">
-											<img src="images/logos/cegov.png"/>
+											<img src="images/logos/cegov.png" alt="CEGOV - Centro de Estudos Internacionais Sobre o Governo"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Departamento de Difusão Cultural (DDC)" href="http://www.ufrgs.br/difusaocultural/">
-											<img src="images/logos/ddc.png"/>
+											<img src="images/logos/ddc.png" alt="Departamento de Difusão Cultural (DDC)"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Faculdade de Ciências Econômicas" href="https://www.ufrgs.br/fce/">
-											<img src="images/logos/fce.png"/>
+											<img src="images/logos/fce.png" alt="Faculdade de Ciências Econômicas"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Instituto de Letras" href="https://www.ufrgs.br/letras/">
-											<img src="images/logos/letras.png"/>
+											<img src="images/logos/letras.png" alt="Instituto de Letras"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Pós-graduação em Antropologia Social" href="http://www.ufrgs.br/ppgas/portal/index.php/pt/">
-											<img src="images/logos/ppga.png"/>
+											<img src="images/logos/ppga.png" alt="Pós-graduação em Antropologia Social"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Instituto de Filosofia e Ciências Humanas" href="https://www.ufrgs.br/ifch/home.php">
-											<img src="images/logos/ifch.png"/>
+											<img src="images/logos/ifch.png" alt="Instituto de Filosofia e Ciências Humanas"/>
 										</a>
 
-										<a class="logo-img" target="_blank" title="Pós-graduação em Planejamento Urbano" href="http://www.ufrgs.br/propur/">
+										<a class="logo-img" target="_blank" alt="Pós-graduação em Planejamento Urbano" href="http://www.ufrgs.br/propur/">
 											<img src="images/logos/propur.png"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Pós-Graduação em Design" href="http://www.pgdesign.ufrgs.br/">
-											<img src="images/logos/pge.png"/>
+											<img src="images/logos/pge.png" alt="Pós-Graduação em Design"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Instituto de Artes" href="http://www.ufrgs.br/institutodeartes/">
-											<img src="images/logos/ia.png"/>
+											<img src="images/logos/ia.png" alt="Instituto de Artes"/>
 										</a>
 
 										<a class="logo-img" target="_blank" title="Escola de Administração" href="http://www.ufrgs.br/escoladeadministracao/">
-											<img src="images/logos/adm.png"/>
+											<img src="images/logos/adm.png" alt="Escola de Administração"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Escola de Engenharia - Engenharia de Produção" href="http://www.ufrgs.br/producao/">
-											<img src="images/logos/engprod.png"/>
+											<img src="images/logos/engprod.png" alt="Escola de Engenharia - Engenharia de Produção"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Escola de Engenharia" href="http://www.ufrgs.br/engenharia/wp/">
-											<img src="images/logos/eng.png"/>
+											<img src="images/logos/eng.png" alt="Escola de Engenharia"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Faculdade de Biblioteconomia e Comunicação" href="http://www.ufrgs.br/fabico">
-											<img src="images/logos/fabico.png"/>
+											<img src="images/logos/fabico.png" alt="Faculdade de Biblioteconomia e Comunicação"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Faculdade de Arquitetura" href="http://www.ufrgs.br/arquitetura/index.php/br/">
-											<img src="images/logos/arq.png"/>
+											<img src="images/logos/arq.png" alt="Faculdade de Arquitetura"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Especialização em Economia da Cultura" href="http://www.ppge.ufrgs.br/cultura/">
-											<img src="images/logos/ecultura.png"/>
+											<img src="images/logos/ecultura.png" alt="Especialização em Economia da Cultura"/>
 										</a>
 										
 										<a class="logo-img" target="_blank" title="Pós-graduação em Economia" href="http://www.ufrgs.br/ppge/">
-											<img src="images/logos/ppge.png"/>
+											<img src="images/logos/ppge.png" alt="Pós-graduação em Economia"/>
 										</a>
 										
 									</div>
@@ -636,13 +636,13 @@
 
 												<p>
 													O projeto propõe-se a realizar 7 conferências ao longo do ano letivo da UFRGS, buscando discutir três eixos centrais nas discussões contemporâneas da Economia Criativa:
-
-													<ul>
-														<li>Fluxos internacionais e globalização de bens criativos;</li>
-														<li>Novas perspectivas para mercados tradicionais de cultura;</li>
-														<li>Gestão pública e privada para fomento da Economia da Cultura.</li>
-													</ul>
 												</p>
+
+												<ul>
+													<li>Fluxos internacionais e globalização de bens criativos;</li>
+													<li>Novas perspectivas para mercados tradicionais de cultura;</li>
+													<li>Gestão pública e privada para fomento da Economia da Cultura.</li>
+												</ul>
 
 												<br/>
 												
@@ -1019,7 +1019,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub4.jpg"/>
+																<img src="images/publicacoes/pub4.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1047,7 +1047,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub1.jpg"/>
+																<img src="images/publicacoes/pub1.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1075,7 +1075,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub3.jpg"/>
+																<img src="images/publicacoes/pub3.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1100,33 +1100,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub2.jpg"/>
-															</div>
-															
-															<div class="pub-content-text">
-															
-																<div class="pub-titulo">
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																</div>
-
-																<div class="pub-desc">
-																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																</div>
-
-																<button class="button pub-button">Download</button>
-																<button class="button pub-button voltar-pub">Voltar</button>
-
-															</div>
-
-														</div>
-
-
-														<!-- Publicações content -->
-														<div class="publicacao-content">
-															
-															<!-- Imagem -->
-															<div class="pub-content-img">
-																<img src="images/publicacoes/pub3.jpg"/>
+																<img src="images/publicacoes/pub2.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1152,32 +1126,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub4.jpg"/>
-															</div>
-															
-															<div class="pub-content-text">
-															
-																<div class="pub-titulo">
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																</div>
-
-																<div class="pub-desc">
-																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																</div>
-
-																<button class="button pub-button">Download</button>
-																<button class="button pub-button voltar-pub">Voltar</button>
-
-															</div>
-
-														</div>
-
-														<!-- Publicações content -->
-														<div class="publicacao-content">
-															
-															<!-- Imagem -->
-															<div class="pub-content-img">
-																<img src="images/publicacoes/pub1.jpg"/>
+																<img src="images/publicacoes/pub3.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1203,7 +1152,32 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub3.jpg"/>
+																<img src="images/publicacoes/pub4.jpg" alt="Publicação Título"/>
+															</div>
+															
+															<div class="pub-content-text">
+															
+																<div class="pub-titulo">
+																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																</div>
+
+																<div class="pub-desc">
+																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																</div>
+
+																<button class="button pub-button">Download</button>
+																<button class="button pub-button voltar-pub">Voltar</button>
+
+															</div>
+
+														</div>
+
+														<!-- Publicações content -->
+														<div class="publicacao-content">
+															
+															<!-- Imagem -->
+															<div class="pub-content-img">
+																<img src="images/publicacoes/pub1.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1229,7 +1203,33 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub2.jpg"/>
+																<img src="images/publicacoes/pub3.jpg" alt="Publicação Título"/>
+															</div>
+															
+															<div class="pub-content-text">
+															
+																<div class="pub-titulo">
+																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																</div>
+
+																<div class="pub-desc">
+																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																</div>
+
+																<button class="button pub-button">Download</button>
+																<button class="button pub-button voltar-pub">Voltar</button>
+
+															</div>
+
+														</div>
+
+
+														<!-- Publicações content -->
+														<div class="publicacao-content">
+															
+															<!-- Imagem -->
+															<div class="pub-content-img">
+																<img src="images/publicacoes/pub2.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1294,7 +1294,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub2.jpg"/>
+																<img src="images/publicacoes/pub2.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1319,33 +1319,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub4.jpg"/>
-															</div>
-															
-															<div class="pub-content-text">
-															
-																<div class="pub-titulo">
-																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
-																</div>
-
-																<div class="pub-desc">
-																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
-																</div>
-
-																<button class="button pub-button">Download</button>
-																<button class="button pub-button voltar-pub">Voltar</button>
-
-															</div>
-
-														</div>
-
-
-														<!-- Publicações content -->
-														<div class="publicacao-content">
-															
-															<!-- Imagem -->
-															<div class="pub-content-img">
-																<img src="images/publicacoes/pub3.jpg"/>
+																<img src="images/publicacoes/pub4.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1371,7 +1345,33 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub2.jpg"/>
+																<img src="images/publicacoes/pub3.jpg" alt="Publicação Título"/>
+															</div>
+															
+															<div class="pub-content-text">
+															
+																<div class="pub-titulo">
+																	Lorem ipsum dolor sit amet, consectetur adipiscing elit
+																</div>
+
+																<div class="pub-desc">
+																	Pellentesque gravida, ipsum eget laoreet placerat, tortor odio tempus quam, sed eleifend sapien turpis quis magna. Ut ut ex rhoncus, tempor sapien vel, pellentesque orci. Mauris auctor libero est, sit amet vulputate diam semper in. 
+																</div>
+
+																<button class="button pub-button">Download</button>
+																<button class="button pub-button voltar-pub">Voltar</button>
+
+															</div>
+
+														</div>
+
+
+														<!-- Publicações content -->
+														<div class="publicacao-content">
+															
+															<!-- Imagem -->
+															<div class="pub-content-img">
+																<img src="images/publicacoes/pub2.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1396,7 +1396,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub3.jpg"/>
+																<img src="images/publicacoes/pub3.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1461,7 +1461,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub2.jpg"/>
+																<img src="images/publicacoes/pub2.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1486,7 +1486,7 @@
 															
 															<!-- Imagem -->
 															<div class="pub-content-img">
-																<img src="images/publicacoes/pub4.jpg"/>
+																<img src="images/publicacoes/pub4.jpg" alt="Publicação Título"/>
 															</div>
 															
 															<div class="pub-content-text">
@@ -1601,7 +1601,280 @@
 											<div class="new-page opened" id="1">
 												
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Coordenador Leandro Valiati participa de reuniões em Londres</div>
+														<div class="not-data">19/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																O coordenador do OBEC, professor Leandro Valiati, participa de uma série de reuniões em sua visita à Londres. Durante a viagem, sua agenda permitirá o estabelecimento de contatos para um amplo intercâmbio de conhecimento sobre a Economia da Cultura e Economia Criativa entre a UFRGS e pesquisadores ingleses de instituições como a prefeitura de Londres, Queen Mary University London, King’s College London, Sociedade Real das Artes, Conselho Inglês de Artes, entre outras.
+															</div>
+
+															<div class="not-text-mais">
+																<p>
+																	Na terça-feira, dia 25 de outubro, a primeira atividade será realizada em reunião com <a href="http://www2.warwick.ac.uk/research/warwickcommission/futureculture/mission/commissioners/geoffreycrossick/">Geoffrey Crossick</a>, autor do <a href="http://www.sas.ac.uk/about-us/news/professor-geoffrey-crossick-launches-major-ahrc-cultural-value-project">relatório de pesquisa sobre valor cultural</a>, referência na área de Economia da Cultura. Valiati ainda se encontrará com <a href="https://www.google.com.br/search?q=morag+shiach+qmul&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-b-ab&amp;gfe_rd=cr&amp;ei=4yX-V7C9HJCq8weFr5nQBA">Morag Shiach</a>, vice-reitora da Queen Mary University of London e diretora do projeto <a href="http://www.creativeworkslondon.org.uk/">Creativeworks London</a>. Às 17h, ocorre a conferência "Creative Economy, Culture and Development in Brazil: an overview of the academic and public policy agenda” durante a série de seminários do Brazil Institute Research, do King’s College London. 
+																</p>
+
+																<p>
+																	Na quarta-feira, o professor se reunirá com Amanda Decker, do departamento de Cultura e Indústrias Criativas da prefeitura de Londres. Em seguida, mantem agenda com <a href="https://www.thersa.org/discover/publications-and-articles/matthew-taylor-blog">Matthew Taylor</a>, chefe executivo da <a href="https://www.thersa.org/">Royal Society of Arts</a>. Durante a tarde, Valiati conversará com os gestores do <a href="http://www.artscouncil.org.uk/">Arts Council England</a>, Richard Ings e Beci Jamieson.
+																</p>
+
+																<p>
+																	No dia 27 de outubro, quinta-feira, está previsto o encontro com <a href="http://creativeconomy.britishcouncil.org/team/">Beatrice Pembroke</a>, Diretora de Economia Criativa do Brisith Council, seguida de reunião com <a href="https://ccskills.org.uk/network/profile/pauline-tambling-cbe">Pauline Tambling</a>, Diretora do <a href="https://ccskills.org.uk/" >Creative and Cultural Skills</a>, agência nacional do governo responsável pelo treinamento e empregabilidade de jovens no setor cultural. À tarde, Valiati participará de um Mini Seminário na Queen Mary University of London, junto aos pesquisadores <a href="http://www.busman.qmul.ac.uk/staff/dars.html">Sadhvi Dar</a> (Queen Mary), <a href="http://www.nesta.org.uk/users/george-windsor">George Windsor</a> (NESTA), <a href="http://bop.co.uk/people/iainbennett">Iain Bennett</a> (BOP Consulting), <a href="http://www.creativeworkslondon.org.uk/cwl-team/">Tarek Virani</a> (Creative Works London) e <a href="https://uk.linkedin.com/in/samcairns">Sam Cairns</a> (Gulbenkian Foundation).
+																</p>
+
+																<p>											
+																	Na sexta-feira, a atividade fica a cargo da reunião com <a href="http://www.phf.org.uk/about-phf/people/jane-steele/">Jane Steele</a>, Diretora da Paul Hamlyn Foundation.
+																</p>
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">COORDENADOR LEANDRO VALIATI PARTICIPA DE EVENTO NA UNIVERSIDADE PARIS 13</div>
+														<div class="not-data">19/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p>
+																	Entre os dia 21 e 23 de setembro, ocorreu a quarta edição do evento <a href="https://icca.univ-paris13.fr/universite-dete-2016/">Universidade de Verão</a> do Laboratório de Excelência sobre Indústrias Culturais e Criação Artística da Universidade Paris 13, em Paris. Na ocasião, o professor Leandro Valiati, apresentou os projetos de pesquisa em andamento no Grupo de Trabalho Economia Criativa, Cultura e Políticas Públicas do Centro de Estudos Internacionais sobre Governo (CEGOV/UFRGS) e do OBEC, sob sua coordenação. Durante o evento, foi possível um amplo intercâmbio científico com pesquisadores internacionais da área, apresentando, ainda, os convênios entre a UFRGS com Universidade de Valência, com a Universidade Erasmus Rotterdam e a Queen Mary Universidade de Londres.
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																	
+																<p>
+																	O <a href="https://icca.univ-paris13.fr/">Labex ICCA</a> é um laboratório de pesquisa interdisciplinar focado na prática e no mercado da cultura e da arte. Fundado em 2011, os principais objetivos do ICCA são a pesquisa sobre novos modelos de negócio e de regulação, bem como o estudo de novos usos e mercados emergentes e a transformação de estruturas legais, tanto em atividades tradicionais quanto no mundo digital. O evento reuniu por três dias estudantes de doutorado de laboratórios parceiros do Labex para um amplo intercâmbio científico e acadêmico. Além do professor Valiati, a Universidade de Verão contou ainda com a participação internacional de David Hesmondhalgh, professor da Universidade de Leeds, na Inglaterra.
+																</p>
+
+																<p>
+																	Para mais informações sobre o evento, acesse a página do <a href="https://icca.univ-paris13.fr/universite-dete-2016-pre-inscription">ICCA</a>. 
+																</p>
+
+																<img src="images/noticias/icca2.jpg" class="noticia-image"/>
+																<br/>
+																<br/>
+																<img src="images/noticias/icca3.jpg" class="noticia-image"/>
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Micsul 2016 começa com um passeio pela cultura colombiana</div>
+														<div class="not-data">18/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p>
+																	A segunda edição do <a href="http://micsur.org/">Mercado de Ind&uacute;strias Culturais do Sul (Micsul)</a> começou na noite de segunda-feira, 17 de outubro, com uma cerimônia no Teatro Colón, em Bogotá, marcada por apresentações culturais de diferentes estilos, provenientes de diversas regiões da Colômbia. Até a próxima quinta-feira, 20 de outubro, empreendedores de 10 países sul-americanos participam de debates, oficinas e rodadas de negócios com o objetivo de internacionalizar seus produtos e serviços. 
+																</p>
+															</div>
+
+															<div class="not-text-mais">
+																	
+																<p>"É uma alegria termos contato com a cultura colombiana. Tivemos aqui uma mostra de vários locais do país. Eles nos deixaram com uma responsabilidade muito grande, porque daqui a dois anos será a nossa vez. Teremos a responsabilidade de mostrar a cultura brasileira em toda a sua riqueza e isso não vai ser fácil", destacou o ministro da Cultura, Marcelo Calero, que participou da cerimônia. Em 2018, a terceira edição do Micsul será realizada no Brasil.</p>
+
+																<p>O fomento aos empreendedores criativos é uma das prioridades da atual gestão do Ministério da Cultura (MinC), que criou recentemente uma área exclusiva para isso: a Secretaria da Economia da Cultura, coordenada pelo advogado Cláudio Lins de Vasconcelos. Calero ressaltou que a participação brasileira na edição sediada na Colômbia refletirá a diversidade e a importância da economia criativa como eixo estratégico de desenvolvimento socioeconômico para o Brasil.</p>
+
+																<p>Presente na cerimônia, o gerente de Exportação da Agência de Promoção de Exportações e Investimentos (Apex-Brasil), Christiano Braga, destacou o critério usado pelo Ministério da Cultura (MinC) e pela Apex-Brasil na escolha dos 61 empreendedores brasileiros que participarão do Micsul. "Isso possibilitará ampliar as possibilidades de realização de negócios e de parcerias com os participantes de outros países", observou.</p>
+
+																<p>A ministra da Cultura da Colômbia, Mariana Garcés Cordoba, também prestigiou o evento. E por meio de um vídeo, destacou que o fortalecimento das indústrias criativas é uma prioridade para o governo de seu país. "O impulso da cultura é pedra angular para arraigar a identidade nacional e fortalecer o tecido social, chave na construção deste novo país que busca dar às suas novas gerações um futuro de paz", afirmou.</p>
+
+																<br/>
+
+																<p><b>Apresentações culturais</b></p>
+
+																<p>A cerimônia de abertura contou com quatro apresentações culturais. A primeira foi do Coletivo Danza Región & Cámara de Danza Comunidad, de Necoclí, da região colombiana de Antioquia. O grupo trouxe ao público um espetáculo que representa a tradição caribenha: a mistura entre um clima social adverso, tradições ancestrais e dançarinos que se juntaram para criar novas linguagens.</p>
+
+																<p>Na sequência, apresentou-se o grupo Cimarrón, com um show baseado em distintos aspectos da música e da dança da planície da região do Orinoco. Composta por vocal, harpa, cuatro, bandola llanera, contrabaixo elétrico e percussões, a banda trouxe seções instrumentais, músicas tradicionais e dança de sapateado.</p>
+
+																<p>A terceira apresentação foi feita pela Corporación Cultural Afrocolombiana Sankofa, de Medellin, cidade com expressiva população afrodescendente. Com participação de 18 jovens, o espetáculo de dança abordou a problemática das novas diásporas afro na Colômbia e das dinâmicas emergentes na construção de vínculos culturais entre as comunidades afrodescendentes no contexto urbano.</p>
+
+																<p>O encerramento ficou por conta do grupo musical Bambarabanda, da cidade de Pasto, no sul do país. O show trouxe uma fusão de rock e música regional andina com encenações que ressaltaram a teatralidade nos movimentos, nas cores e nos figurinos. O grupo foi criado em 1999 como resultado da fusão entre um coletivo teatral e a banda que musicava suas apresentações.</p>
+
+																<br/>
+
+																<p><b>Sobre o Micsul</b></p>
+
+																<p>Criado com o intuito de promover intercâmbio de conhecimento, produtos e serviços culturais e criativos, o Micsul é uma iniciativa dos ministérios da Cultura de Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Peru, Paraguai, Uruguai e Venezuela. Durante o evento, são realizados negócios entre empreendedores, empresas ligadas à área cultural, produtores e artistas. O Brasil está representado por 61 empreendedores dos setores de design, artes cênicas, audiovisual, moda, música, editorial e games.</p>
+
+																<p>Destinado a micro e pequenos empreendedores, o Micsul é o principal encontro regional voltado a mercados culturais e criativos da América do Sul. O mercado incentiva o consumo e a circulação de bens culturais na região, além de impulsionar venda e comercialização de bens e serviços. A expectativa é que, este ano, o evento reúna mais de 3000 pessoas dos 10 países que promovem o evento, além de compradores da América do Norte, Europa, Ásia e África.</p>
+
+																<p>O Micsul conta com espaços para rodadas de negócios, cafés setoriais, desfiles de moda, showcases de música e artes cênicas e estandes institucionais, além de construção de redes de contatos por meio de fóruns de discussão.</p>
+
+																<p>Com base na matéria da <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/micsul-2016-comeca-com-um-passeio-pela-cultura-colombiana/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoria de Comunica&ccedil;&atilde;o</a> do Ministério da Cultura.</p>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">A Arte do Intercâmbio Cultural ocorre em 20 de outubro</div>
+														<div class="not-data">14/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p>No dia 20 de outubro, o semin&aacute;rio <a href="https://www.eventbrite.co.uk/e/seminario-a-arte-do-intercambio-cultural-tickets-28221815209"><strong>A Arte do Interc&acirc;mbio Cultural</strong></a>, realizado pelo People&apos;s Palace Projects em parceria com o British Council, ocorre no Museu de Arte do Rio. Estar&atilde;o presentes dezenas de palestrantes entre l&iacute;deres culturais, jovens artistas e produtores do Reino Unido e do Brasil, para realizar um debate p&uacute;blico sobre pr&aacute;ticas de interc&acirc;mbio, experi&ecirc;ncias de transforma&ccedil;&atilde;o, pol&iacute;tica cultural e os grandes desafios para o futuro. O coordenador do OBEC, professor Leandro Valiati, estar&aacute; presente na mesa <em>Interc&acirc;mbio com o Futuro</em>, mediada por Paul Heritage e Ilana Strozenberg.</p>
+															</div>
+
+															<div class="not-text-mais">
+																	
+																<p>Abordando pr&aacute;ticas produzidas nos centros e periferias de cidades como Londres e Rio de Janeiro, assim como no interior e em aldeias ind&iacute;genas, o semin&aacute;rio tra&ccedil;a um grande panorama e aprofunda as principais quest&otilde;es enfrentadas por produtores, artistas, financiadores e organiza&ccedil;&otilde;es culturais nos &uacute;ltimos quatro anos que marcaram a transi&ccedil;&atilde;o entre as Olimp&iacute;adas de Londres e do Rio de Janeiro.</p>
+
+																<p>As inscri&ccedil;&otilde;es e a programa&ccedil;&atilde;o completa podem ser acessadas <a href="https://www.eventbrite.co.uk/e/seminario-a-arte-do-intercambio-cultural-tickets-28221815209">aqui</a>.</p>
+
+																<button type="button" class="transparent-button" data-toggle="modal" data-target="#intercambioImg">
+																	<img src="images/noticias/arteDoIntercambio.png" class="noticia-image" alt="Arte do Intercâmbio Cultural"/>
+																</button>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container">
+													
+													<!-- cabeçalho -->
+													<div class="noticia-header">
+														
+														<div class="not-tipo">NOTÍCIA</div>
+														<div class="not-titulo">Avaliação do MicSul é realizada pela UFRGS</div>
+														<div class="not-data">14/10/2016</div>
+
+													</div>
+
+													<!-- conteúdo -->
+													<div class="noticia-content">
+
+														<div class="not-text">
+															
+															<div class="not-text-visivel">
+																<p>A Universidade Federal do Rio Grande do Sul, por meio do Grupo de Trabalho Economia Criativa, Cultura e Pol&iacute;ticas P&uacute;blicas do Centro de Estudos Internacionais sobre Governo e do OBEC, est&aacute; realizando a avalia&ccedil;&atilde;o do evento <strong><a href="http://micsur.org/">Mercado de Ind&uacute;strias Culturais do Sul (MicSul)</a>&nbsp;</strong>que ocorre entre os dias 17 e 20 de outubro, em Bogot&aacute;, na Col&ocirc;mbia.</p>
+															</div>
+
+															<div class="not-text-mais">
+																<p>A iniciativa est&aacute; inserida no projeto <a href="https://www.ufrgs.br/cegov/projeto/174">Estudos e Pesquisas em Economia Criativa - Desenvolvimento Territorial e Fortalecimento da Economia Criativa</a>, iniciado em 2014 pela parceira entre o CEGOV/UFRGS e o Minist&eacute;rio da Cultura. O EPEC II tem como objetivo prestar assessoria e consultoria t&eacute;cnica para subsidiar a implementa&ccedil;&atilde;o, o acompanhamento e a avalia&ccedil;&atilde;o das pol&iacute;ticas de Economia da Cultura do MinC.&nbsp;</p>
+
+																<p>Uma das vertentes do projeto &eacute; a avalia&ccedil;&atilde;o de feiras de neg&oacute;cios internacionais, com foco na internacionaliza&ccedil;&atilde;o da cultura. Por meio da an&aacute;lise do evento, observando as necessidades e capacidades do p&uacute;blico-alvo, bem como os objetivos do edital proposto, ser&aacute; poss&iacute;vel produzir informa&ccedil;&otilde;es para estabelecer os contornos necess&aacute;rios das pol&iacute;ticas p&uacute;blicas desenvolvidas. A avalia&ccedil;&atilde;o de impacto do Micsul 2016 representa a consolida&ccedil;&atilde;o da metodologia desenvolvida para a <a href="https://www.fil.com.mx/">Feira Internacional do Livro de Guadalajara</a> de 2015 e o <a href="http://www.museumconnections.com/">Museum Connections</a> de 2016.&nbsp;</p>
+
+																<p>Combinando an&aacute;lises quanti e qualitativas, a avalia&ccedil;&atilde;o de impacto, al&eacute;m de contribuir para a formula&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas de internacionaliza&ccedil;&atilde;o da Economia da Cultura no Brasil, fornecer&aacute; subs&iacute;dios para a organiza&ccedil;&atilde;o da terceira edi&ccedil;&atilde;o do evento, sob responsabilidade do Minist&eacute;rio da Cultura brasileiro, em 2018.</p>
+
+																<p>Mais que uma feira de neg&oacute;cios internacionais, o MicSul &eacute; um importante espa&ccedil;o para o interc&acirc;mbio de conhecimento, produtos e servi&ccedil;os culturais e criativos na Am&eacute;rica Latina. Em Bogot&aacute;, os 61 empreendedores brasileiros, selecionados por meio de edital lan&ccedil;ado em parceria pelo MinC e a Ag&ecirc;ncia Brasileira de Promo&ccedil;&atilde;o de Exporta&ccedil;&otilde;es (Apex-Brasil), ter&atilde;o a oportunidade de promover seus neg&oacute;cios &ndash; nos setores de artes c&ecirc;nicas, audiovisual, editorial, anima&ccedil;&atilde;o e games, m&uacute;sica, design e moda &ndash; e contribuir para o fortalecimento da cultura brasileira no exterior. &nbsp;</p>
+																
+																<br/>
+
+																<p><u>Prepara&ccedil;&atilde;o</u></p>
+
+																<p>Nos dias 05 e 06 de outubro, ocorreu o Workshop de Capacita&ccedil;&atilde;o para o Micsul 2016 com os empreendedores brasileiros. Na ocasi&atilde;o, a delega&ccedil;&atilde;o pode contar com consultoria para a prepara&ccedil;&atilde;o das apresenta&ccedil;&otilde;es de neg&oacute;cios para o MicSul. Durante a oficina, o coordenador do OBEC, professor Leandro Valiati, e a pesquisadora Mariana Steffen apresentaram a metodologia de avalia&ccedil;&atilde;o de impacto do evento.</p>
+
+															</div>
+
+														</div>
+
+														<div class="not-mais">
+															<div class="closed">Leia mais</div>
+															<div class="opened">Leia menos</div>
+														</div>
+													
+													</div>
+
+													<div class="separador"></div>
+
+												</div>
+
+												<!-- Notícia -->
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -1618,26 +1891,26 @@
 														<div class="not-text">
 															
 															<div class="not-text-visivel">
-																<p align="justify">Em 2012, por meio da Lei 12.761, foi institu&iacute;do o <a href="http://vale.cultura.gov.br/">Vale-Cultura</a>, um benef&iacute;cio de R$ 50 mensais concedido pelo empregador para seus funcion&aacute;rios, garantindo o acesso dos trabalhadores &agrave; cultura e benef&iacute;cios fiscais para a empresa.</p>
+																<p>Em 2012, por meio da Lei 12.761, foi institu&iacute;do o <a href="http://vale.cultura.gov.br/">Vale-Cultura</a>, um benef&iacute;cio de R$ 50 mensais concedido pelo empregador para seus funcion&aacute;rios, garantindo o acesso dos trabalhadores &agrave; cultura e benef&iacute;cios fiscais para a empresa.</p>
 															</div>
 
 															<div class="not-text-mais">
 
-																<p align="justify">O Vale-Cultura &eacute; um benef&iacute;cio trabalhista e n&atilde;o tem car&aacute;ter obrigat&oacute;rio (como ocorre com o Vale-Alimenta&ccedil;&atilde;o, por exemplo). As empresas que aderem ao programa refor&ccedil;am o compromisso com o bem-estar de seus trabalhadores, agregando valor ao sal&aacute;rio, sem incid&ecirc;ncia de encargos sociais e trabalhistas. Com o Vale-Cultura, as empresas tributadas em lucro real podem deduzir &ndash; a t&iacute;tulo de investimento no programa &ndash; at&eacute; 1% do imposto de renda.</p>
+																<p>O Vale-Cultura &eacute; um benef&iacute;cio trabalhista e n&atilde;o tem car&aacute;ter obrigat&oacute;rio (como ocorre com o Vale-Alimenta&ccedil;&atilde;o, por exemplo). As empresas que aderem ao programa refor&ccedil;am o compromisso com o bem-estar de seus trabalhadores, agregando valor ao sal&aacute;rio, sem incid&ecirc;ncia de encargos sociais e trabalhistas. Com o Vale-Cultura, as empresas tributadas em lucro real podem deduzir &ndash; a t&iacute;tulo de investimento no programa &ndash; at&eacute; 1% do imposto de renda.</p>
 
-																<p align="justify">O valor &eacute; cumulativo, sem prazo de validade e &eacute; utilizado exclusivamente na compra de produtos ou servi&ccedil;os culturais. A ideia do Vale-Cultura &eacute; permitir maior usufruto de produtos ou servi&ccedil;os culturais por trabalhadores registrados, com remunera&ccedil;&atilde;o de at&eacute; cinco sal&aacute;rios m&iacute;nimos. Os recursos podem ser gastos com produtos e servi&ccedil;os ligados &agrave; cultura em geral, como ingressos para teatro, cinema, museus, shows, circo, compra de CDs, DVDs, livros, revistas e jornais, compra de instrumentos musicais e mensalidades de cursos de artes.</p>
+																<p>O valor &eacute; cumulativo, sem prazo de validade e &eacute; utilizado exclusivamente na compra de produtos ou servi&ccedil;os culturais. A ideia do Vale-Cultura &eacute; permitir maior usufruto de produtos ou servi&ccedil;os culturais por trabalhadores registrados, com remunera&ccedil;&atilde;o de at&eacute; cinco sal&aacute;rios m&iacute;nimos. Os recursos podem ser gastos com produtos e servi&ccedil;os ligados &agrave; cultura em geral, como ingressos para teatro, cinema, museus, shows, circo, compra de CDs, DVDs, livros, revistas e jornais, compra de instrumentos musicais e mensalidades de cursos de artes.</p>
 
-																<p align="justify">Atualmente, 41.017 estabelecimentos aceitam o benef&iacute;cio, usado por 504.663 trabalhadores de 1.351 empresas. Apenas nos primeiros nove meses deste ano, os trabalhadores brasileiros consumiram mais de R$ 330 milh&otilde;es com o Vale-Cultura.&nbsp;</p>
+																<p>Atualmente, 41.017 estabelecimentos aceitam o benef&iacute;cio, usado por 504.663 trabalhadores de 1.351 empresas. Apenas nos primeiros nove meses deste ano, os trabalhadores brasileiros consumiram mais de R$ 330 milh&otilde;es com o Vale-Cultura.&nbsp;</p>
 
-																<p align="justify">Previsto para terminar em 31 de dezembro deste ano, o Programa de Cultura do Trabalhador (Vale-Cultura) pode ser prorrogado at&eacute; 2021. O projeto de lei sobre o tema est&aacute; atualmente em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados.</p>
+																<p>Previsto para terminar em 31 de dezembro deste ano, o Programa de Cultura do Trabalhador (Vale-Cultura) pode ser prorrogado at&eacute; 2021. O projeto de lei sobre o tema est&aacute; atualmente em tramita&ccedil;&atilde;o na C&acirc;mara dos Deputados.</p>
 
-																<p align="justify">De acordo com a deputada federal Mara Gabrilli (PSDB-SP), que apresentou o proejto, &quot;os benef&iacute;cios do Vale-Cultura s&atilde;o evidentes na promo&ccedil;&atilde;o da inclus&atilde;o social e da cidadania (...). Apesar dos n&uacute;meros, a democratiza&ccedil;&atilde;o do acesso &agrave; produ&ccedil;&atilde;o e frui&ccedil;&atilde;o dos bens e servi&ccedil;os culturais ainda n&atilde;o foi concretizada. Garanti-lo por mais tempo vai possibilitar a continuidade do processo de democratiza&ccedil;&atilde;o do acesso a bens e servi&ccedil;os culturais pelos brasileiros&quot;, avaliou a parlamentar. &nbsp;</p>
+																<p>De acordo com a deputada federal Mara Gabrilli (PSDB-SP), que apresentou o proejto, &quot;os benef&iacute;cios do Vale-Cultura s&atilde;o evidentes na promo&ccedil;&atilde;o da inclus&atilde;o social e da cidadania (...). Apesar dos n&uacute;meros, a democratiza&ccedil;&atilde;o do acesso &agrave; produ&ccedil;&atilde;o e frui&ccedil;&atilde;o dos bens e servi&ccedil;os culturais ainda n&atilde;o foi concretizada. Garanti-lo por mais tempo vai possibilitar a continuidade do processo de democratiza&ccedil;&atilde;o do acesso a bens e servi&ccedil;os culturais pelos brasileiros&quot;, avaliou a parlamentar. &nbsp;</p>
 
-																<p align="justify">No <a href="http://www.cultura.gov.br/valecultura">site do Minist&eacute;rio da Cultura</a>, est&atilde;o dispon&iacute;veis mais informa&ccedil;&otilde;es sobre o Programa.</p>
+																<p>No <a href="http://www.cultura.gov.br/valecultura">site do Minist&eacute;rio da Cultura</a>, est&atilde;o dispon&iacute;veis mais informa&ccedil;&otilde;es sobre o Programa.</p>
 
-																<p align="justify">Com informa&ccedil;&otilde;es de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/beneficio-fiscal-do-vale-cultura-pode-ser-ampliado-ate-2021/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Minist&eacute;rio da Cultura</a>.</p>
+																<p>Com informa&ccedil;&otilde;es de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/beneficio-fiscal-do-vale-cultura-pode-ser-ampliado-ate-2021/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Minist&eacute;rio da Cultura</a>.</p>
 
-																<img src="images/noticias/valeCultura.png" class="noticia-image"/>
+																<img src="images/noticias/valeCultura.png" class="noticia-image" alt="Vale Cultura"/>
 
 															</div>
 
@@ -1655,7 +1928,7 @@
 												</div>
 
 												<!-- Notícia -->
-												<div class="noticia-container right">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -1672,106 +1945,90 @@
 														<div class="not-text">
 															
 															<div class="not-text-visivel">
-																<p> 
-																	<p>No in&iacute;cio do m&ecirc;s de outubro, a Assessoria de Comunica&ccedil;&atilde;o do Minist&eacute;rio da Cultura entrevistou Cl&aacute;udio Lins de Vasconcelos, rec&eacute;m-nomeado secret&aacute;rio da Economia da Cultura. Vasconcelos &eacute; graduado pela Universidade Federal da Bahia (UFBA), mestre pela Universidade de Notre Dame (EUA) e doutor pela Universidade do Estado do Rio de Janeiro (Uerj). Em um de seus maiores desafios profissionais, o advogado mineiro tem a miss&atilde;o de contribuir para o desenvolvimento de um setor cultural forte, coeso, capaz de levar o produto cultural brasileiro aos principais mercados do mundo.&nbsp;</p>
-																</p>
+																<p>No in&iacute;cio do m&ecirc;s de outubro, a Assessoria de Comunica&ccedil;&atilde;o do Minist&eacute;rio da Cultura entrevistou Cl&aacute;udio Lins de Vasconcelos, rec&eacute;m-nomeado secret&aacute;rio da Economia da Cultura. Vasconcelos &eacute; graduado pela Universidade Federal da Bahia (UFBA), mestre pela Universidade de Notre Dame (EUA) e doutor pela Universidade do Estado do Rio de Janeiro (Uerj). Em um de seus maiores desafios profissionais, o advogado mineiro tem a miss&atilde;o de contribuir para o desenvolvimento de um setor cultural forte, coeso, capaz de levar o produto cultural brasileiro aos principais mercados do mundo.&nbsp;</p>
 															</div>
 
 															<div class="not-text-mais">
 
-																<p align="justify">&quot;Este &eacute; um cargo que me honra bastante. Qualquer um que trabalhe com economia da cultura, como &eacute; o meu caso, gostaria de estar nesse lugar. Em um pa&iacute;s do tamanho do Brasil, com todo esse potencial cultural, &eacute; uma possibilidade de fazer um trabalho hist&oacute;rico, de ajudar no desenvolvimento desse setor que eu amo tanto&quot;, afirma Vasconcelos &ndash; que &eacute; f&atilde; de filosofia e MPB. Em entrevista ao portal do MinC durante evento de capacita&ccedil;&atilde;o de empreendedores para o Mercado de Ind&uacute;strias Culturais do Sul (Micsul), o secret&aacute;rio fala sobre os principais projetos que ser&atilde;o realizados pela Secretaria da Economia da Cultura. &quot;Estou muito animado. Estamos com um projeto redondinho, pronto pra ser implementado. Um projeto que faz sentido, que respeita a dimens&atilde;o econ&ocirc;mica da cultura, sem perder a dimens&atilde;o simb&oacute;lica, e a ind&uacute;stria de alta performance,sem perder as ra&iacute;zes&quot;, destaca.</p>
+																<p>&quot;Este &eacute; um cargo que me honra bastante. Qualquer um que trabalhe com economia da cultura, como &eacute; o meu caso, gostaria de estar nesse lugar. Em um pa&iacute;s do tamanho do Brasil, com todo esse potencial cultural, &eacute; uma possibilidade de fazer um trabalho hist&oacute;rico, de ajudar no desenvolvimento desse setor que eu amo tanto&quot;, afirma Vasconcelos &ndash; que &eacute; f&atilde; de filosofia e MPB. Em entrevista ao portal do MinC durante evento de capacita&ccedil;&atilde;o de empreendedores para o Mercado de Ind&uacute;strias Culturais do Sul (Micsul), o secret&aacute;rio fala sobre os principais projetos que ser&atilde;o realizados pela Secretaria da Economia da Cultura. &quot;Estou muito animado. Estamos com um projeto redondinho, pronto pra ser implementado. Um projeto que faz sentido, que respeita a dimens&atilde;o econ&ocirc;mica da cultura, sem perder a dimens&atilde;o simb&oacute;lica, e a ind&uacute;stria de alta performance,sem perder as ra&iacute;zes&quot;, destaca.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify">Confira a entrevista:</p>
+																<p>Confira a entrevista:</p>
 
-																<p align="justify"><em>[Assessoria de Imprensa MinC] Entre os dias 17 e 20 de outubro, ser&aacute; realizada em Bogot&aacute;, na Col&ocirc;mbia, a segunda edi&ccedil;&atilde;o do Mercado de Ind&uacute;strias Culturais do Sul (Micsul). O Brasil estar&aacute; presente com 60 empreendedores selecionados, via edital, pelo MinC e pela Apex-Brasil. Qual &eacute; a import&acirc;ncia da participa&ccedil;&atilde;o brasileira nesse evento?</em></p>
+																<p><em>[Assessoria de Imprensa MinC] Entre os dias 17 e 20 de outubro, ser&aacute; realizada em Bogot&aacute;, na Col&ocirc;mbia, a segunda edi&ccedil;&atilde;o do Mercado de Ind&uacute;strias Culturais do Sul (Micsul). O Brasil estar&aacute; presente com 60 empreendedores selecionados, via edital, pelo MinC e pela Apex-Brasil. Qual &eacute; a import&acirc;ncia da participa&ccedil;&atilde;o brasileira nesse evento?</em></p>
 
-																<p align="justify">[Cl&aacute;udio Lins de Vasconcelos] O Micsul &eacute; muito importante porque nos abre um mercado para o qual n&atilde;o demos muita aten&ccedil;&atilde;o ao longo da nossa hist&oacute;ria, que &eacute; o mercado sul-americano. S&atilde;o nossos vizinhos, temos tanta coisa em comum, tanto conte&uacute;do pra trocar, e muitas vezes ficamos voltados apenas aos mercados norte-americano e europeu. O evento na Col&ocirc;mbia &eacute; uma oportunidade n&atilde;o apenas para os 60 empreendedores selecionados, que v&atilde;o mostrar seus produtos e buscar novos neg&oacute;cios, mas para toda a economia da cultura brasileira, porque abre novos horizontes.&nbsp;</p>
+																<p>[Cl&aacute;udio Lins de Vasconcelos] O Micsul &eacute; muito importante porque nos abre um mercado para o qual n&atilde;o demos muita aten&ccedil;&atilde;o ao longo da nossa hist&oacute;ria, que &eacute; o mercado sul-americano. S&atilde;o nossos vizinhos, temos tanta coisa em comum, tanto conte&uacute;do pra trocar, e muitas vezes ficamos voltados apenas aos mercados norte-americano e europeu. O evento na Col&ocirc;mbia &eacute; uma oportunidade n&atilde;o apenas para os 60 empreendedores selecionados, que v&atilde;o mostrar seus produtos e buscar novos neg&oacute;cios, mas para toda a economia da cultura brasileira, porque abre novos horizontes.&nbsp;</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] O que o senhor achou do workshop de capacita&ccedil;&atilde;o para empreendedores?&nbsp;</em></p>
+																<p><em>[MinC] O que o senhor achou do workshop de capacita&ccedil;&atilde;o para empreendedores?&nbsp;</em></p>
 
-																<p align="justify">[Vasconcelos] Foi um encontro produtivo, com foco nos resultados que esses empreendedores poder&atilde;o alcan&ccedil;ar no Micsul. Houve grande concentra&ccedil;&atilde;o de pessoas (palestrantes) com conhecimento pr&aacute;tico. Foi muito positivo como troca de experi&ecirc;ncia, de como transformar os contratos em neg&oacute;cios.</p>
+																<p>[Vasconcelos] Foi um encontro produtivo, com foco nos resultados que esses empreendedores poder&atilde;o alcan&ccedil;ar no Micsul. Houve grande concentra&ccedil;&atilde;o de pessoas (palestrantes) com conhecimento pr&aacute;tico. Foi muito positivo como troca de experi&ecirc;ncia, de como transformar os contratos em neg&oacute;cios.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify"><em>[MinC] O mercado sul-americano &eacute; consumidor de nossos produtos. O Micsul abrir&aacute; mercado?&nbsp;</em></p>
+																<p><em>[MinC] O mercado sul-americano &eacute; consumidor de nossos produtos. O Micsul abrir&aacute; mercado?&nbsp;</em></p>
 
-																<p align="justify">[Vasconcelos] O Micsul soma v&aacute;rias linguagens, isso &eacute; importante para a converg&ecirc;ncia das l&iacute;nguas. Os nossos vizinhos sul-americanos gostam do nosso produto cultural, consomem a m&uacute;sica brasileira com muito vigor. J&aacute; n&oacute;s consumimos pouco a cultura deles, tem espa&ccedil;o para crescer. Por isso, acho que o Micsul &eacute; importante pra abrir uma nova fronteira para esse mercado, tanto para exportar como para importar, internacionalizar a produ&ccedil;&atilde;o cultural brasileira, para que possamos finalmente atingir todo nosso potencial de mercado.</p>
+																<p>[Vasconcelos] O Micsul soma v&aacute;rias linguagens, isso &eacute; importante para a converg&ecirc;ncia das l&iacute;nguas. Os nossos vizinhos sul-americanos gostam do nosso produto cultural, consomem a m&uacute;sica brasileira com muito vigor. J&aacute; n&oacute;s consumimos pouco a cultura deles, tem espa&ccedil;o para crescer. Por isso, acho que o Micsul &eacute; importante pra abrir uma nova fronteira para esse mercado, tanto para exportar como para importar, internacionalizar a produ&ccedil;&atilde;o cultural brasileira, para que possamos finalmente atingir todo nosso potencial de mercado.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify"><em>[MinC] O fomento &agrave; economia da cultura &eacute; uma das prioridades da gest&atilde;o do ministro Marcelo Calero. Por isso, foi criada a Secretaria da Economia da Cultura, que est&aacute; sob seu comando. Qual &eacute; o objetivo inicial da secretaria?</em></p>
+																<p><em>[MinC] O fomento &agrave; economia da cultura &eacute; uma das prioridades da gest&atilde;o do ministro Marcelo Calero. Por isso, foi criada a Secretaria da Economia da Cultura, que est&aacute; sob seu comando. Qual &eacute; o objetivo inicial da secretaria?</em></p>
 
-																<p align="justify">[Vasconcelos] Nossa secretaria tem como objetivo principal contribuir para o desenvolvimento de uma economia da cultura forte, coesa, solid&aacute;ria,internacionalizada, de vanguarda, capaz de levar o produto cultural brasileiro, a mensagem dos produtores culturais brasileiros, aos principais mercados do mundo. A economia da cultura &eacute; um dos setores em que o Brasil &eacute; mais competitivo. &Eacute; um setor em que temos efetivamente condi&ccedil;&otilde;es de atingir os patamares mais altos dos mercados internacionais. Al&eacute;m de ser a cara do Brasil, &eacute; um setor que n&atilde;o polui, emprega muita gente, depende muito do trabalho humano, &eacute; pouco sujeito &agrave; substitui&ccedil;&atilde;o de pessoas por m&aacute;quinas,porque o principal produto, o principal insumo &eacute; o c&eacute;rebro humano,o pensamento humano, a criatividade humana. Ent&atilde;o, independentemente do est&aacute;gio tecnol&oacute;gico em que estivermos, sempre haver&aacute; necessidade da criatividade humana. Um roteiro bem feito, uma obra de artes visuais agrad&aacute;vel visualmente, uma composi&ccedil;&atilde;o agrad&aacute;vel aos ouvidos, tudo &eacute; trabalho exclusivo do c&eacute;rebro humano, ent&atilde;o, &eacute; uma ind&uacute;stria que tem crescido em capital intelectual, que n&atilde;o depende dos ciclos de altos e baixos das commodities, enfim, uma ind&uacute;stria que n&oacute;s temos que desenvolver. Essa voca&ccedil;&atilde;o para a economia da cultura &eacute; um dos grandes ativos do Brasil.</p>
+																<p>[Vasconcelos] Nossa secretaria tem como objetivo principal contribuir para o desenvolvimento de uma economia da cultura forte, coesa, solid&aacute;ria,internacionalizada, de vanguarda, capaz de levar o produto cultural brasileiro, a mensagem dos produtores culturais brasileiros, aos principais mercados do mundo. A economia da cultura &eacute; um dos setores em que o Brasil &eacute; mais competitivo. &Eacute; um setor em que temos efetivamente condi&ccedil;&otilde;es de atingir os patamares mais altos dos mercados internacionais. Al&eacute;m de ser a cara do Brasil, &eacute; um setor que n&atilde;o polui, emprega muita gente, depende muito do trabalho humano, &eacute; pouco sujeito &agrave; substitui&ccedil;&atilde;o de pessoas por m&aacute;quinas,porque o principal produto, o principal insumo &eacute; o c&eacute;rebro humano,o pensamento humano, a criatividade humana. Ent&atilde;o, independentemente do est&aacute;gio tecnol&oacute;gico em que estivermos, sempre haver&aacute; necessidade da criatividade humana. Um roteiro bem feito, uma obra de artes visuais agrad&aacute;vel visualmente, uma composi&ccedil;&atilde;o agrad&aacute;vel aos ouvidos, tudo &eacute; trabalho exclusivo do c&eacute;rebro humano, ent&atilde;o, &eacute; uma ind&uacute;stria que tem crescido em capital intelectual, que n&atilde;o depende dos ciclos de altos e baixos das commodities, enfim, uma ind&uacute;stria que n&oacute;s temos que desenvolver. Essa voca&ccedil;&atilde;o para a economia da cultura &eacute; um dos grandes ativos do Brasil.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] Como ser&aacute;, inicialmente, o trabalho da secretaria?</em></p>
+																<p><em>[MinC] Como ser&aacute;, inicialmente, o trabalho da secretaria?</em></p>
 
-																<p align="justify">[Vasconcelos] Nosso trabalho se desenvolver&aacute; em quatro grandes &aacute;reas: seguran&ccedil;a jur&iacute;dica; pesquisa e desenvolvimento; qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda; e direitos intelectuais.</p>
+																<p>[Vasconcelos] Nosso trabalho se desenvolver&aacute; em quatro grandes &aacute;reas: seguran&ccedil;a jur&iacute;dica; pesquisa e desenvolvimento; qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda; e direitos intelectuais.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify"><em>[MinC] E o que ser&aacute; feito em cada uma dessas &aacute;reas?</em></p>
+																<p><em>[MinC] E o que ser&aacute; feito em cada uma dessas &aacute;reas?</em></p>
 
-																<p align="justify">[Vasconcelos] Na &aacute;rea de seguran&ccedil;a jur&iacute;dica, n&oacute;s teremos a Coordena&ccedil;&atilde;o-Geral dos Marcos Legais da Cultura. O objetivo ser&aacute; fazer propostas de altera&ccedil;&otilde;es legislativas, de aperfei&ccedil;oamento do ordenamento jur&iacute;dico, de forma a dar ao setor cultural um ambiente mais favor&aacute;vel, mais atraente pra investimentos, tanto nacionais como internacionais.</p>
+																<p>[Vasconcelos] Na &aacute;rea de seguran&ccedil;a jur&iacute;dica, n&oacute;s teremos a Coordena&ccedil;&atilde;o-Geral dos Marcos Legais da Cultura. O objetivo ser&aacute; fazer propostas de altera&ccedil;&otilde;es legislativas, de aperfei&ccedil;oamento do ordenamento jur&iacute;dico, de forma a dar ao setor cultural um ambiente mais favor&aacute;vel, mais atraente pra investimentos, tanto nacionais como internacionais.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify"><em>[MinC] E como est&aacute; a cria&ccedil;&atilde;o deste marco regulat&oacute;rio?</em></p>
+																<p><em>[MinC] E como est&aacute; a cria&ccedil;&atilde;o deste marco regulat&oacute;rio?</em></p>
 
-																<p align="justify">[Vasconcelos] Ainda estamos come&ccedil;ando o trabalho. Iremos inicialmente ouvir o setor cultural, para mapear as demandas regulat&oacute;rias. Precisamos ouvir todos os pontos das cadeias produtivas, ver o que est&aacute; atravancando processos, saber como podemos contribuir pra fazer com que o setor tenha mais investimento, mais qualidade, mais for&ccedil;a. Um exemplo claro na quest&atilde;o do marco legal da cultura &eacute; a estrutura tribut&aacute;ria. Nosso setor &eacute; formado, em grande parte, por pequenas e m&eacute;dias empresas e, a cada transa&ccedil;&atilde;o entre essas empresas, incide tributos espec&iacute;ficos, que v&atilde;o incidindo em cascata um ap&oacute;s o outro, at&eacute; que, ao final do processo, h&aacute; um ac&uacute;mulo de tributa&ccedil;&atilde;o que pode comprometer, em longo prazo, a competitividade do produto cultural brasileiro em um mercado muito competitivo. Porque o mercado cultural, ainda mais na era da internet, da distribui&ccedil;&atilde;o digital, &eacute; efetivamente global. As barreiras &agrave; entrada de produtos estrangeiros s&atilde;o muito pequenas, ent&atilde;o, n&oacute;s temos que ser competitivos e, para isso, a estrutura de custos &eacute; importante. &Eacute; claro que precisa haver qualidade e outras coisas mais, mas a estrutura de custos tamb&eacute;m &eacute; importante. Ent&atilde;o, esse marco legal da cultura ser&aacute; resultado de v&aacute;rias conversas com o setor e de um mapeamento de demandas, para que, ent&atilde;o, possamos fazer algo que, de fato, fa&ccedil;a sentido e atenda &agrave;s leg&iacute;timas expectativas de todos os grupos das cadeias produtivas.</p>
+																<p>[Vasconcelos] Ainda estamos come&ccedil;ando o trabalho. Iremos inicialmente ouvir o setor cultural, para mapear as demandas regulat&oacute;rias. Precisamos ouvir todos os pontos das cadeias produtivas, ver o que est&aacute; atravancando processos, saber como podemos contribuir pra fazer com que o setor tenha mais investimento, mais qualidade, mais for&ccedil;a. Um exemplo claro na quest&atilde;o do marco legal da cultura &eacute; a estrutura tribut&aacute;ria. Nosso setor &eacute; formado, em grande parte, por pequenas e m&eacute;dias empresas e, a cada transa&ccedil;&atilde;o entre essas empresas, incide tributos espec&iacute;ficos, que v&atilde;o incidindo em cascata um ap&oacute;s o outro, at&eacute; que, ao final do processo, h&aacute; um ac&uacute;mulo de tributa&ccedil;&atilde;o que pode comprometer, em longo prazo, a competitividade do produto cultural brasileiro em um mercado muito competitivo. Porque o mercado cultural, ainda mais na era da internet, da distribui&ccedil;&atilde;o digital, &eacute; efetivamente global. As barreiras &agrave; entrada de produtos estrangeiros s&atilde;o muito pequenas, ent&atilde;o, n&oacute;s temos que ser competitivos e, para isso, a estrutura de custos &eacute; importante. &Eacute; claro que precisa haver qualidade e outras coisas mais, mas a estrutura de custos tamb&eacute;m &eacute; importante. Ent&atilde;o, esse marco legal da cultura ser&aacute; resultado de v&aacute;rias conversas com o setor e de um mapeamento de demandas, para que, ent&atilde;o, possamos fazer algo que, de fato, fa&ccedil;a sentido e atenda &agrave;s leg&iacute;timas expectativas de todos os grupos das cadeias produtivas.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] Essas conversas com o setor cultural come&ccedil;am quando?</em></p>
+																<p><em>[MinC] Essas conversas com o setor cultural come&ccedil;am quando?</em></p>
 
-																<p align="justify">[Vasconcelos] Na verdade, elas j&aacute; come&ccedil;aram. Estamos ouvindo algumas pessoas e as associa&ccedil;&otilde;es representativas de diversos setores ir&atilde;o agendar conversas no minist&eacute;rio e fazer suas propostas formalmente. Todas ser&atilde;o analisadas de forma republicana, honesta, transparente. Todos poder&atilde;o dizer se concordam ou n&atilde;o. Vamos buscar pontos de converg&ecirc;ncia. Em qualquer cadeia produtiva, de qualquer setor econ&ocirc;mico, h&aacute; diverg&ecirc;ncia de interesses. Mesmo na agricultura,quem planta soja tem interesse divergente de quem coloca soja no caminh&atilde;o, que tem interesse divergente de quem coloca soja no navio,mas, no fundo, todo mundo entende que faz parte da mesma cadeia produtiva. Ent&atilde;o, se temos uma ambi&ccedil;&atilde;o com o Marco Legal da Cultura, &eacute; construir essa consci&ecirc;ncia de setor. Apesar de diverg&ecirc;ncias de interesses, o setor cultural tem objetivos compartilhados, ent&atilde;o acho que esta &eacute; a chave.</p>
+																<p>[Vasconcelos] Na verdade, elas j&aacute; come&ccedil;aram. Estamos ouvindo algumas pessoas e as associa&ccedil;&otilde;es representativas de diversos setores ir&atilde;o agendar conversas no minist&eacute;rio e fazer suas propostas formalmente. Todas ser&atilde;o analisadas de forma republicana, honesta, transparente. Todos poder&atilde;o dizer se concordam ou n&atilde;o. Vamos buscar pontos de converg&ecirc;ncia. Em qualquer cadeia produtiva, de qualquer setor econ&ocirc;mico, h&aacute; diverg&ecirc;ncia de interesses. Mesmo na agricultura,quem planta soja tem interesse divergente de quem coloca soja no caminh&atilde;o, que tem interesse divergente de quem coloca soja no navio,mas, no fundo, todo mundo entende que faz parte da mesma cadeia produtiva. Ent&atilde;o, se temos uma ambi&ccedil;&atilde;o com o Marco Legal da Cultura, &eacute; construir essa consci&ecirc;ncia de setor. Apesar de diverg&ecirc;ncias de interesses, o setor cultural tem objetivos compartilhados, ent&atilde;o acho que esta &eacute; a chave.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] E na &aacute;rea de pesquisa e desenvolvimento, como ser&aacute; o trabalho?</em></p>
+																<p><em>[MinC] E na &aacute;rea de pesquisa e desenvolvimento, como ser&aacute; o trabalho?</em></p>
 
-																<p align="justify">[Vasconcelos] Temos nesta &aacute;rea a quest&atilde;o do fomento &agrave;s atividades culturais debase e de vanguarda, &agrave;s novas linguagens, tudo que precisa do apoio mais forte do Estado para decolar. Na &aacute;rea de pesquisa, iremos desenvolver o Atlas Econ&ocirc;mico da Cultura Brasileira. Ele permitir&aacute;, finalmente, vermos o tamanho desse setor. Vamos mape&aacute;-lo no Brasil inteiro, ver o impacto no PIB local e nacional, quantos empregos gera, em que &aacute;reas, como &eacute; que flui em outras cadeias produtivas,saber para onde exporta e importa, mapear as for&ccedil;as e as oportunidades, para sabermos para onde estamos navegando. Afinal, sen&atilde;o tivermos um mapa de navega&ccedil;&atilde;o, n&atilde;o temos como saber para onde estamos indo.</p>
+																<p>[Vasconcelos] Temos nesta &aacute;rea a quest&atilde;o do fomento &agrave;s atividades culturais debase e de vanguarda, &agrave;s novas linguagens, tudo que precisa do apoio mais forte do Estado para decolar. Na &aacute;rea de pesquisa, iremos desenvolver o Atlas Econ&ocirc;mico da Cultura Brasileira. Ele permitir&aacute;, finalmente, vermos o tamanho desse setor. Vamos mape&aacute;-lo no Brasil inteiro, ver o impacto no PIB local e nacional, quantos empregos gera, em que &aacute;reas, como &eacute; que flui em outras cadeias produtivas,saber para onde exporta e importa, mapear as for&ccedil;as e as oportunidades, para sabermos para onde estamos navegando. Afinal, sen&atilde;o tivermos um mapa de navega&ccedil;&atilde;o, n&atilde;o temos como saber para onde estamos indo.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] E em qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda, o que ser&aacute; feito inicialmente?</em></p>
+																<p><em>[MinC] E em qualifica&ccedil;&atilde;o da oferta e incentivo &agrave; demanda, o que ser&aacute; feito inicialmente?</em></p>
 
-																<p align="justify">[Vasconcelos] Hoje, o controle dos meios de difus&atilde;o cultural est&aacute; cada vez mais dif&iacute;cil. Em portais e aplicativos de streaming de m&uacute;sica e v&iacute;deo,por exemplo, n&atilde;o h&aacute; qualquer inger&ecirc;ncia ou imposi&ccedil;&atilde;o de cotas para garantir o espa&ccedil;o do produto cultural brasileiro, ao contr&aacute;rio de salas de exibi&ccedil;&atilde;o e canais de TV, em que h&aacute; certo controle.Muitas dessas empresas est&atilde;o totalmente fora da nossa jurisdi&ccedil;&atilde;o.O produto cultural brasileiro precisa ser objeto de desejo do mundo todo e n&oacute;s temos condi&ccedil;&otilde;es para isso. Na &aacute;rea da m&uacute;sica, por exemplo, podemos dizer tranquilamente que a MPB, em termos de m&uacute;sica popular, &eacute; a mais importante do &uacute;ltimo s&eacute;culo depois da m&uacute;sica americana e da brit&acirc;nica, que s&atilde;o os donos da l&iacute;ngua franca. Isso n&atilde;o &eacute; pouca coisa, tanto em termos de cultura, de mercado cultural,quanto em termos simb&oacute;licos. E isso tamb&eacute;m vale para a moda, o design, o audiovisual, as artes visuais, o mercado editorial. Eu acredito de fato no potencial que o produto cultural brasileiro tem de ganhar os mercados do mundo. Ent&atilde;o, precisamos qualificar a oferta, identificar e resolver os gargalos de produ&ccedil;&atilde;o ou pelo menos contribuir para que o impacto deles seja o menor poss&iacute;vel.</p>
+																<p>[Vasconcelos] Hoje, o controle dos meios de difus&atilde;o cultural est&aacute; cada vez mais dif&iacute;cil. Em portais e aplicativos de streaming de m&uacute;sica e v&iacute;deo,por exemplo, n&atilde;o h&aacute; qualquer inger&ecirc;ncia ou imposi&ccedil;&atilde;o de cotas para garantir o espa&ccedil;o do produto cultural brasileiro, ao contr&aacute;rio de salas de exibi&ccedil;&atilde;o e canais de TV, em que h&aacute; certo controle.Muitas dessas empresas est&atilde;o totalmente fora da nossa jurisdi&ccedil;&atilde;o.O produto cultural brasileiro precisa ser objeto de desejo do mundo todo e n&oacute;s temos condi&ccedil;&otilde;es para isso. Na &aacute;rea da m&uacute;sica, por exemplo, podemos dizer tranquilamente que a MPB, em termos de m&uacute;sica popular, &eacute; a mais importante do &uacute;ltimo s&eacute;culo depois da m&uacute;sica americana e da brit&acirc;nica, que s&atilde;o os donos da l&iacute;ngua franca. Isso n&atilde;o &eacute; pouca coisa, tanto em termos de cultura, de mercado cultural,quanto em termos simb&oacute;licos. E isso tamb&eacute;m vale para a moda, o design, o audiovisual, as artes visuais, o mercado editorial. Eu acredito de fato no potencial que o produto cultural brasileiro tem de ganhar os mercados do mundo. Ent&atilde;o, precisamos qualificar a oferta, identificar e resolver os gargalos de produ&ccedil;&atilde;o ou pelo menos contribuir para que o impacto deles seja o menor poss&iacute;vel.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify"><em>[MinC] E na &aacute;rea de direitos intelectuais, que tamb&eacute;m ficar&aacute; a cargo da Secretaria da Economia da Cultura?</em></p>
+																<p><em>[MinC] E na &aacute;rea de direitos intelectuais, que tamb&eacute;m ficar&aacute; a cargo da Secretaria da Economia da Cultura?</em></p>
 
-																<p align="justify">[Vasconcelos] A &aacute;rea de direitos intelectuais &eacute; absolutamente essencial para a economia da cultura. O valor econ&ocirc;mico de um bem cultural nada mais &eacute; do que a soma do valor econ&ocirc;mico dos direitos adquiridos ao longo da sua cadeia de produ&ccedil;&atilde;o e &eacute; o direito intelectual que preserva o elemento humano dessa cadeia cada vez mais tecnol&oacute;gica. O criador &eacute; a base de tudo, sem ele n&atilde;o temos cultura. S&atilde;o os criadores,roteiristas, diretores, atores, compositores, produtores culturais que est&atilde;o com a m&atilde;o na massa, criando, desenvolvendo, investindo seu talento, seu tempo, seus recursos. A preserva&ccedil;&atilde;o dos direitos intelectuais &eacute; absolutamente fundamental e ser&aacute; tratada com muito respeito, porque disso depende a sustentabilidade, em longo prazo, de toda essa cadeia produtiva. &Eacute; essencial para a constru&ccedil;&atilde;o de um setor econ&ocirc;mico forte, coeso, solid&aacute;rio, internacionalizado e de vanguarda.</p>
+																<p>[Vasconcelos] A &aacute;rea de direitos intelectuais &eacute; absolutamente essencial para a economia da cultura. O valor econ&ocirc;mico de um bem cultural nada mais &eacute; do que a soma do valor econ&ocirc;mico dos direitos adquiridos ao longo da sua cadeia de produ&ccedil;&atilde;o e &eacute; o direito intelectual que preserva o elemento humano dessa cadeia cada vez mais tecnol&oacute;gica. O criador &eacute; a base de tudo, sem ele n&atilde;o temos cultura. S&atilde;o os criadores,roteiristas, diretores, atores, compositores, produtores culturais que est&atilde;o com a m&atilde;o na massa, criando, desenvolvendo, investindo seu talento, seu tempo, seus recursos. A preserva&ccedil;&atilde;o dos direitos intelectuais &eacute; absolutamente fundamental e ser&aacute; tratada com muito respeito, porque disso depende a sustentabilidade, em longo prazo, de toda essa cadeia produtiva. &Eacute; essencial para a constru&ccedil;&atilde;o de um setor econ&ocirc;mico forte, coeso, solid&aacute;rio, internacionalizado e de vanguarda.</p>
 
-																<p align="justify">
-																	<br>
-																</p>
+																<br/>
 
-																<p align="justify"><em>[MinC] Em rela&ccedil;&atilde;o &agrave;s ind&uacute;strias culturais de alta performance, qual vai ser o trabalho da secretaria?</em></p>
+																<p><em>[MinC] Em rela&ccedil;&atilde;o &agrave;s ind&uacute;strias culturais de alta performance, qual vai ser o trabalho da secretaria?</em></p>
 
-																<p align="justify">[Vasconcelos] Esta &eacute; uma ind&uacute;stria que, historicamente, tinha pouca rela&ccedil;&atilde;o como Minist&eacute;rio da Cultura, mas que agora estamos trazendo porque precisamos construir um setor unificado, precisamos que todo mundo participe da cadeia produtiva se compreenda como parte do mesmo setor. Sabemos que existem diverg&ecirc;ncias de interesses, mas isso n&atilde;o &eacute; uma exclusividade do setor cultural, acontece em qualquer setor econ&ocirc;mico e nosso trabalho &eacute; equilibrar o jogo e fazer com que todo mundo entenda que, apesar das diverg&ecirc;ncias, h&aacute; interesses convergentes que precisam ser trabalhados. Essas ind&uacute;strias de alta performance tamb&eacute;m sofrem com gargalos: &agrave;s vezes falta, por exemplo, m&atilde;o de obra especializada. O audiovisual &eacute; um caso cl&aacute;ssico, sempre tem demanda de profissionais qualificados e nem sempre encontra. Ent&atilde;o, n&oacute;s teremos programas de capacita&ccedil;&atilde;o voltados &agrave;s demandas do mercado em parceria com outras institui&ccedil;&otilde;es,como Sesc (Servi&ccedil;o Social do Com&eacute;rcio), Sesi (Servi&ccedil;o Social da Ind&uacute;stria), Sebrae (Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas), Senac (Servi&ccedil;o Nacional de Aprendizagem Comercial) e MEC (Minist&eacute;rio da Educa&ccedil;&atilde;o). Tamb&eacute;m &eacute; preciso investir na forma&ccedil;&atilde;o de gestores culturais, no fortalecimento e reconhecimento dessa categoria profissional. &Eacute; isso que vai dar o salto de qualidade para o nosso produto, porque talento a gente tem,o que falta &agrave;s vezes &eacute; um pouco de organiza&ccedil;&atilde;o e m&eacute;todo, e &eacute; a&iacute; que a secretaria vai atuar.</p>
+																<p>[Vasconcelos] Esta &eacute; uma ind&uacute;stria que, historicamente, tinha pouca rela&ccedil;&atilde;o como Minist&eacute;rio da Cultura, mas que agora estamos trazendo porque precisamos construir um setor unificado, precisamos que todo mundo participe da cadeia produtiva se compreenda como parte do mesmo setor. Sabemos que existem diverg&ecirc;ncias de interesses, mas isso n&atilde;o &eacute; uma exclusividade do setor cultural, acontece em qualquer setor econ&ocirc;mico e nosso trabalho &eacute; equilibrar o jogo e fazer com que todo mundo entenda que, apesar das diverg&ecirc;ncias, h&aacute; interesses convergentes que precisam ser trabalhados. Essas ind&uacute;strias de alta performance tamb&eacute;m sofrem com gargalos: &agrave;s vezes falta, por exemplo, m&atilde;o de obra especializada. O audiovisual &eacute; um caso cl&aacute;ssico, sempre tem demanda de profissionais qualificados e nem sempre encontra. Ent&atilde;o, n&oacute;s teremos programas de capacita&ccedil;&atilde;o voltados &agrave;s demandas do mercado em parceria com outras institui&ccedil;&otilde;es,como Sesc (Servi&ccedil;o Social do Com&eacute;rcio), Sesi (Servi&ccedil;o Social da Ind&uacute;stria), Sebrae (Servi&ccedil;o Brasileiro de Apoio &agrave;s Micro e Pequenas Empresas), Senac (Servi&ccedil;o Nacional de Aprendizagem Comercial) e MEC (Minist&eacute;rio da Educa&ccedil;&atilde;o). Tamb&eacute;m &eacute; preciso investir na forma&ccedil;&atilde;o de gestores culturais, no fortalecimento e reconhecimento dessa categoria profissional. &Eacute; isso que vai dar o salto de qualidade para o nosso produto, porque talento a gente tem,o que falta &agrave;s vezes &eacute; um pouco de organiza&ccedil;&atilde;o e m&eacute;todo, e &eacute; a&iacute; que a secretaria vai atuar.</p>
 
-																<p align="justify">&nbsp;</p>
+																<p>&nbsp;</p>
 
-																<p align="justify">Fonte: <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/%E2%80%9Cvocacao-para-economia-da-cultura-e-um-dos-ativos-do-brasil%E2%80%9D/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoriade Comunica&ccedil;&atilde;o</a> do Minist&eacute;rio da Cultura</p>
+																<p>Fonte: <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/%E2%80%9Cvocacao-para-economia-da-cultura-e-um-dos-ativos-do-brasil%E2%80%9D/10883?redirect=http%3A%2F%2Fwww.cultura.gov.br%2Fnoticias-destaques%3Fp_p_id%3D101_INSTANCE_OiKX3xlR9iTn%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_pos%3D2%26p_p_col_count%3D4">Assessoriade Comunica&ccedil;&atilde;o</a> do Minist&eacute;rio da Cultura</p>
 
 															</div>
 
@@ -1789,7 +2046,7 @@
 												</div>
 
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -1863,9 +2120,9 @@
 																	<br/>
 																</p>
 
-																<p class="text-center">
-																	<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image"/>
-																</p>
+																<div class="text-center">
+																	<img src="images/noticias/OBECsnoBrasil.png" alt="OBECs no Brasil" class="noticia-image"/>
+																</div>
 
 															</div>
 
@@ -1882,8 +2139,12 @@
 
 												</div>
 
+											</div>
+
+											<div class="new-page" id="2">
+
 												<!-- Notícia -->
-												<div class="noticia-container right">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -1931,17 +2192,6 @@
 																	Com informações de <a href="http://www.unisinos.br/noticias/universidade/curso-sobre-criatividade-em-parceria-com-nacoes-unidas">Unisinos</a>.
 																</p>
 
-																<img src="images/noticias/OBECsnoBrasil.png" class="noticia-image" usemap="#Map"/>
-																<map name="Map" id="Map">
-																    <area alt="" title="" href="#" shape="poly" coords="24,18,23,62,153,64,152,17" />
-																    <area alt="" title="" href="#" shape="poly" coords="242,17,242,59,375,62,376,16" />
-																    <area alt="" title="" href="#" shape="poly" coords="17,201,20,247,165,240,169,204" />
-																    <area alt="" title="" href="#" shape="poly" coords="16,257,17,300,142,297,146,258" />
-																    <area alt="" title="" href="#" shape="poly" coords="279,288,285,323,396,325,394,288" />
-																    <area alt="" title="" href="#" shape="poly" coords="235,347,240,385,320,383,321,345" />
-																</map>
-
-
 															</div>
 
 														</div>
@@ -1958,7 +2208,7 @@
 												</div>
 
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -1998,7 +2248,7 @@
 																	É possível realizar o download do estudo no <a href="http://www.worldcreative.org/">site</a>, onde estão disponíveis mais informações sobre a iniciativa.
 																</p>
 
-																<img src="images/noticias/UNESCOMapa.png" class="noticia-image"/>
+																<img src="images/noticias/UNESCOMapa.png" class="noticia-image" alt="Mapeamento Global UNESCO"/>
 
 															</div>
 
@@ -2015,12 +2265,8 @@
 
 												</div>
 
-											</div>
-
-											<div class="new-page" id="2">
-
 												<!-- Notícia -->
-												<div class="noticia-container right">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2072,7 +2318,7 @@
 																	Com informações de Alessandra de Paula, assessora de <a href="http://www.cultura.gov.br/noticias-destaques/-/asset_publisher/OiKX3xlR9iTn/content/brasil-marca-presenca-no-micsul-com-61-empreendedores/10883">Comunicação do Ministério da Cultura</a>.
 																</p>
 
-																<img src="images/noticias/micsul.png" class="noticia-image"/>
+																<img src="images/noticias/micsul.png" class="noticia-image" alt="MICSUL"/>
 
 															</div>
 
@@ -2090,7 +2336,7 @@
 												</div>
 												
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2126,7 +2372,7 @@
 																	Mais informações em <a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx">King’s College</a> e pelo e-mail brazil-institute@kcl.ac.uk.
 																</p>
 
-																<img src="images/noticias/ConferenciaLondres.png" class="noticia-image"/>
+																<img src="images/noticias/ConferenciaLondres.png" class="noticia-image" alt="Conferência em Londres"/>
 
 															</div>
 
@@ -2144,7 +2390,7 @@
 												</div>
 
 												<!-- Notícia -->
-												<div class="noticia-container right">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2192,7 +2438,7 @@
 																	Com informações de <a href="http://www.cultura.gov.br/o-dia-a-dia-da-cultura/-/asset_publisher/waaE236Oves2/content/programacoes-culturais-na-palma-da-mao/10883">MinC</a>.
 																</p>
 
-																<img src="images/noticias/culturi.png" class="noticia-image"/>
+																<img src="images/noticias/culturi.png" class="noticia-image" alt="Culturi"/>
 
 															</div>
 
@@ -2209,8 +2455,12 @@
 
 												</div>
 
+											</div>
+
+											<div class="new-page" id="3">
+
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2258,7 +2508,7 @@
 
 																</p>
 
-																<img src="images/noticias/FinancCulturaBanner.png" class="noticia-image"/>
+																<img src="images/noticias/FinancCulturaBanner.png" class="noticia-image" alt="Como Funciona o Financiamento a Cultura"/>
 
 															</div>
 
@@ -2274,9 +2524,9 @@
 													<div class="separador"></div>
 
 												</div>
-
+											
 												<!-- Notícia -->
-												<div class="noticia-container right">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2326,12 +2576,9 @@
 													<div class="separador"></div>
 
 												</div>
-											</div>
-
-											<div class="new-page" id="3">
-
+											
 												<!-- Notícia -->
-												<div class="noticia-container left">
+												<div class="noticia-container">
 													
 													<!-- cabeçalho -->
 													<div class="noticia-header">
@@ -2588,7 +2835,7 @@
 
 													<p>
 														<a href="http://www.cultura.gov.br/micsul2016" target="_blank">
-															<img src="images/icons/link.png" class="link-icon" />
+															<img src="images/icons/link.png" class="link-icon" alt="Leia Mais"/>
 															<span class="read-more-ev">Mais informações</span>
 														</a>
 													</p>
@@ -2618,7 +2865,7 @@
 
 													<p>
 														<a href="http://www.kcl.ac.uk/sspp/sga/kbi/NewsandEvents/eventrecords/Creative-Economy,-Culture-and-Development-in-Brazil-an-overview-about-the-academic-and-public-policy-agenda..aspx" target="_blank">
-															<img src="images/icons/link.png" class="link-icon" />
+															<img src="images/icons/link.png" class="link-icon" alt="Link"/>
 															<span class="read-more-ev">Mais informações</span>
 														</a>
 													</p>
@@ -2647,7 +2894,7 @@
 													</p>
 													<p>
 														<a href="http://www.ufrgs.br/obec/dialogos/" target="_blank">
-															<img src="images/icons/link.png" class="link-icon" />
+															<img src="images/icons/link.png" class="link-icon" alt="Link"/>
 															<span class="read-more-ev">Mais informações</span>
 														</a>
 													</p>
@@ -2676,7 +2923,7 @@
 													</p>
 													<p>
 														<a href="http://www.ufrgs.br/obec/dialogos/" target="_blank">
-															<img src="images/icons/link.png" class="link-icon" />
+															<img src="images/icons/link.png" class="link-icon" alt="Link"/>
 															<span class="read-more-ev">Mais informações</span>
 														</a>
 													</p>
@@ -2698,5 +2945,34 @@
 			</div><!-- /fim da agenda -->
 
 		</div>
+
+
+		<!-- === modal === -->
+		<div class="modal fade modal-img" id="intercambioImg" tabindex="-1" role="dialog" aria-labelledby="infoModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+  					
+  					<div class="modal-header">
+    					
+    					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+      						<span aria-hidden="true">&times;</span>
+    					</button>
+
+    				</div>
+  					
+  					<div class="modal-body">
+    					
+    					<img src="images/noticias/arteDoIntercambio.png" class="modal-image"/>
+
+  					</div>
+  					
+  					<div class="modal-footer">
+    					<button type="button" class="button small" data-dismiss="modal">Voltar</button>
+  					</div>
+				
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
 	</body>
 </html>

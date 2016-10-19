@@ -3,20 +3,16 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
 		<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
 		<link rel="stylesheet" type="text/css" href="../css/main.css">
-		<link rel="stylesheet" type="text/css" href="../css/desktop.css" media="screen and (min-width:768px) and (min-height: 700px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-width:767px)">
-		<link rel="stylesheet" type="text/css" href="../css/mobile.css" media="screen and (max-height:699px)">
-
 		<link rel="stylesheet" type="text/css" href="../css/admin.css">
-
-		<title>Painel ADM | OBEC RS</title>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 		<script type="text/javascript" src="../js/bootstrap.js"></script>
 		<script type="text/javascript" src="../js/main.js"></script>
 
+		<title>Painel ADM | OBEC RS</title>
 	</head>
 
 	<body class="admin">
@@ -24,7 +20,6 @@
 			
 			<!-- header -->
 			<div class="row admin-header home">
-
 				<div class="headerAdm-right">
 						
 					<!-- view! -->
@@ -47,7 +42,6 @@
 					</div>
 					
 				</div>
-
 			</div>
 			
 			<!-- resto do site! -->
@@ -68,9 +62,8 @@
 
 				</div>
 
+				<!-- */\/* opções *\/\* -->
 				<div class="optionsAdm-section text-center">
-
-					<!-- */\/* opções *\/\* -->
 					<a href="news.php" class="link">
 						<div class="contentAdm-icon">
 							<div class="contentAdm-img news"></div>
@@ -98,7 +91,6 @@
 							<p>EQUIPE</p>
 						</div>
 					</a>
-
 				</div>
 			</div>
 		</div>

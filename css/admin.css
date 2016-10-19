@@ -53,6 +53,22 @@
 	display: inline-block;
 	border: 1px solid white;
 }
+
+/* menu de logout */
+.dropdown-menu{
+	min-width: 153px;
+}
+.upArrow-icon{
+    position: absolute;
+    right: 6px;
+    top: -10px;
+    width: 0px !important;
+    height: 0px !important;
+    padding: 0px !important;
+    border-left: 10px solid transparent;
+    border-bottom: 10px solid white;
+    border-right: 10px solid transparent;
+}
 .headerAdm-button{
 	vertical-align: top;
 	display: inline-block;
@@ -66,12 +82,7 @@
 .headerAdm-button:hover{
 	border-color: rgba(256,256,256,.5);
 }
-.transparent-button{
-	background-color: transparent;
-	outline: none;
-	border: none;
-	padding: 0px;
-}
+/* pg inicial */
 .adm-brand{
 	position: absolute;
 	width: 100%;
@@ -117,20 +128,6 @@
 	border-top: 12px solid transparent;
 	border-bottom: 12px solid transparent;
 	margin-top: 4px;
-}
-.upArrow-icon{
-    position: absolute;
-    right: 6px;
-    top: -10px;
-    width: 0px !important;
-    height: 0px !important;
-    padding: 0px !important;
-    border-left: 10px solid transparent;
-    border-bottom: 10px solid white;
-    border-right: 10px solid transparent;
-}
-.dropdown-menu{
-	min-width: 153px;
 }
 .active .sidebarAdmLeft-arrow{
 	border-right: 12px solid #dfdcdc;
@@ -456,6 +453,15 @@
 	transform: rotate(90deg);
 }
 /*============= novo arquivo =================*/
+div.jHtmlArea{
+	background-color: white !important;
+}
+.jHtmlArea, .ToolBar{
+	width: 100% !important;
+}
+.ToolBar .h1, .ToolBar .h2, .ToolBar .h3, .ToolBar .h4, .ToolBar .h5, .ToolBar .h6{
+	margin: 0px !important;
+}
 .newFile-button{
 	width: 0px;
 	height: 0px;
